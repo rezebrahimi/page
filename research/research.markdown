@@ -20,6 +20,6 @@ permalink: /research/
 	<li><span style="font-weight: bold">Dissertation Summary:</span> Cyber-attacks are a great societal concern. Many organizations rely on manual collection of cyber threat intelligence (CTI) to mitigate attacks. However, the fast-paced growth of data sources precludes obtaining actionable intelligence via manual approaches or ad-hoc software agents. AI-enabled cybersecurity is an emerging approach that draws upon statistical and machine learning theories to invent AI agents that address this issue. These agents can automatically gather CTI at a large scale and improve incident response. Although promising, these agents are vulnerable to adversarial attacks from AI-enabled adversaries. Given the crucial need for effective, robust cybersecurity AI agents, my dissertation presents five essays contributing to two major areas of AI-enabled cybersecurity: (1) AI-enabled cyber threat identification in international online hacker communities (three essays) and (2) Robustness of cybersecurity AI agents against adversarial attacks (two essays).</li>
 </ul>
 <p>
-	<img src="ThesisBigPicture.jpg" alt="" height=750 width=1450></img>
+	<img src="ThesisBigPicture.jpg" alt="" height=750 width=1450>
 </p>
 </div>
