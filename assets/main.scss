@@ -1,12 +1,311 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-
+$content-width: 100%;
 @import "minima";
 .site-title::before {
-	content: url("/assets/drone.jpg");
-	display: inline-block;
-	position: relative;
-	width: 20px;
-	top: 5px;
+  content: "";
+  background-image:url("unnamed.jpg");
+  background-size: 100% 100%;
+  display: block;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+
+  /*size of your image*/
+  height: 190px;
+  width: 190px;
+
+  /*if you want to change the position you can use margins or:*/
+  position:relative;
 };
+.site-title {
+	@include relative-font-size(2);
+	font-weight: 500;
+	line-height: $base-line-height * $base-font-size * 3;
+	letter-spacing: -1px;
+	text-align: auto;
+	float: none;
+	background-color: #ffffff;
+}
+
+
+.site-nav {
+  float: right;
+  line-height: $base-line-height * $base-font-size * 2.25;
+  margin-left: $spacing-unit;
+
+
+  .nav-trigger {
+      display: none;
+  }
+
+  .menu-icon {
+    display: none;
+  }
+
+  .page-link {
+    color: $text-color;
+    line-height: $base-line-height;
+
+    // Gaps between nav items, but not on the last one
+    &:not(:last-child) {
+      margin-right: $spacing-unit;
+    }
+  }
+}
+
+div.navsame {
+	a {
+		color: $text-color;
+		line-height: $base-line-height;
+		float: right;
+		margin-top: $spacing-unit / 2;
+		margin-left: $spacing-unit;
+	}
+}
+
+.button {
+        display: inline-block;
+        padding: 5px 10px;
+		font-size: 12px;
+        text-align: center;
+        text-decoration: none;
+		font-weight: bold;
+        color: #ffffff;
+        background-color: #D06B82;
+        border-radius: 6px;
+        outline: none;
+		box-shadow: 1px 1px 1px #a2a2a2;
+      }
+.button2 {
+        display: inline-block;
+        padding: 5px 10px;
+		font-size: 12px;
+        text-align: center;
+        text-decoration: none;
+		font-weight: bold;
+        color: #ffffff;
+        background-color: #FB8864;
+        border-radius: 6px;
+        outline: none;
+		box-shadow: 1px 1px 1px #a2a2a2;
+      }  
+.button3 {
+        display: inline-block;
+        padding: 5px 10px;
+		font-size: 12px;
+        text-align: center;
+        text-decoration: none;
+		font-weight: bold;
+        color: #ffffff;
+        background-color: #FBC169;
+        border-radius: 6px;
+        outline: none;
+		box-shadow: 1px 1px 1px #a2a2a2;
+     }  
+.button4 {
+        display: inline-block;
+        padding: 5px 10px;
+		font-size: 12px;
+        text-align: center;
+        text-decoration: none;
+		font-weight: bold;
+        color: #ffffff;
+        background-color: #6b82d0;
+        border-radius: 6px;
+        outline: none;
+		box-shadow: 1px 1px 1px #a2a2a2;
+      } 
+
+.arrow {
+  border: solid black;
+  border-width: 0 1px 1px 0;
+  display: inline-block;
+  padding: 3px;
+}
+
+.right {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+
+/**
+ * Links
+ */
+a {
+  color: #ffffff;
+  text-decoration: none;
+
+  &:visited {
+    color: #ffffff;
+  }
+
+  &:hover {
+    color: $text-color;
+    text-decoration: underline;
+  }
+}
+a.googschol {
+  color: #D06B82;
+  font-weight:500;
+  text-decoration: none;
+
+  &:visited {
+    color: #D06B82;
+  }
+
+  &:hover {
+    color: darken(#D06B82, 15%);
+    text-decoration: underline;
+  }
+}
+a.rss {
+  float: right;
+  margin-left: $spacing-unit/4;
+  color: #2980B9;
+  font-weight:400;
+  text-decoration: underline;
+
+  &:visited {
+    color: #2980B9;
+  }
+
+  &:hover {
+    color: darken(#2980B9, 15%);
+    text-decoration: underline;
+  }
+}
+
+h1 {
+	font-weight: bold;
+	opacity: 0.8;
+} 
+i {
+	color: #6b82d0;
+	font-weight: bold;
+}
+/*in table*/
+p.title {
+	font-size: 18px;
+	white-space: nowrap;
+}
+span.author {
+	font-size: 13px;
+}
+span.paper {
+	font-size: 12px;
+}
+.redText {
+    color: #ff4d4d;
+	font-weight: bold;
+	text-decoration: underline;
+}
+ul.awards {
+  list-style-type: square;
+}
+li {
+  padding-bottom: 15px;
+}
+
+.table {
+  margin-bottom: $spacing-unit;
+  width: 100%;
+  text-align: $table-text-align;
+  color: lighten($text-color, 18%);
+  border-collapse: collapse;
+  border: 1px solid $grey-color-light;
+  tr {
+    background-color: lighten($grey-color-light, 6%);
+
+	&:hover {background-color: $grey-color-light;}
+
+  }
+  th, td {
+    padding: ($spacing-unit / 3) ($spacing-unit / 2);
+  }
+  th {
+    background-color: lighten($grey-color-light, 3%);
+    border: 1px solid darken($grey-color-light, 4%);
+    border-bottom-color: darken($grey-color-light, 12%);
+  }
+  td {
+    border: 1px solid $grey-color-light;
+  }
+}
+
+.table_header {
+  margin-top: 0;
+  margin-bottom: 5px;
+  width: 100%;
+  text-align: $table-text-align;
+  color: lighten($text-color, 18%);
+  border-collapse: collapse;
+  border: none;
+
+  tr {
+	&:nth-child(even) {
+      background-color: #ffffff;}
+
+  }
+  th, td {
+    padding: ($spacing-unit / 10) ($spacing-unit / 2);
+  }
+  th {
+
+  }
+  td {
+	text-align: center;
+	vertical-align: middle;
+	padding: 0;
+	border: transparent;
+  }
+}
+
+.labels tr td {
+	background-color: #2cc16a;
+	font-weight: bold;
+	color: #fff;
+}
+
+.label tr td label {
+	display: block;
+}
+
+
+[data-toggle="toggle"] {
+	display: none;
+}
+
+.hide {
+	display: none;
+}
+
+hr {
+	margin-right: -$spacing-unit 0;
+	margin-left: -$spacing-unit 0;
+	border: 0;
+	border-top: 1px solid $grey-color-light;
+	padding-bottom: 20px;
+}
+.foot {
+	content: "";
+	background-image:url("logo.png");
+	background-size: 100% 100%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
+	/*size of your image*/
+	height: 75px;
+	width: 150px;
+	
+	/*if you want to change the position you can use margins or:*/
+	position:relative;
+
+}
+.copyright {
+	font-size: 8px;
+	text-align: center;
+	margin-top:-2.5%
+}

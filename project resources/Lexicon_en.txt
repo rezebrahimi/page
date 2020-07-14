@@ -1,0 +1,1059 @@
+0 day
+0-day
+0day
+777
+7ev3n
+8lock8
+abaddonpos
+acc nr
+access
+access control
+access control mechanism
+account
+account
+account details
+account no.
+accounts
+acecard
+active attack
+active content
+adb.miner
+addown
+address
+advanced persistent threat
+adversary
+adwind
+adwind
+adylkuzz
+aes-ni
+agent smith
+agent tesla
+agent.jl
+aidra botnet
+air gap
+ako
+alert
+alfa
+alice
+alina
+alma locker
+alpha
+alpha crypt
+amnesia
+amnesia
+androrat
+angler
+anonpop
+anonymous
+anonymous
+antispyware
+antefrigus
+anti-detect
+antidetect
+antivirus
+anubi
+apocalypse
+apt ransomware v2.0
+asacub
+asruex
+asset
+astaroth
+asymmetric cryptography
+asymmetric key
+athenago
+atmii
+atmitch
+attack
+attack method
+attack mode
+attack path
+attack pattern
+attack signature
+attack surface
+attacker
+aurora/zorro
+authenticate
+authentication
+authenticity
+authorization
+autolocky
+availability
+azorult
+bachosens
+backdoor
+backdoor
+backoff
+backswap
+bad rabbit
+badblock
+baijiu
+bandarchor
+bank check
+bank login
+bankbot/spy banker
+bankosy
+bart
+bashliteqbot
+bayrob
+bedep
+behavior monitoring
+behavioral monitoring
+beta
+beta bot
+bianlian
+bin
+bin
+binder
+binders
+bit paymer
+bitkangoroo
+bitmessage
+bitstak
+bizarro sundown
+black ruby
+black shades
+blackenergy
+blackenergy
+blackhole
+blacklist
+blackmoon
+blackpos
+blackpos
+blue team
+bolek
+bondnet
+bot
+bot herder
+bot master
+botnet
+brain food
+brfighter
+brickerbot
+brute force
+brute force attack
+brute-force
+bruteforce
+btcware
+bucbi
+bug
+build security in
+business continuity plan
+bypass
+calisto
+calljam
+canceled check
+cancelled check
+cannon
+capability
+carberp
+carbon
+card
+card issuer
+cardable
+cardinal
+carding
+carding
+carding
+cards
+cash out
+cashing out
+cc
+centerpoint
+centerpos
+cepsohord
+cerber
+cerebrus
+certlock
+chamois
+chaos
+charger.b
+check
+cherry picker
+chimera
+china chopper
+chip
+chrysaor
+cipher
+ciphertext
+citadel
+citadel
+cloud computing
+computer forensics
+cn
+cobian
+cointicker
+coinvault
+coldroot rat
+computer network defense
+computer network defense analysis
+computer network defense infrastructure support
+computer security incident
+comrade circle
+confidentiality
+consequence
+contingency plan
+continuity of operations plan
+cookieminer
+copycat
+corebot
+counterfeit
+counterfeit
+coverton
+cowersnail
+cpumeaner
+crack
+crack
+cracker
+cradlecore
+crashoverride
+credit
+critical infrastructure
+critical infrastructure and key resources
+cross site script
+cross-site script
+crylocker
+crypboss
+crypmic
+crypren
+cryptanalysis
+crypter
+crypter
+cryptfile2/cryptomix
+cryptmix
+crypto
+cryptobit
+cryptographic algorithm
+cryptography
+cryptohost
+cryptojoker
+cryptology
+cryptoluck
+crypton
+cryptoroger
+cryptoshield 1.0
+cryptowall
+cryptowire
+cryptxxx
+crypy
+crysis/dharma
+ctb-faker
+ctb-locker
+customer service and technical support
+customquestion
+cuteransomware
+cutlet maker
+cutwail
+cvv
+cvv
+cvv
+cvv2
+cyber ecosystem
+cyber exercise
+cyber incident
+cyber incident response plan
+cyber infrastructure
+cyber operations
+cyber operations planning
+cybersecurity
+cyberspace
+danabot
+dark web
+data administration
+darkcomet
+darksky
+daserf
+data aggregation
+data breach
+data integrity
+data leak
+data leakage
+data keeper
+data loss
+data loss prevention
+data mining
+data spill
+data theft
+ddos
+decipher
+decode
+decrypt
+date of birth
+ddg
+deathring
+debit
+debit card
+decryption
+decryptormax
+ded cryptor
+deep web
+denial of service
+designed-in security
+digital forensics
+defray
+delilah
+deltacharlie
+dendroid
+derialock
+desert scorpion
+desucrypt
+detoxcrypto
+devilrobber
+dexter
+digital signature
+dimnie
+disaster recovery plan
+disruption
+distributed denial of service
+djvu/stop
+dma locker
+dns
+dnschanger
+dnsmessenger
+dob
+dofloo
+dogspectus
+dok
+domino
+dork
+dos
+doubledoor
+doublelocker
+dox
+dresscode
+dridex
+driver license
+driver's license
+driving license
+droidjack
+dropper
+dualtoy
+dualtoy
+dump
+dump
+dumps
+dvmap
+dxxd
+dyna-crypt
+dynamic attack surface
+dyre
+e-gift 
+ebay
+ech0raix
+education and training
+educrypt
+ego pay
+el gato
+electronic signature
+elf_imeij.a
+elf_persirai.a
+email
+emailpass
+emotet
+encipher
+encode
+encrypt
+encrypt
+encryption
+enterprise risk management
+epass
+erebus
+eris
+event
+evil maid attack
+ewind
+exaspy
+exfiltration
+exo/exobot
+exotic ransomware
+expensivewall
+expiration date
+exploit
+exploit
+exploitation
+exposure
+facexworm
+failure
+fakeapp
+fakebank
+fakedefender
+faketoken
+fallchill
+fallout
+falseguide
+fantom
+fareit
+fast flux
+fastpos
+fatboy
+fbi moneypak ransomware
+fenixlocker
+fiesta
+fighterpos
+filecoder.e
+filecoder.e
+fileslocker
+findzip
+fireball
+firecrypt
+firewall
+forensics
+flawedammyy
+fleercivet
+flocker
+floki bot
+floki bot
+flokibot
+flusihoc
+fobus
+formbook
+frameworkpos
+fraud
+fraud
+frauds
+frozrlock
+fruitfly
+fsociety
+fullz
+fusob
+gafgyt
+gandcrab
+gatak
+gazer
+gazon
+gcat
+ghost push
+ghostctrl
+ghostteam
+gibon
+globe
+globeimposter
+glupteba
+gm bot
+gm bot
+godless
+gooligan
+gootkit
+govrat
+gozi
+goznym
+gpaa
+gpcode
+gratefulpos
+gravityrat
+greendispenser
+grey hat
+guerilla
+gugi
+gunpoder
+gustuff
+h-w0rm
+hack
+hack
+hack
+hackbb
+hacked account
+hacker
+hacker
+hajime botnet
+hancitor
+hash
+hash value
+hashing
+hatman
+havex
+hawkeye
+hazard
+honey pot
+hc7
+hddcryptor
+heimdall
+hermes
+hidden tear
+hiddenminer
+hiddnad
+hide 'n seek
+hijack
+hitler-ransomware
+hlux
+holycrypt
+hummingbad
+iban
+icedid
+identity and access management
+identity management
+identity theft
+imeij
+impact
+incident
+incident management
+incident response
+incident response plan
+indicator
+industrial control system
+information assurance
+industroyer
+infection
+information assurance compliance
+information security
+information security policy
+information sharing
+information system resilience
+information systems security operations
+information technology
+infy
+insider threat
+integrity
+intelligence
+intent
+interoperability
+intrusion
+intrusion detection
+investigate
+investigation
+iot_reaper
+iotroop
+irc
+irc
+it asset
+jaff
+jailbreak
+japanlocker
+jenx
+jigsaw
+judy
+juicylemon
+karma
+karmen
+kazuar
+kelihos
+kevdroid
+key
+key pair
+key resource
+keylogger
+khrat
+killdisk
+kimcilware
+kingminer
+kirk
+kitty
+knowledge management
+koler
+komplex
+konni
+kovter
+kozyjozy
+kpot stealer
+kraken cryptor
+kronos
+kryptik
+kwampirs
+leakerlocker
+leet
+legal advice and advocacy
+licence
+license
+lightsout
+lilocked (lilu)
+linux.ddos.93
+linux.encoder
+linux.proxy.10
+linux.proxym
+linux/irctelnet
+linux/moose
+lizkebab
+loapi
+lockcrypt
+lockdroid.e
+locked-in
+lockergoga
+lockerpin
+lockid
+locklock
+lockpos
+locky
+login
+logins
+lokibot
+lookback
+lost door rat
+lost_files
+loudminer
+luabot
+luminositylink
+lurk
+m4n1f3sto
+machine learning and evolution
+macransom
+macransom
+macro virus
+macspy
+magala
+magniber
+magnitude
+majikpos
+maktub locker
+malicious applet
+malicious code
+malicious logic
+malware
+malumpos
+man in the middle
+man-in-the-middle
+mangit
+marcher
+marsjoke
+massminer
+masuta
+matrix
+matrix banker
+medusalocker
+megacortex
+merry x-mas
+methbot
+micropsia
+milkydoor
+mirai
+mirai
+mirai
+mitigation
+mircop
+mm core
+mm locker
+mnubot
+moneropay
+monsterinstall
+moonwind
+morder.a
+moving target defense
+mrblack
+msil/samas.a/samsam
+muldrop
+muldrop
+multigrain
+mysterybot
+nanocore
+nanolocker
+navrat
+necurs
+nemty
+nemucod
+nemucod
+neptune ek
+neteller
+netix
+netwire rat
+network resilience
+network services
+neutrino
+neverquest
+newposthings
+njrat
+non-repudiation
+noobcrypt
+norman
+novidade
+nuclear
+nuke
+nukesped
+nymaim
+object
+operational exercise
+operations technology
+oceanlotus
+odcodc
+odinaff
+olympic destroyer
+omnirat
+oopsie
+opentoyou
+opsec
+orcus rat
+ordinypt
+osx.creativeupdate
+outsider threat
+p2p
+pass
+ovidiy stealer
+ozozalocker
+padcrypt
+padodor
+panda banker
+paradise
+passive attack
+passport
+password
+password
+password
+password manager
+passwords
+passwords
+pastebin
+pawost
+payoneer
+paypal
+paypal
+payza
+pegasus
+pen test
+penetration
+penetration testing
+persirai
+personal identifying information
+personally identifiable information
+petrwrap
+petya
+petya
+pgp
+phish
+phished
+phishing
+phobos
+pii
+pinkkite
+pizzacrypts
+plaintext
+ploutus
+pluginphantom
+plugx
+plurox
+pnscan
+podec
+poison ivy
+pokemongo ransomware
+pony
+popcorn time
+poseidon
+poweliks
+power worm
+powerduke
+powerstat
+powerware
+powmet
+precursor
+preparedness
+prilex
+princess locker
+privacy
+private key
+private key
+proton
+prowli
+proxy
+pscrypt
+public key
+public key infrastructure
+punkey
+pupy
+purelocker
+pwned
+rainbow table
+pycl
+pycryptominer
+pyromine
+pyromineiot
+qadars
+qarallax
+qbot
+qkg
+quasar rat
+qulab
+r980
+raa
+radamant
+ragnarok
+rakos
+ramnit
+ranion
+ransoc
+ransom
+ransom
+ransom32
+ransom_blackheart
+ransomeware
+rapid ransomware
+rat
+rat
+ratattack
+ratsnif
+rawpos
+reaper
+reaver
+recovery
+red team
+red team exercise
+redboot
+reddrop
+redundancy
+rektlocker
+remcos
+remote
+rensenware
+resilience
+response
+response plan
+retefe
+revengerat
+rex
+reyptson
+rig
+ripper
+risk
+risk analysis
+risk assessment
+risk management
+risk mitigation
+roaming mantis
+robbinhood
+rokku
+rokrat
+rootkit
+rootnik
+rootnik.b
+routex
+rsautil
+runningrat
+ryuk
+sage
+sakula
+sanctions
+satan
+satana
+sathurbot
+sathurbot
+satori
+saturn ransomware
+scam
+scam
+scams
+scan
+scanner
+scanpos
+scarab
+scranos
+script
+scylex
+seaduke
+secret key
+securely provision
+security answers
+security automation
+security incident
+security policy
+security program management
+security question
+seduploader
+shakti
+shark
+shifr
+shifu
+shlayer
+shodan
+shortjsrat
+side channel attack
+sigma ransomware
+signature
+sigrun
+silence
+simple_encoder
+simplelocker
+simplocker
+situational awareness
+skimer
+skimmer
+skinner
+skipper
+skrill
+skyfin
+slembunk
+slembunk
+slicer
+smash!
+smominru
+smrss32
+sms thief
+smsvova
+snake
+snatch
+sniff
+sniffer
+snslocker
+soaksoak
+social engineering
+social security number
+sockbot
+sodinokibi
+software assurance
+sonicspy
+sorebrect
+spam
+spearphish
+spillage
+spoof
+spoofer
+spoofing
+spora
+spy
+spy-agent
+spydealer
+spynote
+spyware
+sql inject
+squirtdanger
+ssn
+stampado
+stantinko
+star wars
+steal
+stealth
+stealth
+stegano
+stintinko
+stolen
+stolen data
+stolich
+stonedrill
+storagecrypt
+strategic planning and policy development
+stuxnet
+subject
+suceful
+sundown
+sunorcal
+super clean plus
+supervisory control and data acquisition
+supply chain
+supply chain risk management
+supply chain threat
+svpeng
+swearing
+sweet orange
+switcher
+symmetric key
+synack
+synccrypt
+sysscan
+system administration
+system integrity
+systems development
+systems requirements planning
+systems security analysis
+systems security architecture
+tabletop exercise
+taidoor
+tailored trustworthy space
+targets
+telecrypt
+terdot
+terror
+teslacrypt
+thanatos
+themoon botnet
+threat
+threat actor
+threat agent
+threat analysis
+threat assessment
+ticket
+ticno
+tinba
+tizi
+toast amigo
+tofsee
+tool
+toolkit
+tordow
+torlus
+torrentlocker
+towerweb
+traffic light protocol
+treasurehunt
+triada
+trickbot
+triout
+trisis/triton
+triton
+trochilus
+trojan horse
+trojan.encoder.6491
+troldesh
+truecrypter
+twitoor
+tyrant
+uboatrat
+udpos
+uiwix
+unauthorized access
+unlock26
+unlock92
+unnam3d
+ursnif
+username
+username/password
+vcc
+velso ransomware
+venuslocker
+verification
+verified
+viking horde
+vin
+vindowslocker
+viperrat
+virlock
+virus
+virus
+voided check
+volgmer
+vpnfilter
+vuln
+vulnerabilities
+vulnerability
+vulnerability assessment and management
+wali
+wannacry
+wannacry
+wannahydra
+wannalocker
+warez
+weakness
+web money
+webmonitor
+white team
+whitelist
+wildfire
+windows mirai
+winnti
+winstarnssmminer
+wirelurker
+wirelurker
+wirex
+work factor
+worm
+wysiwye
+x-agent
+x-agent
+xbooster
+xcodeghost
+xdata
+xhelper
+xiny
+xloader
+xorist
+xpan
+xrtn
+xss
+xss
+yispecter
+zbot/zeus
+zcryptor
+zenis
+zero-day
+zerot
+zeus
+zimbra
+ziplocker
+zombie
+zoopark
+ztorg
+zyka
+zyklon
