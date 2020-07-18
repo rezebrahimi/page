@@ -194,7 +194,7 @@ layout: default
 					<br><span class="paper">IEEE Symposium on Security and Privacy (IEEE S&P), Deep Learning and Security Workshop, San Francisco, May 2020.</span></p>
 					<a class="button" href="#" onClick="return toggle('table3', 1)">Abstract</a>
 					<a class="button3" href="publications/DetectingCyberThreatsinNonEnglishHackerForums_AnAdversarialCrossLingualKnowledgeTransferApproach_Ebrahimi.pdf" target="_blank">PDF</a>
-					<a class="button4" href="https://www.ieee-security.org/TC/SPW2020/DLS/" target="_blank">DLS 2020</a>
+					<a class="button4" href="https://www.ieee-security.org/TC/SPW2020/DLS/" target="_blank">IEEE S&P'20 (DLS)</a>
 				</td>
 			</tr>
 			<tr style="display: none">
