@@ -121,10 +121,7 @@ Detection and Deep Learning
     - **Instructor:** Dr. Lusi Yang
 
 - **Teaching Assistant** (Concordia University):
-  - **COMP 6321 &quot;Machine Learning,&quot;** Graduate
-
-**Fall 2015**
-
+  - **COMP 6321 &quot;Machine Learning,&quot;** Graduate, **Fall 2015**
     - **Instructor:** Dr. Adam Krzyzak
     - Lecturer (one session), Course grader
 
