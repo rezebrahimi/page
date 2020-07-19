@@ -100,7 +100,7 @@ Detection and Deep Learning
 
 - **SaTC-DGE** (Secure &amp; trustworthy Cyberspace - Division of graduate Education), **Title:** Cybersecurity Big Data and Analytics Sharing Platform, **Source:** National Science Foundation (NSF) **, Reporting Year:** 2019 **, Grant No.:** 1719477, **Status:** Funded **, Funded Amount:** $180,000 **, Role:** Assisting Report writer.
 
-**teaching experience**
+**Teaching Experience**
 
 - **Instructor** (University of Arizona):
   - **MIS 562 &quot;Cyber Threat Intelligence,&quot;**** Graduate **level,** Online, Summer 2020**
