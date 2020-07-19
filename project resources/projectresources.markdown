@@ -15,7 +15,7 @@ permalink: /project resources/
 <a class = "rss" href="/project resources/Lexicon_en.txt" target="_blank">English [txt]</a>
 <i style="float:right;color:black;opacity:0.7">Download:</i>
 
-<p style="font-style:italic; font-size: 13px">Version 1, 2020, Ebrahimi, M. and Ireson, A.</p>
+<p style="font-style:italic; font-size: 13px">Version 1, 2020, Mohammadreza Ebrahimi, Ashley Ireson</p>
 
 <p style="font-weight:400; color:#797D7F">This is a working lexicon and we will provide updates as we come upon additional, relevant sources. Contributors, welcome!</p>
 
