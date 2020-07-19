@@ -183,7 +183,6 @@ Detection and Deep Learning
 **Alzahra University**  **2011-2013**
 
 - **Role:** Research associate (Crime data mining, text mining)
-
 - **Employer:** Dr. Mohammadreza Keyvanpour
 - **Address:** Computer Engineering Department, North Sheikh Bahaee St., Deh-e Vanak, Tehran, Iran, 1993891176.
 
@@ -195,7 +194,7 @@ Network Research Lab
 - **Employer:** Dr. Abdorasul Ghasemi
 - **Address:** Computer Engineering Department, Seyed Khandan, Shariati Ave., Tehran, Iran, 1631714191.
 
-**relevant skills**
+**Relevant Skills**
 
 **Data Mining and Machine Learning**
 
