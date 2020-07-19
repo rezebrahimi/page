@@ -1,4 +1,8 @@
-|
+---
+title: My CV
+permalink: /cv/
+---
+
 # **Mohammadreza Ebrahimi**  **Curriculum Vitae**
  |
 | --- |
