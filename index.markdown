@@ -41,7 +41,7 @@ layout: default
 			<td>
 				<p class="title">Semi-Supervised Cyber Threat Identification in Dark Net Markets: A Transductive and Deep Learning Approach
 				<br><span class="author">M. Ebrahimi, J. F. Nunamaker Jr., H. Chen</span>
-				<br><span class="paper">Journal of Management Information Systems (JMIS), Volume (38), Forthcoming.</span></p>
+				<br><span class="paper">Journal of Management Information Systems (JMIS), Volume (37), Forthcoming.</span></p>
 				<a class="button" href="#" onClick="return toggle('table1',1)">Abstract</a>
 				<a class="button4" href="https://www.jmis-web.org/issues" target="_blank">JMIS</a>
 			</td>

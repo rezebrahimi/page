@@ -6,15 +6,15 @@ permalink: /cv/
 
 # **Mohammadreza Ebrahimi**  **Curriculum Vitae**
 
-**E-mail:** ebrahimi@email.arizona.edu **, Website:** [https://mohammadrezaebrahimi.github.io](https://mohammadrezaebrahimi.github.io/)
+**E-mail:** ebrahimi@email.arizona.edu **, Website:** https://mohammadrezaebrahimi.github.io
 
 Artificial Intelligence Lab, 1130 E. Helen St. McClelland Hall 430, P.O. Box 210108, Tucson, Arizona 85721.
 
 **Education**
 
-- **Doctor of Philosophy (Ph.D.), The University of Arizona, 2016- 2021**
+- **Doctor of Philosophy (Ph.D.), The University of Arizona, 2016- 2021 (expected)**
 
-**Major:** Management Information Systems **(expected)**
+**Major:** Management Information Systems 
 
 **Minor:** Computational Linguistics
 
