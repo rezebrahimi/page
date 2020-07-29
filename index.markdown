@@ -328,6 +328,39 @@ layout: default
 	</tbody>
 </table>
 
+[//]: # ###################### Thesis ####################################
+
+
+<i>Master's Thesis</i>
+<table class="table" id="table2">
+	<tbody>
+			<tr>
+				<td>
+					<p class="title">Automatic Identification of Online Predators in Chat Logs by Anomaly Detection and Deep Learning
+					<br><span class="author">P. Du, N. Zhang, M. Ebrahimi et al.</span>
+					<br><span class="paper">Master's Thesis, Computer Science Department, Concordia University, Montreal 2016.</span></p>
+					<a class="button" href="#" onClick="return toggle('table3', 15)">Abstract</a>
+					<a class="button2" href="#" onClick="return toggle('table3', 16)">BibTeX</a>
+					<a class="button3" href="publications/Ebrahimi_MSc_S2016.pdf" target="_blank">PDF</a>
+					<a class="button4" href="https://spectrum.library.concordia.ca/981404/" target="_blank">IEEE ISI'18</a>					
+				</td>
+			</tr>
+			<tr style="display: none">
+				<td>Providing a safe environment for juveniles and children in online social networks is considered as a major factor in improving public safety. Due to the prevalence of the online conversations, mitigating the undesirable effects of juvenile abuse in cyberspace has become inevitable. Using automatic ways to address this kind of crime is challenging and demands efficient and scalable data mining techniques. The problem can be casted as a combination of textual preprocessing in data/text mining and binary classification in machine learning. This thesis proposes two machine learning approaches to deal with the following two issues in the domain of online predator identification: 1) The first problem is gathering a comprehensive set of negative training samples which is unrealistic due to the nature of the problem. This problem is addressed by applying an existing method for semi-supervised anomaly detection that allows the training process based on only one class label. The method was tested on two datasets; 2) The second issue is improving the performance of current binary classification methods in terms of classification accuracy and F1-score. In this regard, we have customized a deep learning approach called Convolutional Neural Network to be used in this domain. Using this approach, we show that the classification performance (F1-score) is improved by almost 1.7% compared to the classification method (Support Vector Machine). Two different datasets were used in the empirical experiments: PAN-2012 and SQ (Sûreté du Québec). The former is a large public dataset that has been used extensively in the literature and the latter is a small dataset collected from the Sûreté du Québec.</td>				
+			</tr>
+			<tr style="display: none">
+				<td>@phdthesis{ebrahimi2016automatic,
+						title={Automatic Identification of Online Predators in Chat Logs by Anomaly Detection and Deep Learning},
+						author={Ebrahimi, Mohammadreza},
+						year={2016},
+						school={Computer Science Department, Concordia University, Montreal, Canada}}
+				</td>
+			</tr>
+			
+
+	</tbody>
+</table>
+
 <hr>
 <div class="wrapper">
 <h1 id="awardAnch">AWARDS & HONORS</h1>
