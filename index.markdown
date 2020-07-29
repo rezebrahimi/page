@@ -208,7 +208,7 @@ layout: default
 					<a class="button" href="#" onClick="return toggle('table3', 3)">Abstract</a>
 					<a class="button2" href="#" onClick="return toggle('table3', 4)">BibTeX</a>
 					<a class="button3" href="publications/DetectingCyberThreatsinNonEnglishDarkNetMarkets_ACrossLingualTransferLearningApproach_Ebrahimi.pdf" target="_blank">PDF</a>
-					<a class="button4" href="http://isi18.azurewebsites.net/" target="_blank">IEEE ISI'18</a>
+					<a class="button4" href="https://ieeexplore.ieee.org/document/8587404" target="_blank">IEEE ISI'18</a>
 				</td>
 			</tr>
 			<tr style="display: none">
@@ -229,7 +229,7 @@ layout: default
 					<a class="button" href="#" onClick="return toggle('table3', 6)">Abstract</a>
 					<a class="button2" href="#" onClick="return toggle('table3', 7)">BibTeX</a>
 					<a class="button3" href="publications/RecognizingPredatoryChatDocumentsusingSemisupervisedAnomalyDetection_Ebrahimi.pdf" target="_blank">PDF</a>
-					<a class="button4" href="http://drr2016.loria.fr/" target="_blank">DRR'16</a>
+					<a class="button4" href="https://www.ingentaconnect.com/content/ist/ei/2016/00002016/00000017/art00012;jsessionid=1qmzcvjihppcn.x-ic-live-03" target="_blank">DRR'16</a>
 				</td>
 			</tr>
 			<tr style="display: none">
