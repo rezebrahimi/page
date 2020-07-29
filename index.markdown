@@ -342,7 +342,7 @@ layout: default
 					<a class="button" href="#" onClick="return toggle('table3', 15)">Abstract</a>
 					<a class="button2" href="#" onClick="return toggle('table3', 16)">BibTeX</a>
 					<a class="button3" href="publications/Ebrahimi_MSc_S2016.pdf" target="_blank">PDF</a>
-					<a class="button4" href="https://spectrum.library.concordia.ca/981404/" target="_blank">IEEE ISI'18</a>					
+					<a class="button4" href="https://spectrum.library.concordia.ca/981404/" target="_blank">Thesis, Concordia University</a>					
 				</td>
 			</tr>
 			<tr style="display: none">
