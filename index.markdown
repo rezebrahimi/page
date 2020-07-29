@@ -57,7 +57,7 @@ layout: default
 				<a class="button" href="#" onClick="return toggle('table1',3)">Abstract</a>
 				<a class="button2" href="#" onClick="return toggle('table1',4)">BibTeX</a>
 				<a class="button3" href="publications/InvoluntaryEmbarrassingExposuresinOnlineSocialNetworks_AReplicationStudy_Ebrahimi.pdf" target="_blank">PDF</a>
-				<a class="button4" href="https://aisel.aisnet.org/trr/" target="_blank">AIS TRR</a>
+				<a class="button4" href="https://aisel.aisnet.org/trr/vol5/iss1/7/" target="_blank">AIS TRR</a>
 			</td>
 		</tr>
 		<tr style="display: none">
@@ -77,7 +77,7 @@ layout: default
 				<a class="button" href="#" onClick="return toggle('table1',6)">Abstract</a>
 				<a class="button2" href="#" onClick="return toggle('table1',7)">BibTeX</a>
 				<a class="button3" href="publications/DetectingPredatoryConversationsinSocialMediabyDeepConvolutionalNeuralNetworks_Ebrahimi.pdf" target="_blank">PDF</a>
-				<a class="button4" href="https://www.journals.elsevier.com/digital-investigation" target="_blank">DI</a>
+				<a class="button4" href="https://www.sciencedirect.com/science/article/pii/S1742287616300731" target="_blank">DI</a>
 			</td>
 		</tr>
 		<tr style="display: none">
@@ -97,6 +97,7 @@ layout: default
 				<a class="button" href="#" onClick="return toggle('table1',9)">Abstract</a>
 				<a class="button2" href="#" onClick="return toggle('table1',10)">BibTeX</a>
 				<a class="button3" href="publications/AutomatedIdentificationofChildAbuseinChatRoomsbyUsingDataMining_Ebrahimi.pdf" target="_blank">PDF</a>
+				<a class="button4" href="https://www.igi-global.com/chapter/automated-identification-of-child-abuse-in-chat-rooms-by-using-data-mining/157462" target="_blank">DI</a>				
 			</td>
 		</tr>
 		<tr style="display: none">
@@ -117,7 +118,7 @@ layout: default
 				<a class="button" href="#" onClick="return toggle('table1',12)">Abstract</a>
 				<a class="button2" href="#" onClick="return toggle('table1',13)">BibTeX</a>
 				<a class="button3" href="publications/DesigningEfficientANNClassifiersforMatchingBurglariesfromDwellingHouses_Ebrahimi.pdf" target="_blank">PDF</a>
-				<a class="button4" href="https://www.tandfonline.com/toc/uaai20/26/8?nav=tocList" target="_blank">AAI</a>
+				<a class="button4" href="https://www.tandfonline.com/doi/full/10.1080/08839514.2012.718227" target="_blank">AAI</a>
 			</td>
 		</tr>
 		<tr style="display: none">
@@ -137,7 +138,7 @@ layout: default
 				<a class="button" href="#" onClick="return toggle('table1',15)">Abstract</a>
 				<a class="button2" href="#" onClick="return toggle('table1',16)">BibTeX</a>
 				<a class="button3" href="publications/AHybridGeospatialDataClusteringMethodforHotspotAnalysis_Ebrahimi.pdf" target="_blank">PDF</a>
-				<a class="button4" href="http://www.qjcr.ir/" target="_blank">JCR</a>
+				<a class="button4" href="http://www.qjcr.ir/article_616.html" target="_blank">JCR</a>
 			</td>
 		</tr>
 		<tr style="display: none">
