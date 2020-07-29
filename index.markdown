@@ -249,7 +249,7 @@ layout: default
 					<a class="button" href="#" onClick="return toggle('table3', 9)">Abstract</a>
 					<a class="button2" href="#" onClick="return toggle('table3', 10)">BibTeX</a>
 					<a class="button3" href="publications/IdentifyingHighImpactOpioidProducts&KeySellersinDarkNetMarketplaces_AnInterpretableTextAnalyticsApproach_Ebrahimi.pdf" target="_blank">PDF</a>
-					<a class="button4" href="https://www.ieee-itss.org/isi" target="_blank">IEEE ISI</a>
+					<a class="button4" href="https://ieeexplore.ieee.org/document/8823196" target="_blank">IEEE ISI'19</a>
 				</td>
 			</tr>
 			<tr style="display: none">
@@ -270,7 +270,7 @@ layout: default
 					<a class="button" href="#" onClick="return toggle('table3', 12)">Abstract</a>
 					<a class="button2" href="#" onClick="return toggle('table3', 13)">BibTeX</a>
 					<a class="button3" href="publications/DarkNetEcosystemCyberThreatIntelligence(CTI)Tool_Ebrahimi.pdf" target="_blank">PDF</a>
-					<a class="button4" href="https://www.ieee-itss.org/isi" target="_blank">IEEE ISI</a>
+					<a class="button4" href="https://ieeexplore.ieee.org/abstract/document/8823501" target="_blank">IEEE ISI'19</a>
 				</td>
 			</tr>
 			<tr style="display: none">
@@ -313,7 +313,7 @@ layout: default
 					<a class="button" href="#" onClick="return toggle('table3', 18)">Abstract</a>
 					<a class="button2" href="#" onClick="return toggle('table3', 19)">BibTeX</a>
 					<a class="button3" href="publications/DetectingandInvestigatingCrimebyMeansofDataMining_AGeneralCrimeMatchingFramework_Ebrahimi.pdf" target="_blank">PDF</a>
-					<a class="button4" href="http://www.worldcist.org/" target="_blank">WorldCIST</a>
+					<a class="button4" href="https://www.sciencedirect.com/science/article/pii/S1877050910005181" target="_blank">WorldCIST</a>
 				</td>
 			</tr>
 			<tr style="display: none">
