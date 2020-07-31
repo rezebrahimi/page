@@ -70,7 +70,7 @@ Detection and Deep Learning
 
 - **M. Ebrahimi** , N. Zhang, J. Hu, H. Chen, &quot;Evading Deep Learning-based Malware Detectors with Adversarial Example Generation: A Recurrent Neural Network Approach,&quot; to be submitted to the Journal of Management Information Systems (JMIS).
 
-**Refereed Conference proceedings Publications (Presented)**
+**Refereed Conference proceedings Publications**
 
 - **M. Ebrahimi** , S. Samtani, Y. Chai, H. Chen, &quot;Detecting Cyber Threats in Non-English Hacker Forums: An Adversarial Cross-Lingual Knowledge Transfer Approach,&quot; **IEEE Symposium on Security and Privacy (IEEE S&amp;P)**, Deep Learning and Security Workshop, May 2020, San Francisco.
 
@@ -128,15 +128,11 @@ Detection and Deep Learning
 **Professional Affiliations**
 
 - Association of Information Systems (AIS), Student Member
-
 - Association of Computing Machinery (ACM), Student Member
-
 - Institute of Electrical and Electronics Engineers (IEEE), Student Member
-
 - Institute for Operations Research and the Management Sciences (INFORMS), Student Member
 
 **Professional services (Reviewed Journals &amp; conferences)**
-
 - **Journal Reviews**
   - Journal of Management Information Systems (JMIS): 4 reviews, 2019-2020
   - International Journal of Electronic Commerce (IJEC): 1 review, 2020
@@ -151,7 +147,6 @@ Detection and Deep Learning
   - Design Science Research in Information Systems &amp; Technology (DESRIST): June 2019
 
 **Awards &amp; Honors**
-
 - Department Candidate for Doctoral Consortium, International Conference on Information Systems (ICIS), 2020.
 - IEEE S&amp;P Student Travel and Registration Award for Deep Learning and Security Workshop, May 2020.
 - IEEE ISI 2018 Best Paper Award Runner-up, November 9, 2018 (First author of the paper titled: Detecting Cyber Threats in Non-English Dark Net Markets: A Cross-Lingual Transfer Learning Approach).
@@ -162,161 +157,113 @@ Detection and Deep Learning
 - Ranked 1st Student of the university in fall 2007 and spring 2008 with GPA of 18.43/20.00 and 19.50/20.00, respectively.
 
 **Research &amp; Work ExperiencE**
-
-**Artificial Intelligence Lab, Eller College of Management, University of Arizona**  **2016-**** Now**
-
-- **Role:** Research associate (AI-enabled cybersecurity)
-- **Advisor:** Dr. Hsinchun Chen
-- **Address:** 1130 E. Helen St. McClelland Hall 430, P.O. Box 210108, Tucson, Arizona 85721, phone: (520) 621-6219
+- **Artificial Intelligence Lab, Eller College of Management, University of Arizona**  **2016-**** Now**
+  - **Role:** Research associate (AI-enabled cybersecurity)
+  - **Advisor:** Dr. Hsinchun Chen
+  - **Address:** 1130 E. Helen St. McClelland Hall 430, P.O. Box 210108, Tucson, Arizona 85721, phone: (520) 621-6219
 
 **Centre of Pattern Recognition and Machine Intelligence at Concordia University**  **2014-2016**
-
-- **Role:** Research assistant (Social media analytics for online predator identification).
-- **Advisor:** Dr. Ching Y. Suen
-- **Address:** Computer Science &amp; Software Engineering (CSE) Department, EV 11.155, 1455 de Maisonneuve West Montréal, Québec, Canada H3G 1M8.
+  - **Role:** Research assistant (Social media analytics for online predator identification).
+  - **Advisor:** Dr. Ching Y. Suen
+  - **Address:** Computer Science &amp; Software Engineering (CSE) Department, EV 11.155, 1455 de Maisonneuve West Montréal, Québec, Canada H3G 1M8.
 
 **SAP Canada (Internship)** **2015-2015 (****4-month internship****)**
-
-- **Role**** :** Data &amp; Software Engineer (Users behavior analysis for order management systems)
-- **Address:** 999 Boulevard de Maisonneuve West Montreal, Quebec H3A 3L4 Canada.
+  - **Role**** :** Data &amp; Software Engineer (Users behavior analysis for order management systems)
+  - **Address:** 999 Boulevard de Maisonneuve West Montreal, Quebec H3A 3L4 Canada.
 
 **Alzahra University**  **2011-2013**
-
-- **Role:** Research associate (Crime data mining, text mining)
-- **Employer:** Dr. Mohammadreza Keyvanpour
-- **Address:** Computer Engineering Department, North Sheikh Bahaee St., Deh-e Vanak, Tehran, Iran, 1993891176.
+  - **Role:** Research associate (Crime data mining, text mining)
+  - **Employer:** Dr. Mohammadreza Keyvanpour
+  - **Address:** Computer Engineering Department, North Sheikh Bahaee St., Deh-e Vanak, Tehran, Iran, 1993891176.
 
 **K.N. Toosi University** **2012-2012 (7 months)**
-
 Network Research Lab
 
-- **Role:** Research associate (Network Traffic Estimation and Prediction)
-- **Employer:** Dr. Abdorasul Ghasemi
-- **Address:** Computer Engineering Department, Seyed Khandan, Shariati Ave., Tehran, Iran, 1631714191.
+  - **Role:** Research associate (Network Traffic Estimation and Prediction)
+  - **Employer:** Dr. Abdorasul Ghasemi
+  - **Address:** Computer Engineering Department, Seyed Khandan, Shariati Ave., Tehran, Iran, 1631714191.
 
 **Relevant Skills**
 
-**Data Mining and Machine Learning**
+  **Data Mining and Machine Learning**
 
-- Deep Learning for Text and Image
-- Text Mining and Information Retrieval
-- **Big Data Tools:** Hadoop, Spark
-- **Data Mining:** RapidMiner, SPSS, WEKA
-- Developing new Data Mining Algorithms for RapidMiner
-- Dimensionality Reduction Techniques (SVD, PCA, Supervised Feature Selection)
-- **Open-source Machine Learning Tools:** S-Space Library, JavaML Library, LibSVM Library, Autoclass, Waffles machine learning toolkit
+    - Deep Learning for Text and Image
+    - Text Mining and Information Retrieval
+    - **Big Data Tools:** Hadoop, Spark
+    - **Data Mining:** RapidMiner, SPSS, WEKA
+    - Developing new Data Mining Algorithms for RapidMiner
+    - Dimensionality Reduction Techniques (SVD, PCA, Supervised Feature Selection)
+    - **Open-source Machine Learning Tools:** S-Space Library, JavaML Library, LibSVM Library, Autoclass, Waffles machine learning toolkit
+  **Programming and Software Engineering**
+    - Object Oriented Analysis and Design
+    - **Programming Languages:** Python, Java, R, C/C++, C#
+    - **Database:** MySQL, Microsoft SQL Server, Mongo DB, PostgreSQL
+    - Rational Unified Process (RUP), Agile Scrum
+    - Software Requirement Analysis, Use-case point estimation
+    - **Source code/build management:** Git, SVN, Jenkins
+    - Unified Modeling Language (UML): UML 2.0
+    - **IDEs and Tools:** Eclipse, Microsoft Visual Studio
+  **Essentials**
+    - **Operating System:** Linux, Microsoft Windows
+    - **Typesetting:** LATEX, Microsoft Office
 
-**Programming and Software Engineering**
+**Selected graduate and Undergraduate Courses**
 
-- Object Oriented Analysis and Design
-- **Programming Languages:** Python, Java, R, C/C++, C#
-- **Database:** MySQL, Microsoft SQL Server, Mongo DB, PostgreSQL
-- Rational Unified Process (RUP), Agile Scrum
-- Software Requirement Analysis, Use-case point estimation
-- **Source code/build management:** Git, SVN, Jenkins
-- Unified Modeling Language (UML): UML 2.0
-- **IDEs and Tools:** Eclipse, Microsoft Visual Studio
+  **Graduate:**
+  Statistical Machine Learning, Machine Learning, Theory of Probability, Pattern Recognition, Statistical Natural Language Processing, Natural Language Understanding, Advanced Computational Linguistics, Cyber Threat Intelligence, Information Security Risk Management, Software Requirement Analysis, Enterprise Data Management
 
-**Essentials**
-
-- **Operating System:** Linux, Microsoft Windows
-- **Typesetting:** LATEX, Microsoft Office
-
-**selected graduate and Undergraduate Courses**
-
-**Graduate:**
-
-Statistical Machine Learning, Machine Learning, Theory of Probability, Pattern Recognition, Statistical Natural Language Processing, Natural Language Understanding, Advanced Computational Linguistics, Cyber Threat Intelligence, Information Security Risk Management, Software Requirement Analysis, Enterprise Data Management
-
-**Undergraduate:**
-
-Artificial Intelligence, Neural Networks, Software Requirement Analysis, Decision Support Systems, Foundation of Compiler Design, Operating Systems, Software Engineering (I and II), Database Design, Object-Oriented Analysis &amp; Design, Web Programming
+  **Undergraduate:**
+  Artificial Intelligence, Neural Networks, Software Requirement Analysis, Decision Support Systems, Foundation of Compiler Design, Operating Systems, Software Engineering (I and II), Database Design, Object-Oriented Analysis &amp; Design, Web Programming
 
 **References**
-
 - **Hsinchun Chen, Ph.D. (Dissertation Committee Chair)**
-
 Professor, University of Arizona,
-
 Department of Management Information Systems, 1130 E. Helen St., McClelland Hall 430, Tucson, AZ 85721
-
 **e-mail:** [hchen@eller.arizona.edu](mailto:hchen@eller.arizona.edu)
-
 **Phone:** +1 (520) 621-6219
 
 - **Sue Brown, Ph.D. (Dissertation Committee Member)**
-
 Professor &amp; Department Head, University of Arizona, Department of Management Information Systems, Eller College of Management,
-
 1130 E. Helen St., McClelland Hall 430Q
-
 Tucson, AZ 85721
-
 **e-mail:** suebrown@eller.arizona.edu
-
-**Phone:** +1 (520)-621-2429
+**Phone:** +1 (520) 621-2429
 
 - **Jay F. Nunamaker Jr., Ph.D. (Dissertation Committee Member)**
-
 Professor, University of Arizona,
-
 Department of Management Information Systems, 1130 E. Helen St., McClelland Hall 430, Tucson, Arizona 85721
-
 **e-mail:** [jnunamaker@cmi.arizona.edu](mailto:jnunamaker@cmi.arizona.edu)
-
-**Phone:** ([520) 621-4475](tel:520-621-4475)
+**Phone:** (520) 621-4475)
 
 - **Mihai Surdeanu, Ph.D. (Minor Advisor)**
-
 Professor, University of Arizona,
-
 Computer Science Department, Gould-Simpson 745
- 1040 E. 4th St., Tucson, AZ 85721
-
+1040 E. 4th St., Tucson, AZ 85721
 **e-mail:** msurdeanu@email.arizona.edu
 
 - **Helen Hao Zhang, Ph.D. (co-author)**
-
 Professor, University of Arizona,
-
 Department of Mathematics, 617 North Santa Rita Ave., ENR2 S323,
-
 **e-mail:** hzhang@math.arizona.edu
-
 **Phone:** (520) 621-6868
 
 - **Ching Y. Suen, Ph.D. (Master&#39;s Advisor)**
-
 Professor, Concordia University, Computer Science &amp; Software Engineering (CSE) Department, EV 3.105, 1455 de Maisonneuve West
-
 Montréal, Québec, Canada H3G 1M8
-
 **e-mail:** suen@cse.concordia.ca
-
 **Phone:** (514) 848-2424 (ext.3006)
 
 - **Olga Ormandjieva, Ph.D. (Master&#39;s Advisor)**
-
 Professor, Concordia University, Computer Science &amp; Software Engineering (CSE) Department, EV 3.165, 1455 de Maisonneuve West
-
 Montréal, Québec, Canada H3G 1M8
-
 **e-mail:** ormandj@cse.concordia.ca
-
 **Phone:** (514) 848-2424 (ext.7810)
-
 **Fax:** (514) 848-2830
 
 - **Adam Krzyzak, Ph.D. (co-author)**
-
 Professor, Concordia University,
-
 Computer Science &amp; Software Engineering (CSE) Department, EV 3.279, 1455 de Maisonneuve West
-
 Montréal, Québec, Canada H3G 1M8
-
 **e-mail:** krzyzak@cse.concordia.ca
-
 **Phone:** (514) 848-2424 (ext. 3007)
-
 **Fax:** (514) 848-2830
