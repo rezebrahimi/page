@@ -185,7 +185,7 @@ Network Research Lab
 
 **Relevant Skills**
 
-  **Data Mining and Machine Learning**
+  - **Data Mining and Machine Learning**
 
     - Deep Learning for Text and Image
     - Text Mining and Information Retrieval
@@ -194,7 +194,8 @@ Network Research Lab
     - Developing new Data Mining Algorithms for RapidMiner
     - Dimensionality Reduction Techniques (SVD, PCA, Supervised Feature Selection)
     - **Open-source Machine Learning Tools:** S-Space Library, JavaML Library, LibSVM Library, Autoclass, Waffles machine learning toolkit
-  **Programming and Software Engineering**
+	
+  - **Programming and Software Engineering**
     - Object Oriented Analysis and Design
     - **Programming Languages:** Python, Java, R, C/C++, C#
     - **Database:** MySQL, Microsoft SQL Server, Mongo DB, PostgreSQL
@@ -203,7 +204,7 @@ Network Research Lab
     - **Source code/build management:** Git, SVN, Jenkins
     - Unified Modeling Language (UML): UML 2.0
     - **IDEs and Tools:** Eclipse, Microsoft Visual Studio
-  **Essentials**
+  - **Essentials**
     - **Operating System:** Linux, Microsoft Windows
     - **Typesetting:** LATEX, Microsoft Office
 
