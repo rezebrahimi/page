@@ -220,7 +220,7 @@ Network Research Lab
 - **Hsinchun Chen, Ph.D. (Dissertation Committee Chair)**
 Professor, University of Arizona,
 Department of Management Information Systems, 1130 E. Helen St., McClelland Hall 430, Tucson, AZ 85721
-**e-mail:** [hchen@eller.arizona.edu](mailto:hchen@eller.arizona.edu)
+**e-mail:** hchen@eller.arizona.edu
 **Phone:** +1 (520) 621-6219
 
 - **Sue Brown, Ph.D. (Dissertation Committee Member)**
@@ -233,8 +233,8 @@ Tucson, AZ 85721
 - **Jay F. Nunamaker Jr., Ph.D. (Dissertation Committee Member)**
 Professor, University of Arizona,
 Department of Management Information Systems, 1130 E. Helen St., McClelland Hall 430, Tucson, Arizona 85721
-**e-mail:** [jnunamaker@cmi.arizona.edu](mailto:jnunamaker@cmi.arizona.edu)
-**Phone:** (520) 621-4475)
+**e-mail:** jnunamaker@cmi.arizona.edu
+**Phone:** (520) 621-4475
 
 - **Mihai Surdeanu, Ph.D. (Minor Advisor)**
 Professor, University of Arizona,
