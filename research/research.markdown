@@ -11,7 +11,8 @@ permalink: /research/
 <i>INTERESTS</i>
 <ul class="awards">
 	<li><span style="font-weight: bold">AI-enabled Security Analytics:</span> Adversarially Robust AI Agents, Cross-lingual Cybersecurity Analytics,  Automatic Cyber Threat Identification</li>
-	<li><span style="font-weight: bold">Business Intelligence and Analytics:</span> Social Media Analytics, Multilingual Product Review Analysis in E-commerce</li>
+	<li><span style="font-weight: bold">Statistical Machine Learning and AI:</span> Adversarial Machine Learning, Transfer Learning and Domain Adaptation, Cross-lingual Knowledge Transfer, Reinforcement Learning, Deep Learning</li>
+	<li><span style="font-weight: bold">Business Intelligence and Analytics:</span> Social Media Analytics, Multilingual Product Review Analysis in E-commerce</li>	
 	<li><span style="font-weight: bold">Crime Data Mining:</span> Online Predator Identification in Social Media, Supervised Methods for Categorizing Behavior of Offenders in Crime Incidents</li>
 </ul>
 <i>PHD DISSERTATION</i>
