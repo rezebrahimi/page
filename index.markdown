@@ -41,7 +41,7 @@ layout: default
 			<td>
 				<p class="title">Semi-Supervised Cyber Threat Identification in Dark Net Markets: A Transductive and Deep Learning Approach
 				<br><span class="author">M. Ebrahimi, J. F. Nunamaker Jr., H. Chen</span>
-				<br><span class="paper">Journal of Management Information Systems (JMIS), Volume 37(3)), Forthcoming.</span></p>
+				<br><span class="paper">Journal of Management Information Systems (JMIS), Volume 37(3), Forthcoming.</span></p>
 				<a class="button" href="#" onClick="return toggle('table1',1)">Abstract</a>
 				<a class="button4" href="https://www.jmis-web.org/issues" target="_blank">JMIS</a>
 			</td>
@@ -331,16 +331,16 @@ layout: default
 [//]: # ###################### Thesis ####################################
 
 
-<i>Master's Thesis</i>
-<table class="table" id="table2">
+<i>MASTER's THESIS</i>
+<table class="table" id="table4">
 	<tbody>
 			<tr>
 				<td>
 					<p class="title">Automatic Identification of Online Predators in Chat Logs by Anomaly Detection and Deep Learning
 					<br><span class="author">P. Du, N. Zhang, M. Ebrahimi et al.</span>
 					<br><span class="paper">Master's Thesis, Computer Science Department, Concordia University, Montreal 2016.</span></p>
-					<a class="button" href="#" onClick="return toggle('table3', 15)">Abstract</a>
-					<a class="button2" href="#" onClick="return toggle('table3', 16)">BibTeX</a>
+					<a class="button" href="#" onClick="return toggle('table4', 1)">Abstract</a>
+					<a class="button2" href="#" onClick="return toggle('table4', 2)">BibTeX</a>
 					<a class="button3" href="publications/Ebrahimi_MSc_S2016.pdf" target="_blank">PDF</a>
 					<a class="button4" href="https://spectrum.library.concordia.ca/981404/" target="_blank">Thesis</a>					
 				</td>
