@@ -1,47 +1,50 @@
-# **Mohammadreza Ebrahimi**  **Curriculum Vitae**
+---
+layout: default
+title: My CV
+permalink: /my cv/
+---
+<div class="wrapper" markdown="1" style="border-bottom: 1px solid $grey-color-light; padding-bottom: 20px">
 
-**E-mail:** ebrahimi@email.arizona.edu **, Phone:** (520) 312 0333
 
-**Website:** [https://mohammadrezaebrahimi.github.io](https://mohammadrezaebrahimi.github.io/)
+# **MOHAMMADREZA EBRAHIMI**  **CURRICULUM VITAE**
 
-Artificial Intelligence Lab, 1130 E. Helen St. McClelland Hall 430, Tucson, Arizona 85721.
+**E-mail:** ebrahimi@email.arizona.edu **, Phone:** (520) 312-0333, **Website:** [https://mohammadrezaebrahimi.github.io](https://mohammadrezaebrahimi.github.io/)
+<br>Artificial Intelligence Lab, 1130 E. Helen St. McClelland Hall 430, Tucson, Arizona 85721.
 
-# Education
+<p style="font-size: 22px; font-weight: bold; font-style: italic; text-decoration:underline">EDUCATION</p>
 
 - **Doctor of Philosophy (Ph.D.), The University of Arizona 2016- 2021**
 
-**Major:** Management Information Systems (**expected)**
+	**Major:** Management Information Systems (**expected**)
 
-**Minor:** Computational Linguistics
+	**Minor:** Computational Linguistics
 
 - **Master of Science, Concordia University, Montreal 2014- 2016**
 
-**Major:** Computer Science
+	**Major:** Computer Science
 
-**Thesis Title:** Automatic Identification of Online Predators in Chat Logs by Anomaly
-
-Detection and Deep Learning
+	**Thesis Title:** Automatic Identification of Online Predators in Chat Logs by Anomaly Detection and Deep Learning
 
 - **Bachelor of Science, Azad University at Qazvin 2004- 2008**
 
-**Major:** Computer Science and Engineering
+	**Major:** Computer Science and Engineering
 
-**Thesis Title:** A Framework for Intelligent Crime Matching with Neural Network
+	**Thesis Title:** A Framework for Intelligent Crime Matching with Neural Network
 
-# research Interests
+<p style="font-size: 22px; font-weight: bold; font-style: italic; text-decoration:underline">RESEARCH INTERESTS</p>
 
 - **AI-enabled Security Analytics:** Adversarially Robust AI Agents, Cross-lingual Cybersecurity Analytics, Automatic Cyber Threat Identification
 - **Business Intelligence and Analytics:** Social Media Analytics, Multilingual Product Review Analysis in E-commerce
 - **Statistical Machine Learning and AI:** Adversarial Machine Learning,Transfer Learning and Domain Adaptation, Cross-lingual Knowledge Transfer, Reinforcement Learning, Deep Learning
 - **Crime Data Analytics:** Online Predator Identification in Social Media, Supervised Methods for Categorizing Behavior of Offenders in Crime Incidents
 
-# Doctoral Dissertation
+<p style="font-size: 22px; font-weight: bold; font-style: italic; text-decoration:underline">DOCTORAL DISSERTATION</p>
 
 - **Thesis Title:** AI-enabled Cybersecurity Analytics with Transductive Learning, Transfer Learning, Adversarial Learning, and Reinforcement Learning Theory
 - **Committee:** Dr. Hsinchun Chen (Chair), Dr. Sue Brown, Dr. Jay F. Nunamaker, Dr. Mihai Surdeanu
 - **Dissertation Summary:** Cyber-attacks are a great societal concern. Many organizations rely on manual collection of cyber threat intelligence (CTI) to mitigate attacks. However, the fast-paced growth of data sources precludes obtaining actionable intelligence via manual approaches or ad-hoc software agents. AI-enabled cybersecurity is an emerging approach that draws upon statistical and machine learning theories to invent AI agents that address this issue. These agents can automatically gather CTI at a large scale and improve incident response. Although promising, these agents are vulnerable to adversarial attacks from AI-enabled adversaries. Given the crucial need for effective, robust cybersecurity AI agents, my dissertation presents five essays contributing to two major areas of AI-enabled cybersecurity: (1) AI-enabled cyber threat identification in international online hacker communities (three essays) and (2) Robustness of cybersecurity AI agents against adversarial attacks (two essays).
 
-# Journal Publications &amp; Book Chapters
+<p style="font-size: 22px; font-weight: bold; font-style: italic; text-decoration:underline">JOURNAL PUBLICATIONS & BOOK CHAPTERS</p>
 
 - **M. Ebrahimi** , J. F. Nunamaker Jr., H. Chen, &quot;Semi-Supervised Cyber Threat Identification in Dark Net Markets: A Transductive and Deep Learning Approach,&quot; **Journal of Management Information Systems (JMIS), Volume (38), 2020 (Forthcoming)**.
 
@@ -55,19 +58,19 @@ Detection and Deep Learning
 
 - M. Keyvanpour, M. Javideh, **M. Ebrahimi** , &quot;A Hybrid Geospatial Data Clustering Method for Hotspot Analysis,&quot; Journal of Computer and Robotics, Qazvin Azad University, Volume 2(1), pp 53-67, 2010. [available from [http://www.qjcr.ir](http://www.qjcr.ir/)]
 
-# Journal Publications UNDER REVIEW (Dissertation chapters)
+<p style="font-size: 22px; font-weight: bold; font-style: italic"><span style="text-decoration:underline">JOURNAL PUBLICATIONS <span style="font-style: normal; text-decoration:underline">UNDER REVIEW</span></span> (Dissertation Chapters)</p>
 
 - **M. Ebrahimi** , Y. Chai, S. Samtani, H. Chen, &quot;Cross-Lingual Security Analytics: Cyber Threat Detection in the International Dark Web with Adversarial Deep Representation Learning,&quot; **3rd round of Review in _MIS Quarterly_ (_MISQ_).**
 
 - **M. Ebrahimi** , Y. Chai, H. Zhang, H. Chen, &quot;Heterogeneous Domain Adaptation with Deep Adversarial Representation Learning: Experiments on E-Commerce and Cybersecurity,&quot; **Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI).**
 
-# Journal Publications IN Progress (Dissertation chapters)
+<p style="font-size: 22px; font-weight: bold; font-style: italic"><span style="text-decoration:underline">JOURNAL PUBLICATIONS <span style="font-style: normal">IN PROGRESS</span></span> (Dissertation Chapters)</p>
 
 - **M. Ebrahimi,** Y. Chai, J. Pacheco, W. Li, H. Chen, &quot;RADAR: A Framework for Developing Adversarially Robust Cybersecurity AI Agents with Deep Reinforcement Learning,&quot; **to be submitted to _MIS Quarterly_ (_MISQ_).**
 
 - **M. Ebrahimi** , N. Zhang, J. Hu, H. Chen, &quot;Protecting Deep Learning-based Malware Detectors with Adversarial Example Generation: A Recurrent Neural Network Approach,&quot; **to be submitted to the Journal of Management Information Systems (JMIS).**
 
-**Refereed Conference proceedings** (\* indicates that I was the presenting author)
+<p style="font-style: italic"><span style="font-weight: bold; font-size: 22px; text-decoration:underline">REFEREED CONFERENCE PROCEEDINGS</span> &nbsp;(* indicates that I was the presenting author)</p>
 
 - **\*M. Ebrahimi** , S. Samtani, Y. Chai, H. Chen, &quot;Detecting Cyber Threats in Non-English Hacker Forums: An Adversarial Cross-Lingual Knowledge Transfer Approach,&quot; **IEEE Symposium on Security and Privacy (IEEE S&amp;P)**, Deep Learning and Security Workshop, May 2020, San Francisco.
 
@@ -79,17 +82,17 @@ Detection and Deep Learning
 
 - N. Arnold, **M. Ebrahimi** , N. Zhang, B. Lazarine, M. Patton, H. Chen, S. Samtani, &quot;Dark-Net Ecosystem Cyber-Threat Intelligence (CTI) Tool,&quot; 2019 IEEE International Conference on Intelligence and Security Informatics (ISI), Shenzhen, China, 2019, pp. 92-97.
 
-- P. Du, N. Zhang, \ ***M. Ebrahimi** , S. Samtani, B. Lazarine, N. Arnold, R. Dunn et al. &quot;Identifying, Collecting, and Presenting Hacker Community Data: Forums, IRC, Carding Shops, and DNMs,&quot; 2018 IEEE International Conference on Intelligence and Security Informatics (ISI), Miami, FL, 8-10 November, 2018, pp. 70-75.
+- P. Du, N. Zhang,  **\*M. Ebrahimi** , S. Samtani, B. Lazarine, N. Arnold, R. Dunn et al. &quot;Identifying, Collecting, and Presenting Hacker Community Data: Forums, IRC, Carding Shops, and DNMs,&quot; 2018 IEEE International Conference on Intelligence and Security Informatics (ISI), Miami, FL, 8-10 November, 2018, pp. 70-75.
 
 - M. Keyvanpour, M. Javideh, **M. Ebrahimi** , &quot;Detecting and Investigating Crime by Means of Data Mining: A General Crime Matching Framework,&quot; 2010 World Conference on Information Technology, Procedia Computer Science, Volume 3, Edited by AdemKarahoca, Sezer, 2011, pp. 872-880.
 
-# REFEREED Conferences UNDER REview
+<p style="font-size: 22px; font-weight: bold; text-decoration:underline"><span style="font-style: italic">REFEREED CONFERENCES</span> UNDER REVIEW</p>
 
 - **M. Ebrahimi,** N. Zhang, J. Hu, T. Raza, &quot;Black-box Attacks Against Deep Learning-based Static Malware Detectors: An Adversarial Example Generation Approach,&quot; to be submitted to ACM Workshop on Artificial Intelligence and Security (AISec), 13 November, 2020.
 
 - N. Zhang, **M. Ebrahimi** , W. Li, H. Chen, &quot;A Generative Adversarial Learning Framework to Break Text-Based CAPTCHA in the Dark Web,&quot; to be submitted to IEEE International Conference on Intelligence and Security Informatics (ISI), 16-18 November, 2020.
 
-# Grant &amp; Report Writing Skills
+<p style="font-size: 22px; font-weight: bold; font-style: italic; text-decoration:underline">GRANT & REPORT WRITING SKILLS</p>
 
 - **D-ISN** (Disrupting Operations of Illicit Supply Networks), **Title:** Disrupting Illicit Trafficking by Dissecting Geometry of Darkweb and Cryptocurrency Transactions, **Source:** National Science Foundation (NSF) **, Grant Period:** 2020-2023 **, Status:** Under review **, Amount:** $349,896 **, Role:** Assisting Grant writer.
 
@@ -97,7 +100,7 @@ Detection and Deep Learning
 
 - **SaTC-DGE** (Secure &amp; trustworthy Cyberspace - Division of graduate Education), **Title:** Cybersecurity Big Data and Analytics Sharing Platform, **Source:** National Science Foundation (NSF) **, Reporting Year:** 2019 **, Grant No.:** 1719477, **Status:** Funded **, Funded Amount:** $180,000 **, Role:** Assisting Report writer.
 
-# Research ExperiencE
+<p style="font-size: 22px; font-weight: bold; font-style: italic; text-decoration:underline">RESEARCH EXPERIENCE</p>
 
 **Artificial Intelligence Lab, Eller College of Management, University of Arizona**  **2016-**** Now**
 
@@ -113,20 +116,20 @@ Detection and Deep Learning
 
 **Alzahra University 2011-2013**
 
-- **Role**** :** Research associate (Crime data mining, text mining)
+- **Role:** Research associate (Crime data mining, text mining)
 - **Advisor:** Dr. Mohammadreza Keyvanpour
-- **Address**** :** Computer Engineering Department, North Sheikh Bahaee St., Deh-e Vanak, Tehran, Iran, 1993891176.
+- **Address:** Computer Engineering Department, North Sheikh Bahaee St., Deh-e Vanak, Tehran, Iran, 1993891176.
 
-# teaching experience
+<p style="font-size: 22px; font-weight: bold; font-style: italic; text-decoration:underline">TEACHING EXPERIENCE</p>
 
 **Instructor** (University of Arizona):
 
-- **MIS 562 &quot;Cyber Threat Intelligence,&quot;**** Graduate **level,** Online Summer 2020**
+- **MIS 562 &quot;Cyber Threat Intelligence,&quot;** Graduate **level,** Online Summer 2020**
 
   - **Class size:** 27
   - **All instructor ratings are greater than** 4.55 / 5.00 (_82% response rate_)
 
-- **MIS 562 &quot;Cyber Threat Intelligence,&quot;**** Graduate **level,** Online Summer 2019**
+- **MIS 562 &quot;Cyber Threat Intelligence,&quot;** Graduate **level,** Online Summer 2019**
 
   - **Class size:** 23
   - **All instructor ratings are greater than** 4.23 / 5.00 (_100% response rate_)
@@ -139,7 +142,7 @@ Detection and Deep Learning
   - Lecturer of the lab sessions (Python, Weka, Tableau)
   - Assisted with class material preparation, grading
 
-- **MIS 511/411 &quot;**** Social and Ethical Issues of the Internet,&quot; **Grad/Undergrad, On-site** Spring 2019**
+- **MIS 511/411 &quot;** Social and Ethical Issues of the Internet,&quot; **Grad/Undergrad, On-site** Spring 2019**
 
   - **Instructor:** Dr. Laura Brandimarte
 
@@ -151,10 +154,10 @@ Detection and Deep Learning
 
 - **COMP 6321 &quot;Machine Learning,&quot; Graduate** level, **Fall 2015**
 
-  - **Instructor**** :** Dr. Adam Krzyzak
+  - **Instructor:** Dr. Adam Krzyzak
   - Lecturer (one session), Course grader
 
-# Professional Affiliations
+<p style="font-size: 22px; font-weight: bold; font-style: italic; text-decoration:underline">PROFESSIONAL AFFILIATIONS</p>
 
 - Association of Information Systems (AIS), Student Member
 
@@ -164,7 +167,7 @@ Detection and Deep Learning
 
 - Institute for Operations Research and the Management Sciences (INFORMS), Student Member
 
-# Professional services (Reviewed Journals &amp; conferences)
+<p style="font-style: italic"><span style="font-size: 22px; font-weight: bold; text-decoration:underline">PROFESSIONAL SERVICES</span> &nbsp;(Reviewed Journals & Conferences)</p>
 
 **Journal Reviews**
 
@@ -183,7 +186,7 @@ Detection and Deep Learning
 - Workshop on Information Technologies &amp; Systems (WITS): September 2019
 - Design Science Research in Information Systems &amp; Technology (DESRIST): June 2019
 
-# Awards &amp; Honors
+<p style="font-size: 22px; font-weight: bold; font-style: italic; text-decoration:underline">AWARDS & HONORS</p>
 
 - Department Candidate for Doctoral Consortium, International Conference on Information Systems (ICIS), 2020.
 - IEEE S&amp;P Student Travel and Registration Award for Deep Learning and Security Workshop, May 2020.
@@ -194,14 +197,14 @@ Detection and Deep Learning
 - Team Ranked 1st in RoboCup Iran Open International Competitions 2007- Middle Size Robots.
 - Ranked with the highest GPA among university students in fall 2007 and spring 2008 with GPA of 18.43/20.00 and 19.50/20.00, respectively.
 
-# Work ExperiencE
+<p style="font-size: 22px; font-weight: bold; font-style: italic; text-decoration:underline">WORK EXPERIENCE</p>
 
 **SAP Canada (Internship)** **2015-2015 (****4-month internship****)**
 
-- **Role**** :** Data &amp; Software Engineer (Users behavior analysis for order management systems)
+- **Role:** Data &amp; Software Engineer (Users behavior analysis for order management systems)
 - **Address:** 999 Boulevard de Maisonneuve West Montreal, Quebec H3A 3L4 Canada.
 
-# relevant skills
+<p style="font-size: 22px; font-weight: bold; font-style: italic; text-decoration:underline">RELEVANT SKILLS</p>
 
 **Data Mining and Machine Learning**
 
@@ -229,7 +232,7 @@ Detection and Deep Learning
 - **Operating System:** Linux, Microsoft Windows
 - **Typesetting:** LATEX, Microsoft Office
 
-# selected graduate and Undergraduate Courses
+<p style="font-size: 22px; font-weight: bold; font-style: italic; text-decoration:underline">SELECTED GRADUATE & UNDERGRADUATE COURSES</p>
 
 **Graduate:**
 
@@ -239,67 +242,69 @@ Statistical Machine Learning, Machine Learning, Theory of Probability, Pattern R
 
 Artificial Intelligence, Neural Networks, Software Requirement Analysis, Decision Support Systems, Foundation of Compiler Design, Operating Systems, Software Engineering (I and II), Database Design, Object-Oriented Analysis &amp; Design, Web Programming
 
-# References
+<p style="font-size: 22px; font-weight: bold; font-style: italic; text-decoration:underline">REFERENCES</p>
 
 - **Hsinchun Chen, Ph.D.** (Dissertation Committee Chair)
 
-Professor, University of Arizona, Eller College of Management, Department of Management Information Systems, 1130 E Helen St., McClelland Hall 430, Tucson, AZ 85721
+	Professor, University of Arizona, Eller College of Management, Department of Management Information Systems, 1130 E Helen St., McClelland Hall 430, Tucson, AZ 85721
 
-e-mail: [hchen@eller.arizona.edu](mailto:hchen@eller.arizona.edu)
+	e-mail: hchen[@]eller.arizona.edu
 
-Phone: +1 (520) 621-6219
+	Phone: (520) 621-6219
 
 - **Sue Brown, Ph.D.** (Dissertation Committee Member)
 
-Professor &amp; Department Head, University of Arizona, Eller College of Management, Department of Management Information Systems, 1130 E Helen St., McClelland Hall 430Q, Tucson, AZ 85721
+	Professor &amp; Department Head, University of Arizona, Eller College of Management, Department of Management Information Systems, 1130 E Helen St., McClelland Hall 430Q, Tucson, AZ 85721
 
-e-mail: suebrown@eller.arizona.edu
+	e-mail: suebrown[@]eller.arizona.edu
 
-Phone: (520) 621-2429
+	Phone: (520) 621-2429
 
 - **Jay F. Nunamaker Jr., Ph.D.** (Dissertation Committee Member)
 
-Professor, University of Arizona, Department of Management Information Systems, 1130 E Helen St., McClelland Hall 430, Tucson, Arizona 85721
+	Professor, University of Arizona, Department of Management Information Systems, 1130 E Helen St., McClelland Hall 430, Tucson, Arizona 85721
 
-e-mail: [jnunamaker@cmi.arizona.edu](mailto:jnunamaker@cmi.arizona.edu)
+	e-mail: jnunamaker[@]cmi.arizona.edu
 
-Phone: ([520) 621-4475](tel:520-621-4475)
+	Phone: (520) 621-4475
 
 - **Mihai Surdeanu, Ph.D.** (Minor Advisor)
 
-Professor, University of Arizona, Computer Science Department, Gould-Simpson 745
- 1040 E 4th St., Tucson, AZ 85721
+	Professor, University of Arizona, Computer Science Department, Gould-Simpson 745, 1040 E 4th St., Tucson, AZ 85721
 
-e-mail: msurdeanu@email.arizona.edu
+	e-mail: msurdeanu[@]email.arizona.edu
 
-- **Helen Hao Zhang, Ph.D.** (co-author)
+- **Helen Hao Zhang, Ph.D.** (Co-author)
 
-Professor, University of Arizona, Department of Mathematics, 617 North Santa Rita Ave, ENR2 S323
+	Professor, University of Arizona, Department of Mathematics, 617 North Santa Rita Ave, ENR2 S323
 
-e-mail: hzhang@math.arizona.edu
+	e-mail: hzhang[@]math.arizona.edu
 
-Phone: (520) 621-6868
+	Phone: (520) 621-6868
 
 - **Ching Y. Suen, Ph.D.** (Master&#39;s Advisor)
 
-Professor, Concordia University, Computer Science &amp; Software Engineering (CSE) Department, EV 3.105, 1455 de Maisonneuve West, Montréal, Québec, Canada H3G 1M8
+	Professor, Concordia University, Computer Science &amp; Software Engineering (CSE) Department, EV 3.105, 1455 de Maisonneuve West, Montréal, Québec, Canada H3G 1M8
 
-e-mail: suen@cse.concordia.ca
+	e-mail: suen[@]cse.concordia.ca
 
-Phone: (514) 848-2424 (ext.3006)
+	Phone: (514) 848-2424 (ext. 3006)
 
 - **Olga Ormandjieva, Ph.D.** (Master&#39;s Advisor)
 
-Professor, Concordia University, Computer Science &amp; Software Engineering (CSE) Department, EV 3.165, 1455 de Maisonneuve West, Montréal, Québec, Canada H3G 1M8
+	Professor, Concordia University, Computer Science &amp; Software Engineering (CSE) Department, EV 3.165, 1455 de Maisonneuve West, Montréal, Québec, Canada H3G 1M8
 
-e-mail: ormandj@cse.concordia.ca
+	e-mail: ormandj[@]cse.concordia.ca
 
-Phone: (514) 848-2424 (ext.7810)
+	Phone: (514) 848-2424 (ext. 7810)
 
-- **Adam Krzyzak, Ph.D.** (co-author)
+- **Adam Krzyzak, Ph.D.** (Co-author)
 
-Professor, Concordia University, Computer Science &amp; Software Engineering (CSE) Department, EV 3.279, 1455 de Maisonneuve West, Montréal, Québec, Canada H3G 1M8
+	Professor, Concordia University, Computer Science &amp; Software Engineering (CSE) Department, EV 3.279, 1455 de Maisonneuve West, Montréal, Québec, Canada H3G 1M8
 
-e-mail: krzyzak@cse.concordia.ca
+	e-mail: krzyzak[@]cse.concordia.ca
 
-Phone:(514) 848-2424 (ext. 3007)
+	Phone: (514) 848-2424 (ext. 3007)
+
+
+</div>
