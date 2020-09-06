@@ -52,11 +52,11 @@ permalink: /my cv/
 
 - **M. Ebrahimi** , C. Y. Suen, O. Ormandjieva, &quot;Detecting Predatory Conversations in Social Media by Deep Convolutional Neural Networks,&quot; Journal of Digital Investigation, Elsevier, Volume 18, pp. 33-49, 2016.
 
-- M. Keyvanpour, **M. Ebrahimi** , N. G. Nayebi, O. Ormandjieva, C. Y. Suen, &quot;Automated Identification of Child Abuse in Chat Rooms by Using Data Mining,&quot; [Data Mining Trends and Applications in Criminal Science and Investigations](http://www.igi-global.com/submission/books/?title=data%20mining%20trends%20and%20applications%20in%20criminal%20science%20and%20investigations), IGI-Global publications, 2016.
+- M. Keyvanpour, **M. Ebrahimi** , N. G. Nayebi, O. Ormandjieva, C. Y. Suen, &quot;Automated Identification of Child Abuse in Chat Rooms by Using Data Mining,&quot; Data Mining Trends and Applications in Criminal Science and Investigations, IGI-Global publications, 2016.
 
 - M. Keyvanpour, **M. Ebrahimi** , M. Javideh, &quot;Designing Efficient ANN Classifiers for Matching Burglaries from Dwelling Houses,&quot; Applied Artificial Intelligence, Taylor and Francis, Volume 26 (8), pp. 787-807, 2012.
 
-- M. Keyvanpour, M. Javideh, **M. Ebrahimi** , &quot;A Hybrid Geospatial Data Clustering Method for Hotspot Analysis,&quot; Journal of Computer and Robotics, Qazvin Azad University, Volume 2(1), pp 53-67, 2010. [available from [http://www.qjcr.ir](http://www.qjcr.ir/)]
+- M. Keyvanpour, M. Javideh, **M. Ebrahimi** , &quot;A Hybrid Geospatial Data Clustering Method for Hotspot Analysis,&quot; Journal of Computer and Robotics, Qazvin Azad University, Volume 2(1), pp 53-67, 2010. available from [http://www.qjcr.ir](http://www.qjcr.ir/)
 
 <p style="font-size: 22px; font-weight: bold; font-style: italic"><span style="text-decoration:underline">JOURNAL PUBLICATIONS <span style="font-style: normal; text-decoration:underline">UNDER REVIEW</span></span> (Dissertation Chapters)</p>
 
@@ -124,25 +124,25 @@ permalink: /my cv/
 
 **Instructor** (University of Arizona):
 
-- **MIS 562 &quot;Cyber Threat Intelligence,&quot;** Graduate **level,** Online Summer 2020**
+- **MIS 562 &quot;Cyber Threat Intelligence,&quot;** Graduate level, Online, Summer 2020
 
   - **Class size:** 27
   - **All instructor ratings are greater than** 4.55 / 5.00 (_82% response rate_)
 
-- **MIS 562 &quot;Cyber Threat Intelligence,&quot;** Graduate **level,** Online Summer 2019**
+- **MIS 562 &quot;Cyber Threat Intelligence,&quot;** Graduate level, Online, Summer 2019
 
   - **Class size:** 23
   - **All instructor ratings are greater than** 4.23 / 5.00 (_100% response rate_)
 
 **Teaching Assistant** (University of Arizona) **:**
 
-- **MIS 464 &quot;Data Analytics,&quot;** Undergraduate, On-site, **Spring 2020**
+- **MIS 464 &quot;Data Analytics,&quot;** Undergraduate, On-site, Spring 2020
 
   - **Instructor:** Dr. Hsinchun Chen
   - Lecturer of the lab sessions (Python, Weka, Tableau)
   - Assisted with class material preparation, grading
 
-- **MIS 511/411 &quot;** Social and Ethical Issues of the Internet,&quot; **Grad/Undergrad, On-site** Spring 2019**
+- **MIS 511/411 &quot;** Social and Ethical Issues of the Internet,&quot; **Grad/Undergrad, On-site Spring 2019
 
   - **Instructor:** Dr. Laura Brandimarte
 
