@@ -176,9 +176,10 @@ permalink: /my cv/
 - ACM Transactions on Management Information Systems (TMIS): 2 reviews, 2020
 - Information Systems Frontiers: 2 reviews, June 2018 and 2020
 
-**Program Committee**
+**Program Committee and Editorial Board**
 
 - IEEE International Conference on Data Mining (ICDM), Deep Learning for Cyber Threat Intelligence Workshop (DL-CTI)
+- Review Editor on the Editorial Board of Data Mining and Management (specialty section of Frontiers in Big Data)
 
 **Conference Reviews**
 
@@ -188,7 +189,7 @@ permalink: /my cv/
 
 <p style="font-size: 22px; font-weight: bold; font-style: italic; text-decoration:underline">AWARDS & HONORS</p>
 
-- Department Candidate for Doctoral Consortium, International Conference on Information Systems (ICIS), 2020.
+- Selected for Doctoral Consortium of International Conference on Information Systems (ICIS), 2020.
 - IEEE S&amp;P Student Travel and Registration Award for Deep Learning and Security Workshop, May 2020.
 - IEEE ISI 2018 Best Paper Award Runner-up, November 9, 2018 (First author of the paper titled: Detecting Cyber Threats in Non-English Dark Net Markets: A Cross-Lingual Transfer Learning Approach).
 - Concordia University 25th Anniversary Fellowship – Engineering and Computer Science Department, January 2015 (Awarded based on academic excellence to a few students each year).
