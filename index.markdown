@@ -331,7 +331,7 @@ layout: default
 [//]: # ###################### Thesis ####################################
 
 
-<i>MASTER's THESIS</i>
+<i>MASTER'S THESIS</i>
 <table class="table" id="table4">
 	<tbody>
 			<tr>
