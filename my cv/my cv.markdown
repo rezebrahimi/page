@@ -8,7 +8,7 @@ permalink: /my cv/
 
 # **MOHAMMADREZA EBRAHIMI**  **CURRICULUM VITAE**
 
-**E-mail:** ebrahimi@email.arizona.edu **, Phone:** (520) 312-0333, **Website:** [https://mohammadrezaebrahimi.github.io](https://mohammadrezaebrahimi.github.io/)
+**E-mail:** ebrahimi@email.arizona.edu **, **Website:** [https://mohammadrezaebrahimi.github.io](https://mohammadrezaebrahimi.github.io/)
 <br>Artificial Intelligence Lab, 1130 E. Helen St. McClelland Hall 430, Tucson, Arizona 85721.
 
 <p style="font-size: 22px; font-weight: bold; font-style: italic; text-decoration:underline">EDUCATION</p>
