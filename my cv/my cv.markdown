@@ -13,9 +13,9 @@ permalink: /my cv/
 
 <p style="font-size: 22px; font-weight: bold; font-style: italic; text-decoration:underline">EDUCATION</p>
 
-- **Doctor of Philosophy (Ph.D.), The University of Arizona 2016- 2021**
+- **Doctor of Philosophy (Ph.D.), The University of Arizona 2016- 2021 (expected)**
 
-	**Major:** Management Information Systems (**expected**)
+	**Major:** Management Information Systems 
 
 	**Minor:** Computational Linguistics
 
