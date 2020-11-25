@@ -63,8 +63,8 @@ layout: default
 				<p class="title">Involuntary Embarrassing Exposures in Online Social Networks: A Replication Study
 				<br><span class="author">M. Ebrahimi, J.D. Martinez</span>
 				<br><span class="paper">AIS Transactions on Replication Research, Volume 5(1), p. 7, 2019.</span></p>
-				<a class="button" href="#" onClick="return toggle('table1',3)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1',4)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1',4)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1',5)">BibTeX</a>
 				<a class="button3" href="publications/InvoluntaryEmbarrassingExposuresinOnlineSocialNetworks_AReplicationStudy_Ebrahimi.pdf" target="_blank">PDF</a>
 				<a class="button4" href="https://aisel.aisnet.org/trr/vol5/iss1/7/" target="_blank">AIS TRR</a>
 			</td>
