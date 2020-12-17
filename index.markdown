@@ -401,7 +401,7 @@ layout: default
 	<li>Concordia University 25th Anniversary Fellowship – Engineering and Computer Science Department, January 2015 (Awarded based on academic excellence to a few students each year).</li>
 	<li>Power Corporation of Canada Graduate Fellowship, May 2015 (Awarded based on academic excellence to 5 students each year).</li>
 	<li>Graduate Conference and Exposition Award, December 2015.</li>
-	<li>Team Ranked 1st in RoboCup Iran Open International Competitions 2007-Middle Size Robots.</li>
+	<li>Ranked 1st in RoboCup Iran Open International Competitions 2007-Middle Size Robots.</li>
 	<li>Top (1st) university student in Fall 2007 and Spring 2008 with GPAs of 18.43/20.00 and 19.50/20.00, respectively.</li>
 </ul>
 </div>
