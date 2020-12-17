@@ -222,7 +222,7 @@ layout: default
 					<p class="title">Detecting Cyber Threats in Non-English Hacker Forums: An Adversarial Cross-Lingual Knowledge Transfer Approach
 					<br><span class="author">M. Ebrahimi, S. Samtani, Y. Chai, H. Chen</span>
 					<br><span class="paper">IEEE Symposium on Security and Privacy (IEEE S&P), Deep Learning and Security Workshop, San Francisco, May 2020.</span></p>
-					<a class="button" href="#" onClick="return toggle('table3', 1)">Abstract</a>
+					<a class="button" href="#" onClick="return toggle('table3', 4)">Abstract</a>
 					<a class="button3" href="publications/DetectingCyberThreatsinNonEnglishHackerForums_AnAdversarialCrossLingualKnowledgeTransferApproach_Ebrahimi.pdf" target="_blank">PDF</a>
 					<a class="button4" href="https://www.ieee-security.org/TC/SPW2020/DLS/" target="_blank">IEEE S&P'20 (DLS)</a>
 				</td>
@@ -234,8 +234,8 @@ layout: default
 					<p class="title">Detecting Cyber Threats in Non-English Dark Net Markets: A Cross-Lingual Transfer Learning Approach
 					<br><span class="author">M. Ebrahimi, Y. Chai, H. Zhang, H. Chen</span>
 					<br><span class="paper">IEEE International Conference on Intelligence and Security Informatics (ISI), pp. 85-90, Florida, US, IEEE, Nov. 8-10, 2018, (<span class="redText">Best Paper Award Runner-Up</span>).</span></p>
-					<a class="button" href="#" onClick="return toggle('table3', 4)">Abstract</a>
-					<a class="button2" href="#" onClick="return toggle('table3', 5)">BibTeX</a>
+					<a class="button" href="#" onClick="return toggle('table3', 6)">Abstract</a>
+					<a class="button2" href="#" onClick="return toggle('table3', 7)">BibTeX</a>
 					<a class="button3" href="publications/DetectingCyberThreatsinNonEnglishDarkNetMarkets_ACrossLingualTransferLearningApproach_Ebrahimi.pdf" target="_blank">PDF</a>
 					<a class="button4" href="https://ieeexplore.ieee.org/document/8587404" target="_blank">IEEE ISI'18</a>
 				</td>
@@ -255,8 +255,8 @@ layout: default
 					<p class="title">Recognizing Predatory Chat Documents using Semi-supervised Anomaly Detection
 					<br><span class="author">M. Ebrahimi, C. Y. Suen, O. Ormandjieva, A. Krzyzak</span>
 					<br><span class="paper">23rd Document Recognition Retrieval Conference (DRR 2016), pp. 1-9(9), San Francisco, CA, February 14-18, 2016.</span></p>
-					<a class="button" href="#" onClick="return toggle('table3', 7)">Abstract</a>
-					<a class="button2" href="#" onClick="return toggle('table3', 8)">BibTeX</a>
+					<a class="button" href="#" onClick="return toggle('table3', 9)">Abstract</a>
+					<a class="button2" href="#" onClick="return toggle('table3', 10)">BibTeX</a>
 					<a class="button3" href="publications/RecognizingPredatoryChatDocumentsusingSemisupervisedAnomalyDetection_Ebrahimi.pdf" target="_blank">PDF</a>
 					<a class="button4" href="https://www.ingentaconnect.com/content/ist/ei/2016/00002016/00000017/art00012;jsessionid=1qmzcvjihppcn.x-ic-live-03" target="_blank">DRR'16</a>
 				</td>
@@ -275,8 +275,8 @@ layout: default
 					<p class="title">Identifying High-Impact Opioid Products and Key Sellers in Dark Net Marketplaces: An Interpretable Text Analytics Approach
 					<br><span class="author">P. Du, M. Ebrahimi, N. Zhang, H. Chen, R. A. Brown and S. Samtani</span>
 					<br><span class="paper">IEEE International Conference on Intelligence and Security Informatics (ISI), pp. 110-115, Shenzhen, China, Jul. 1-3, 2019.</span></p>
-					<a class="button" href="#" onClick="return toggle('table3', 10)">Abstract</a>
-					<a class="button2" href="#" onClick="return toggle('table3', 11)">BibTeX</a>
+					<a class="button" href="#" onClick="return toggle('table3', 12)">Abstract</a>
+					<a class="button2" href="#" onClick="return toggle('table3', 13)">BibTeX</a>
 					<a class="button3" href="publications/IdentifyingHighImpactOpioidProducts&KeySellersinDarkNetMarketplaces_AnInterpretableTextAnalyticsApproach_Ebrahimi.pdf" target="_blank">PDF</a>
 					<a class="button4" href="https://ieeexplore.ieee.org/document/8823196" target="_blank">IEEE ISI'19</a>
 				</td>
@@ -296,8 +296,8 @@ layout: default
 					<p class="title">Dark-Net Ecosystem Cyber-Threat Intelligence (CTI) Tool
 					<br><span class="author">N. Arnold, M. Ebrahimi, N. Zhang, B. Lazarine, M. Patton, H. Chen, S. Samtani</span>
 					<br><span class="paper">IEEE International Conference on Intelligence and Security Informatics (ISI), pp. 92-97. Shenzhen, China, IEEE, Jul. 1-2, 2019.</span></p>
-					<a class="button" href="#" onClick="return toggle('table3', 13)">Abstract</a>
-					<a class="button2" href="#" onClick="return toggle('table3', 14)">BibTeX</a>
+					<a class="button" href="#" onClick="return toggle('table3', 14)">Abstract</a>
+					<a class="button2" href="#" onClick="return toggle('table3', 15)">BibTeX</a>
 					<a class="button3" href="publications/DarkNetEcosystemCyberThreatIntelligence(CTI)Tool_Ebrahimi.pdf" target="_blank">PDF</a>
 					<a class="button4" href="https://ieeexplore.ieee.org/abstract/document/8823501" target="_blank">IEEE ISI'19</a>
 				</td>
@@ -317,8 +317,8 @@ layout: default
 					<p class="title">Identifying, Collecting, and Presenting Hacker Community Data: Forums, IRC, Carding Shops, and DNMs
 					<br><span class="author">P. Du, N. Zhang, M. Ebrahimi et al.</span>
 					<br><span class="paper">IEEE International Conference on Intelligence and Security Informatics (ISI), pp. 70-75, Miami, FL, Nov. 8-10, 2018.</span></p>
-					<a class="button" href="#" onClick="return toggle('table3', 16)">Abstract</a>
-					<a class="button2" href="#" onClick="return toggle('table3', 17)">BibTeX</a>
+					<a class="button" href="#" onClick="return toggle('table3', 17)">Abstract</a>
+					<a class="button2" href="#" onClick="return toggle('table3', 18)">BibTeX</a>
 					<a class="button3" href="publications/Identifying,Collecting,andPresentingHackerCommunityData_Forums,IRC,CardingShops,andDNMs_Ebrahimi.pdf" target="_blank">PDF</a>
 					<a class="button4" href="http://isi18.azurewebsites.net/" target="_blank">IEEE ISI'18</a>
 				</td>
@@ -339,8 +339,8 @@ layout: default
 					<p class="title">Detecting and Investigating Crime by Means of Data Mining: A General Crime Matching Framework
 					<br><span class="author">M. Keyvanpour, M. Javideh, M. Ebrahimi</span>
 					<br><span class="paper">World Conference on Information Technology 2010, Procedia Computer Science, Volume 3, pp. 872-880, Edited by AdemKarahoca, Sezer, 2011.</span></p>
-					<a class="button" href="#" onClick="return toggle('table3', 19)">Abstract</a>
-					<a class="button2" href="#" onClick="return toggle('table3', 20)">BibTeX</a>
+					<a class="button" href="#" onClick="return toggle('table3', 20)">Abstract</a>
+					<a class="button2" href="#" onClick="return toggle('table3', 21)">BibTeX</a>
 					<a class="button3" href="publications/DetectingandInvestigatingCrimebyMeansofDataMining_AGeneralCrimeMatchingFramework_Ebrahimi.pdf" target="_blank">PDF</a>
 					<a class="button4" href="https://www.sciencedirect.com/science/article/pii/S1877050910005181" target="_blank">WorldCIST</a>
 				</td>
