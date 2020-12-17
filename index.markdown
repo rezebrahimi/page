@@ -199,7 +199,7 @@ layout: default
 	<tbody>
 			<tr>
 				<td>
-					<p class="title">Binary Black-box Evasion Attacks Against Deep Learning-based Static Malware Detectors with Adversarial Byte-Level Language Model
+					<p class="title">Binary Black-box Evasion Attacks Against Deep Learning-based Static Malware Detectors with Adversarial Byte-Level Language Model</p>
 					<br><span class="author">M. Ebrahimi, N. Zhang, J. Hu, M. T. Raza,H. Chen</span>
 					<br><span class="paper">AAAI Conference on Artificial Intelligence, Workshop on Robust, Secure, and Efficient Machine Learning (RSEML), February 8-9, 2021</span></p>
 					<a class="button" href="#" onClick="return toggle('table3', 1)">Abstract</a>
@@ -219,7 +219,7 @@ layout: default
 			</tr>
 			<tr>
 				<td>
-					<p class="title">Detecting Cyber Threats in Non-English Hacker Forums: An Adversarial Cross-Lingual Knowledge Transfer Approach
+					<p class="title">Detecting Cyber Threats in Non-English Hacker Forums: An Adversarial Cross-Lingual Knowledge Transfer Approach</p>
 					<br><span class="author">M. Ebrahimi, S. Samtani, Y. Chai, H. Chen</span>
 					<br><span class="paper">IEEE Symposium on Security and Privacy (IEEE S&P), Deep Learning and Security Workshop, San Francisco, May 2020.</span></p>
 					<a class="button" href="#" onClick="return toggle('table3', 4)">Abstract</a>
