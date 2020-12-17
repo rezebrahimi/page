@@ -169,26 +169,26 @@ layout: default
 <i>JOURNAL PUBLICATIONS UNDER REVIEW</i>
 <table class="table" id="table2">
 	<tbody>
-			<tr>
-				<td>
-					<p class="title">Cross-Lingual Security Analytics: Cyber Threat Detection in the International Dark Web with Adversarial Deep Representation Learning
-					<br><span class="author">M. Ebrahimi, Y. Chai, S. Samtani, H. Chen</span>
-					<br><span class="paper">Received 4th round of Review in MIS Quarterly (MISQ).</span></p>
-				</td>
-			</tr>
-			<tr style="display: none">
-				<td>This is an abstract.</td>
-			</tr>
-			<tr>
-				<td>
-					<p class="title">Heterogeneous Domain Adaptation with Deep Adversarial Representation Learning: Experiments on E-Commerce and Cybersecurity
-					<br><span class="author">M. Ebrahimi, Y. Chai, H. Zhang, H. Chen</span>
-					<br><span class="paper">Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI).</span></p>
-				</td>
-			</tr>
-			<tr style="display: none">
-				<td>This is an abstract.</td>
-			</tr>
+		<tr>
+			<td>
+				<p class="title">Cross-Lingual Security Analytics: Cyber Threat Detection in the International Dark Web with Adversarial Deep Representation Learning
+				<br><span class="author">M. Ebrahimi, Y. Chai, S. Samtani, H. Chen</span>
+				<br><span class="paper">Received 4th round of Review in MIS Quarterly (MISQ).</span></p>
+			</td>
+		</tr>
+		<tr style="display: none">
+			<td>This is an abstract.</td>
+		</tr>
+		<tr>
+			<td>
+				<p class="title">Heterogeneous Domain Adaptation with Deep Adversarial Representation Learning: Experiments on E-Commerce and Cybersecurity
+				<br><span class="author">M. Ebrahimi, Y. Chai, H. Zhang, H. Chen</span>
+				<br><span class="paper">Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI).</span></p>
+			</td>
+		</tr>
+		<tr style="display: none">
+			<td>This is an abstract.</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -199,7 +199,7 @@ layout: default
 	<tbody>
 			<tr>
 				<td>
-					<p class="title">Binary Black-box Evasion Attacks Against Deep Learning-based Static Malware Detectors with Adversarial Byte-Level Language Model</p>
+					<p class="title">Binary Black-box Evasion Attacks Against Deep Learning-based Static Malware Detectors with Adversarial Byte-Level Language Model
 					<br><span class="author">M. Ebrahimi, N. Zhang, J. Hu, M. T. Raza,H. Chen</span>
 					<br><span class="paper">AAAI Conference on Artificial Intelligence, Workshop on Robust, Secure, and Efficient Machine Learning (RSEML), February 8-9, 2021</span></p>
 					<a class="button" href="#" onClick="return toggle('table3', 1)">Abstract</a>
@@ -219,7 +219,7 @@ layout: default
 			</tr>
 			<tr>
 				<td>
-					<p class="title">Detecting Cyber Threats in Non-English Hacker Forums: An Adversarial Cross-Lingual Knowledge Transfer Approach</p>
+					<p class="title">Detecting Cyber Threats in Non-English Hacker Forums: An Adversarial Cross-Lingual Knowledge Transfer Approach
 					<br><span class="author">M. Ebrahimi, S. Samtani, Y. Chai, H. Chen</span>
 					<br><span class="paper">IEEE Symposium on Security and Privacy (IEEE S&P), Deep Learning and Security Workshop, San Francisco, May 2020.</span></p>
 					<a class="button" href="#" onClick="return toggle('table3', 4)">Abstract</a>
