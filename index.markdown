@@ -395,6 +395,7 @@ layout: default
 <h1 id="awardAnch">AWARDS & HONORS</h1>
 <ul class="awards">
 	<li>Selected for Doctoral Consortium of International Conference on Information Systems (ICIS), 2020.</li>
+	<li>Paul S. and Shirley Goodman Award, 2020.</li>
 	<li>IEEE S&P Student Travel and Registration Award for Deep Learning and Security Workshop, May 2020.</li>
 	<li>IEEE ISI 2018 Best Paper Award Runner-up, November 9, 2018 (First author of: Detecting Cyber Threats in Non-English Dark Net Markets: A Cross-Lingual Transfer Learning Approach).</li>
 	<li>Concordia University 25th Anniversary Fellowship – Engineering and Computer Science Department, January 2015 (Awarded based on academic excellence to a few students each year).</li>
