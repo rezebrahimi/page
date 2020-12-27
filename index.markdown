@@ -5,10 +5,24 @@
 
 layout: default
 ---
-
+[//]: ## Biography
 <div class="wrapper" style="border-bottom: 1px solid $grey-color-light">
-	<p style="margin-top: -25px">I am a PhD candidate in Management Information Systems (MIS) at the University of Arizona (UA).  I conduct research under the guidance of Regents’ Professor Hsinchun Chen, in the Eller College of Management Artificial Intelligence Lab. In 2016, I received a Master of Computer Science degree from Concordia University in Montreal, Canada. My master’s thesis leveraged crime data mining to enhance cyberspace safety for juveniles. During that time, I also interned with SAP as a data and software engineer, analyzing e-Commerce users’ behavior.</p>
-	<p style="margin-bottom: 5px">My research interest is mainly focused on AI-enabled data analytics and security analytics using a wide range of statistical learning theories, including Transductive Learning, Transfer Learning, Adversarial Learning, and Reinforcement Learning. My work has appeared in journals including <span style="font-style: italic">Journal of Management Information Systems (JMIS)</span>, Digital Forensics, Applied Artificial Intelligence, AIS Transactions on Replication Research; at conferences, such as IEEE Security & Privacy and IEEE ISI; and, as a chapter in the book “Data Mining Trends and Applications in Criminal Science and Investigations.” My current research on multi-lingual cybersecurity analytics in the dark web is under revision for the third round of review at <span style="font-style: italic">MIS Quarterly (MISQ)</span>.</p>
+	<p style="margin-top: -25px"><span style="font-weight: bold">About me: </span>I am a Management Information Systems (MIS) PhD candidate at the University of Arizona (UA).  I conduct research under Regents’ Professor Hsinchun Chen, in the Eller College of Management Artificial Intelligence Lab. In 2016, I received a Master of Computer Science degree from Concordia University in Montreal, Canada. My thesis leveraged crime data mining to enhance juveniles cyberspace safety. I also interned with SAP as a data and software engineer, analyzing e-Commerce user behavior.</p>
+	<p style="margin-bottom: 10px"><span style="font-weight: bold">Research: </span>My research interest is mainly focused on AI-enabled data analytics and security analytics using a wide range of statistical learning theories, including Transductive Learning, Transfer Learning, Adversarial Learning, and Reinforcement Learning. My work has appeared in journals including <span style="font-style: italic">Journal of Management Information Systems (JMIS)</span>, Digital Forensics, Applied Artificial Intelligence, AIS Transactions on Replication Research; at conferences, such as IEEE Security & Privacy and IEEE ISI; and, as a chapter in the book “Data Mining Trends and Applications in Criminal Science and Investigations.” My current research on multi-lingual cybersecurity analytics in the dark web is under revision for the third round of review at <span style="font-style: italic">MIS Quarterly (MISQ)</span>.</p>
+</div>
+
+<hr>
+
+[//]: ## News
+<div class="wrapper" style="border-bottom: 1px solid $grey-color-light">
+	<p style="margin-top: -10px"><i>RECENT NEWS:</i></p>
+	<ul class="awards" style="margin-bottom: -5px">
+		<li>In Fall 2021, I will start with the University of South Florida as a tenure-track faculty member.</li>
+		<li>Our paper, "Binary Black-box Evasion Attacks Against Deep Learning-based Static Malware Detectors with Adversarial Byte-Level Language Model" was accepted to the AAAI Conference on Artificial Intelligence, Workshop on Robust, Secure, and Efficient Machine Learning (RSEML), 2021.</li>
+		<li>This December, I represented the University of Arizona in the ICIS 2020 doctoral consortium.</li>
+		<li>Our paper, "A Generative Adversarial Learning Framework for Breaking Text-Based CAPTCHA in the Dark Web" was accepted to IEEE ISI 2020.</li>
+		<li>I received the Paul S. and Shirley Goodman Award, 2020.</li>
+	</ul>
 </div>
 
 <hr>
