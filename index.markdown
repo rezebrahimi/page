@@ -14,7 +14,7 @@ layout: default
 <hr>
 
 [//]: ## News
-<div class="wrapper" style="border-bottom: 1px solid $grey-color-light">
+<div class="wrapper" style="border-bottom: 1px solid $grey-color-light; overflow:auto;">
 	<p style="margin-top: -10px"><i>RECENT NEWS:</i></p>
 	<ul class="awards" style="margin-bottom: -5px">
 		<li>In Fall 2021, I will start with the University of South Florida as a tenure-track faculty member.</li>
