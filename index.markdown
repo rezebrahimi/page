@@ -18,7 +18,7 @@ layout: default
 <div class="wrapper" style="border-bottom: 1px solid $grey-color-light; overflow:auto;">
 	<ul class="awards" style="margin-bottom: -5px">
 		<li>In Fall 2021, I will start with the University of South Florida as a tenure-track faculty member.</li>
-		<li>I received the LaSalle Teaching Excellence Award</li>
+		<li>I received the LaSalle Teaching Excellence Award.</li>
 		<li>Our paper, "Binary Black-box Evasion Attacks Against Deep Learning-based Static Malware Detectors with Adversarial Byte-Level Language Model" was accepted to the AAAI Conference on Artificial Intelligence, Workshop on Robust, Secure, and Efficient Machine Learning (RSEML), 2021.</li>
 		<li>This December, I represented the University of Arizona in the ICIS 2020 doctoral consortium.</li>
 		<li>Our paper, "A Generative Adversarial Learning Framework for Breaking Text-Based CAPTCHA in the Dark Web" was accepted to IEEE ISI 2020.</li>
@@ -410,6 +410,7 @@ layout: default
 <div class="wrapper">
 <h1 id="awardAnch">AWARDS & HONORS</h1>
 <ul class="awards">
+	<li>LaSalle Teaching Excellence Award, 2021.</li>
 	<li>Selected for Doctoral Consortium of International Conference on Information Systems (ICIS), 2020.</li>
 	<li>Paul S. and Shirley Goodman Award, 2020.</li>
 	<li>IEEE S&P Student Travel and Registration Award for Deep Learning and Security Workshop, May 2020.</li>
