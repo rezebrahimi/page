@@ -17,7 +17,8 @@ layout: default
 <p style="margin-top: -10px"><i>RECENT NEWS:</i></p>
 <div class="wrapper" style="border-bottom: 1px solid $grey-color-light; overflow:auto;">
 	<ul class="awards" style="margin-bottom: -5px">
-		<li>In Fall 2021, I will start with the University of South Florida as a tenure-track faculty member.</li>
+		<li>Our Paper on Multilingual Security Analytics was accepted for publication in <span style="font-style: italic"> MIS Quarterly</span> </li>
+		<li>Our paper on Binary Black Box Robustification was accepted at IEEE S&P Workshop on Deep Learning and Security (DLS)</li>
 		<li>I received the LaSalle Teaching Excellence Award.</li>
 		<li>Our paper, "Binary Black-box Evasion Attacks Against Deep Learning-based Static Malware Detectors with Adversarial Byte-Level Language Model" was accepted to the AAAI Conference on Artificial Intelligence, Workshop on Robust, Secure, and Efficient Machine Learning (RSEML), 2021.</li>
 		<li>This December, I represented the University of Arizona in the ICIS 2020 doctoral consortium.</li>
