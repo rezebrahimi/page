@@ -13,7 +13,7 @@ permalink: /teaching/
 	</p>
 
 	<i>TEACHING INTERESTS</i>
-	<p>My teaching area of interest is three-fold: 1) Cybersecurity: cyber threat intelligence (CTI), 2) Analytics: text mining, web mining, artificial intelligence, deep learning, 3) Algorithm design and programming: Python, Java, data structures and algorithms.
+	<p>My current teaching area of interest is two-fold: 1) data analytics: text mining, web mining, artificial intelligence, deep learning, and 2) algorithm design and programming: Python, Java, data structures and algorithms.
 	</P>
 
 	<i>TEACHING EXPERIENCE</i>
