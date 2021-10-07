@@ -50,10 +50,20 @@ layout: default
 
 
 <h1 id="pubAnch">PUBLICATIONS</h1>
-<i>JOURNAL PUBLICATIONS & BOOK CHAPTERS</i>
+<i>SELECTED JOURNAL PUBLICATIONS & BOOK CHAPTERS</i>
 
 <table class="table" id="table1">
 	<tbody>
+		<tr>
+			<td>
+				<p class="title">Cross-Lingual Security Analytics: Cyber Threat Detection in the International Dark Web with Adversarial Deep Representation Learning
+				<br><span class="author">M. Ebrahimi, Y. Chai, S. Samtani, H. Chen</span>
+				<br><span class="paper">Forthcoming in <i> MIS Quarterly (MISQ)</i>.</span></p>
+			</td>
+		</tr>
+		<tr style="display: none">
+			<td>This is an abstract.</td>
+		</tr>
 		<tr>
 			<td>
 				<p class="title">Semi-Supervised Cyber Threat Identification in Dark Net Markets: A Transductive and Deep Learning Approach
@@ -69,13 +79,13 @@ layout: default
 			<td>Dark Net Marketplaces (DNMs), online selling platforms on the dark web, constitute a major component of the underground economy. Due to the anonymity and increasing accessibility of these platforms, they are rich sources of cyber threats such as hacking tools, data breaches, and personal account information. As the number of products offered on DNMs increases, researchers have begun to develop automated machine learning-based threat identification approaches. A major challenge in adopting such an approach is that the task typically requires manually labeled training data, which is expensive and impractical. We propose a novel semi-supervised labeling technique for leveraging unlabeled data based on the lexical and structural characteristics of DNMs using transductive learning. Empirical results show that the proposed approach leads to an approximately 3-5% increase in classification performance measured by F1-score, while increasing both precision and recall. To further improve the identification performance, we adopt Long Short-Term Memory (LSTM) as a deep learning structure on top of the proposed labeling method. The results are evaluated against a large collection of 79K product listings obtained from the most popular DNMs. Our method outperforms the state-of-the-art methods in threat identification and is considered as an important step towards lowering the human supervision cost in realizing automated threat detection within cyber threat intelligence organizations.</td>
 		</tr>
 		<tr style="display: none">
-			<td>@article{doi:10.1080/07421222.2020.1790186,author = { Mohammadreza   Ebrahimi  and  Jay F.   Nunamaker   Jr.  and  Hsinchun   Chen },
+			<td>@article{doi:10.1080/07421222.2020.1790186,author = { Mohammadreza Ebrahimi  and  Jay F. Nunamaker Jr. and  Hsinchun   Chen },
 			title = {Semi-Supervised Cyber Threat Identification in Dark Net Markets: A Transductive and Deep Learning Approach},
 			journal = {Journal of Management Information Systems},volume = {37},number = {3},pages = {694-722},year  = {2020},publisher = {Routledge},
 			doi = {10.1080/07421222.2020.1790186},URL = { https://doi.org/10.1080/07421222.2020.1790186},eprint = { https://doi.org/10.1080/07421222.2020.1790186}}
 			</td>
 		</tr>
-		<tr>
+		<!-- <tr>
 			<td>
 				<p class="title">Involuntary Embarrassing Exposures in Online Social Networks: A Replication Study
 				<br><span class="author">M. Ebrahimi, J.D. Martinez</span>
@@ -94,7 +104,7 @@ layout: default
 				author={Ebrahimi, Mohammadreza and Martinez, J Daniel}, journal={AIS Transactions on Replication Research}, volume={5},
 				number={1}, pages={7}, year={2019}}
 			</td>
-		</tr>
+		</tr>-->
 		<tr>
 			<td>
 				<p class="title">Detecting Predatory Conversations in Social Media by Deep Convolutional Neural Networks
@@ -188,19 +198,9 @@ layout: default
 	<tbody>
 		<tr>
 			<td>
-				<p class="title">Cross-Lingual Security Analytics: Cyber Threat Detection in the International Dark Web with Adversarial Deep Representation Learning
-				<br><span class="author">M. Ebrahimi, Y. Chai, S. Samtani, H. Chen</span>
-				<br><span class="paper">Received 4th round of Review in MIS Quarterly (MISQ).</span></p>
-			</td>
-		</tr>
-		<tr style="display: none">
-			<td>This is an abstract.</td>
-		</tr>
-		<tr>
-			<td>
 				<p class="title">Heterogeneous Domain Adaptation with Deep Adversarial Representation Learning: Experiments on E-Commerce and Cybersecurity
 				<br><span class="author">M. Ebrahimi, Y. Chai, H. Zhang, H. Chen</span>
-				<br><span class="paper">Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI).</span></p>
+				<br><span class="paper">2nd round of review at IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).</span></p>
 			</td>
 		</tr>
 		<tr style="display: none">
