@@ -61,14 +61,11 @@ layout: default
 				<br><span class="paper">Forthcoming in <i> MIS Quarterly (MISQ)</i>.</span></p>
 			</td>
 		</tr>
-		<tr style="display: none">
-			<td>This is an abstract.</td>
-		</tr>
 		<tr>
 			<td>
 				<p class="title">Semi-Supervised Cyber Threat Identification in Dark Net Markets: A Transductive and Deep Learning Approach
 				<br><span class="author">M. Ebrahimi, J. F. Nunamaker Jr., H. Chen</span>
-				<br><span class="paper">Journal of Management Information Systems (JMIS), Volume 37(3).</span></p>
+				<br><span class="paper"><i>Journal of Management Information Systems (JMIS)</i>, Volume 37(3).</span></p>
 				<a class="button" href="#" onClick="return toggle('table1',1)">Abstract</a>
 				<a class="button2" href="#" onClick="return toggle('table1',2)">BibTeX</a>
 				<a class="button3" href="publications/SemiSupervisedCyberThreatIdentificationInDarkNetMarketsATransductiveAndDeepLearningApproach.pdf" target="_blank">PDF</a>
@@ -109,7 +106,7 @@ layout: default
 			<td>
 				<p class="title">Detecting Predatory Conversations in Social Media by Deep Convolutional Neural Networks
 				<br><span class="author">M. Ebrahimi, C. Y. Suen, O. Ormandjieva</span>
-				<br><span class="paper">Journal of Digital Investigation, Elsevier, Volume 18, pp. 33-49, 2016.</span></p>
+				<br><span class="paper"><i>Digital Investigation, Elsevier</i>, Volume 18, pp. 33-49, 2016.</span></p>
 				<a class="button" href="#" onClick="return toggle('table1',7)">Abstract</a>
 				<a class="button2" href="#" onClick="return toggle('table1',8)">BibTeX</a>
 				<a class="button3" href="publications/DetectingPredatoryConversationsinSocialMediabyDeepConvolutionalNeuralNetworks_Ebrahimi.pdf" target="_blank">PDF</a>
@@ -190,8 +187,6 @@ layout: default
 </table>
 
 [//]: # ###################### JOURNAL PUBLICATIONS UNDER REVIEW ####################################
-
-
 
 <i>JOURNAL PUBLICATIONS UNDER REVIEW</i>
 <table class="table" id="table2">
