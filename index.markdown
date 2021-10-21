@@ -9,7 +9,7 @@ layout: default
 <div class="wrapper" style="border-bottom: 1px solid $grey-color-light">
 	<p style="margin-top: -25px"><span style="font-weight: bold">About me: </span>I am an assistant professor at School of Information Systems and Management (SISM) at the University of South Florida. I received my PhD in Information Systems from the University of Arizona, where I was a research assistant at the Artifiical Intelligence (AI) Lab conducted by Regents’ Professor Hsinchun Chen. In 2016, I received my Master's in Computer Science from Concordia University in Montreal, Canada. My Ph.D. Thesis targets two interconnected research areas: Security of AI and AI for Security. My Master's thesis leveraged crime data mining to enhance juveniles safety in cyberspace.</p>
 	<p style="margin-bottom: 10px"><span style="font-weight: bold">Research: </span>My current research interest is focused on AI-enabled cybersecurity analytics using a wide range of statistical learning theories, including Transductive Learning, Transfer Learning, Adversarial Learning, and Reinforcement Learning. 
-	My work has appeared in journals including <span style="font-style: italic"> MIS Quarterly (MISQ), Journal of Management Information Systems (JMIS), Digital Forensics, Applied Artificial Intelligence</span>; at security conferences and workshops, such as <b>IEEE Security & Privacy Workshops</b>, <b>AAAI RSEML Workshop</b>, <b>IEEE ISI</b>; and, as a chapter in the book “Data Mining Trends and Applications in Criminal Science and Investigations.”</p>
+	My work has appeared in journals including <span style="font-style: italic"> MIS Quarterly, JMIS, Digital Forensics, Applied Artificial Intelligence</span>; at security conferences and workshops, such as <b>IEEE Security & Privacy Workshops</b>, <b>AAAI RSEML Workshop</b>, <b>IEEE ISI</b>; and, as a chapter in the book “Data Mining Trends and Applications in Criminal Science and Investigations.”</p>
 </div>
 
 <hr>
@@ -19,10 +19,10 @@ layout: default
 <div class="wrapper" style="border-bottom: 1px solid $grey-color-light; overflow:auto;">
 	<ul class="awards" style="margin-bottom: -5px">
 		<li>I will be serving as a <b>Program Committee (PC) Member</b> in the Infroms Data Science Workshop 2021.</li>
-		<li>Our paper on Binary Black Box Robustification was accepted at <b>IEEE S&P</b> Workshop on Deep Learning and Security (DLS)</li>
+		<li>Our paper on Binary Black Box Robustification was accepted at <b>IEEE S&P</b> Workshop on Deep Learning and Security (DLS).</li>
 		<li>Our paper, "Binary Black-box Evasion Attacks Against Deep Learning-based Static Malware Detectors with Adversarial Byte-Level Language Model" was accepted to the <b>AAAI</b> Conference on Artificial Intelligence, Workshop on Robust, Secure, and Efficient Machine Learning (RSEML), 2021.</li>
-		<li>Our Paper on Multilingual Security Analytics was accepted for publication in <span style="font-style: italic"> <b>MIS Quarterly</b></span> </li>
-		<li>Our Paper on Adversarial Cross-Lingual Knowledge Transfer in Hacker Forums was accepted at <b>IEEE S&P</b> Workshop on Deep Learning and Security (DLS)</li>
+		<li>Our Paper on Multilingual Security Analytics was accepted for publication in <span style="font-style: italic"> <b>MIS Quarterly</b>.</span> </li>
+		<li>Our Paper on Adversarial Cross-Lingual Knowledge Transfer in Hacker Forums was accepted at <b>IEEE S&P</b> Workshop on Deep Learning and Security (DLS).</li>
 		<li>I received the LaSalle Teaching Excellence Award.</li>
 		<li>I was selected to represent the University of Arizona in the ICIS 2020 doctoral consortium.</li>
 		<li>Our paper, "A Generative Adversarial Learning Framework for Breaking Text-Based CAPTCHA in the Dark Web" was accepted to IEEE ISI 2020.</li>
