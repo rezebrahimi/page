@@ -18,7 +18,7 @@ layout: default
 <p style="margin-top: -10px"><i>RECENT NEWS:</i></p>
 <div class="wrapper" style="border-bottom: 1px solid $grey-color-light; overflow:auto;">
 	<ul class="awards" style="margin-bottom: -5px">
-		<li>I will be serving as a program committee member in the Infroms Data Science Workshop 2021.</li>
+		<li>I will be serving as a Program Committee (PC) Member in the Infroms Data Science Workshop 2021.</li>
 		<li>Our paper on Binary Black Box Robustification was accepted at <b>IEEE S&P</b> Workshop on Deep Learning and Security (DLS)</li>
 		<li>Our paper, "Binary Black-box Evasion Attacks Against Deep Learning-based Static Malware Detectors with Adversarial Byte-Level Language Model" was accepted to the <b>AAAI</b> Conference on Artificial Intelligence, Workshop on Robust, Secure, and Efficient Machine Learning (RSEML), 2021.</li>
 		<li>Our Paper on Multilingual Security Analytics was accepted for publication in <span style="font-style: italic"> <b>MIS Quarterly</b></span> </li>
