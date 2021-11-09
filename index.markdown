@@ -16,7 +16,7 @@ layout: default
 
 [//]: ## News
 <p style="margin-top: -10px"><i>RECENT NEWS:</i></p>
-<div class="wrapper" style=" height:120px;width:120px; border-bottom: 1px solid $grey-color-light; overflow:auto;">
+<div class="wrapper" style=" height:800px; border-bottom: 1px solid $grey-color-light; overflow:auto;">
 	<ul class="awards" style="margin-bottom: -5px">
 		<li>Our paper, "Single-Shot Black-Box Adversarial Attacks Against Malware Detectors: A Causal Language Model Approach" was accepted to IEEE ISI 2021.
 		<li>Our paper on deep learning-based <b>privacy awareness</b> won the <b>best paper award</b> in IEEE ISI 2021.
