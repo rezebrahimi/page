@@ -25,9 +25,9 @@ layout: default
 		<li>Our paper, "Binary Black-box Evasion Attacks Against Deep Learning-based Static Malware Detectors with Adversarial Byte-Level Language Model" was accepted to the <b>AAAI</b> Conference on Artificial Intelligence, Workshop on Robust, Secure, and Efficient Machine Learning (RSEML), 2021.</li>
 		<li>Our Paper on Multilingual Security Analytics was accepted for publication in <span style="font-style: italic"> <b>MIS Quarterly</b>.</span> </li>
 		<li>Our Paper on Adversarial Cross-Lingual Knowledge Transfer in Hacker Forums was accepted at <b>IEEE S&P</b> Workshop on Deep Learning and Security (DLS).</li>
-		<li>I received the LaSalle <b>Teaching Excellence Award</b>.</li>
-		<li>I was selected to represent the University of Arizona in the ICIS 2020 doctoral consortium.</li>
+		<li>I received the 2021 LaSalle <b>Teaching Excellence Award</b> at University of Arizona.</li>
 		<li>Our paper, "A Generative Adversarial Learning Framework for Breaking Text-Based CAPTCHA in the Dark Web" was accepted to IEEE ISI 2020.</li>
+		<li>I was selected to represent the University of Arizona in the ICIS 2020 doctoral consortium.</li>
 		<li>I received the Paul S. and Shirley Goodman Award, 2020.</li>
 	</ul>
 </div>
