@@ -21,7 +21,7 @@ layout: default
 		<li>Our paper, "Single-Shot Black-Box Adversarial Attacks Against Malware Detectors: A Causal Language Model Approach" was accepted to <b>IEEE ISI</b>. 2021.</li>
 		<li>Our paper on deep learning-based <b>privacy awareness</b> won the <b>best paper award in IEEE ISI</b> 2021.</li>
 		<li>I serve as <b>Program Committee (PC) Member</b> in the Infroms Data Science Workshop 2021.</li>
-		<li>Our paper, on <a style="color:black;" href="https://ieeexplore.ieee.org/document/9474314"> Binary Black-box Malware Attacks</a> was accepted at <b>IEEE S&P</b> Workshop on Deep Learning and Security (DLS) 2021.</li>
+		<li>Our paper, on <a style="color:black;text-decoration-line: underline;" href="https://ieeexplore.ieee.org/document/9474314"> Binary Black-box Malware Attacks</a> was accepted at <b>IEEE S&P</b> Workshop on Deep Learning and Security (DLS) 2021.</li>
 		<li>Our paper, "Binary Black-box Evasion Attacks Against Deep Learning-based Static Malware Detectors with Adversarial Byte-Level Language Model" was accepted to the <b>AAAI</b> Conference on Artificial Intelligence, Workshop on Robust, Secure, and Efficient Machine Learning (RSEML), 2021.</li>
 		<li>Our Paper on Multilingual Security Analytics was accepted for publication in <span style="font-style: italic"> <b>MIS Quarterly</b>.</span> </li>
 		<li>Our Paper on Adversarial Cross-Lingual Knowledge Transfer in Hacker Forums was accepted at <b>IEEE S&P</b> Workshop on Deep Learning and Security (DLS).</li>
