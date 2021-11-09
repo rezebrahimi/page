@@ -16,8 +16,8 @@ layout: default
 
 [//]: ## News
 <p style="margin-top: -10px"><i>RECENT NEWS:</i></p>
-<div class="wrapper" style=" height:800px; border-bottom: 1px solid $grey-color-light; overflow:auto;">
-	<ul class="awards" style="margin-bottom: -5px">
+<div class="wrapper" style=" height:800px; border-bottom: 1px solid $grey-color-light;">
+	<!--<ul class="awards" style="margin-bottom: -5px">-->
 		<li>Our paper, "Single-Shot Black-Box Adversarial Attacks Against Malware Detectors: A Causal Language Model Approach" was accepted to IEEE ISI 2021.
 		<li>Our paper on deep learning-based <b>privacy awareness</b> won the <b>best paper award</b> in IEEE ISI 2021.
 		<li>I serve as <b>Program Committee (PC) Member</b> in the Infroms Data Science Workshop 2021.</li>
@@ -29,7 +29,7 @@ layout: default
 		<li>I was selected to represent the University of Arizona in the ICIS 2020 doctoral consortium.</li>
 		<li>Our paper, "A Generative Adversarial Learning Framework for Breaking Text-Based CAPTCHA in the Dark Web" was accepted to IEEE ISI 2020.</li>
 		<li>I received the Paul S. and Shirley Goodman Award, 2020.</li>
-	</ul>
+	<!--></ul>-->
 </div>
 
 <hr>
