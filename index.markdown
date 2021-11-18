@@ -18,7 +18,7 @@ layout: default
 <p style="margin-top: -10px"><i>RECENT NEWS:</i></p>
 <div class="wrapper" style="border-bottom: 1px solid $black <!--$grey-color-->; border:4px; height:380px; overflow:auto;">
 	<ul class="awards" style="margin-bottom: -5px">
-		<li>I won the Best Reviewer Award at Informs Data Science Workshop 2021</li>
+		<li>I received the Best Reviewer Award at Informs Data Science Workshop 2021</li>
 		<li>Our paper, "Single-Shot Black-Box Adversarial Attacks Against Malware Detectors: A Causal Language Model Approach" was accepted to <b>IEEE ISI</b>. 2021.</li>
 		<li>Our paper on deep learning-based <b>privacy awareness</b> won the <b>best paper award</b> in <b>IEEE ISI</b> 2021.</li>
 		<li>I serve as <b>Program Committee (PC) Member</b> in the Infroms Data Science Workshop 2021.</li>
