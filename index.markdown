@@ -20,7 +20,7 @@ layout: default
 	<ul class="awards" style="margin-bottom: -5px">
 		<li>I received the Best Reviewer Award at Informs Data Science Workshop 2021</li>
 		<li>Our paper, "Single-Shot Black-Box Adversarial Attacks Against Malware Detectors: A Causal Language Model Approach" was accepted to <b>IEEE ISI</b>. 2021.</li>
-		<li>Our paper on deep learning-based <b>privacy awareness</b> won the <b>best paper award</b> in <b>IEEE ISI</b> 2021.</li>
+		<li>Our paper on deep learning-based <a style="color:black;text-decoration-line: underline;" href="https://arxiv.org/abs/2111.09415"> won the privacy awareness </a><b>best paper award</b> in <b>IEEE ISI</b> 2021.</li>
 		<li>I serve as <b>Program Committee (PC) Member</b> in the Infroms Data Science Workshop 2021.</li>
 		<li>Our paper, on <a style="color:black;text-decoration-line: underline;" href="https://ieeexplore.ieee.org/document/9474314"> Binary Black-box Malware Attacks</a> was accepted at <b>IEEE S&P</b> Workshop on Deep Learning and Security (DLS) 2021.</li>
 		<li>Our paper, "Binary Black-box Evasion Attacks Against Deep Learning-based Static Malware Detectors with Adversarial Byte-Level Language Model" was accepted to the <b>AAAI</b> Conference on Artificial Intelligence, Workshop on Robust, Secure, and Efficient Machine Learning (RSEML), 2021.</li>
