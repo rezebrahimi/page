@@ -7,7 +7,7 @@ layout: default
 ---
 [//]: ## Biography
 <div class="wrapper" style="border-bottom: 1px solid $grey-color-light">
-	<p style="margin-top: -25px"><span style="font-weight: bold"><i>About me:</i> </span>I am an assistant professor at School of Information Systems and Management (SISM) at the University of South Florida. I received my PhD in Information Systems from the University of Arizona, where I was a research assistant at the Artifiical Intelligence (AI) Lab conducted by Regents’ Professor Hsinchun Chen. In 2016, I received my Master's in Computer Science from Concordia University in Montreal, Canada. My Ph.D. Thesis targets two interconnected research areas: Security of AI and AI for Security. My Master's thesis leveraged crime data mining to enhance juveniles safety in cyberspace.</p>
+	<p style="margin-top: -25px"><span style="font-weight: bold"><i>About me:</i> </span>I am an assistant professor at School of Information Systems and Management (SISM) at the University of South Florida. I received my PhD in Information Systems from the University of Arizona, where I was a research assistant at the Artifiical Intelligence (AI) Lab conducted by Regents’ Professor Hsinchun Chen. In 2016, I received my Master's in Computer Science from Concordia University in Montreal, Canada. My Ph.D. Thesis targets two interconnected research areas: Security of AI and AI for Security. My Master's thesis leveraged crime data mining to enhance juveniles' safety in cyberspace.</p>
 	<p style="margin-bottom: 10px"><span style="font-weight: bold"><i>Research:</i> </span>My current research interest is focused on AI-enabled Cybersecurity (Security of AI and AI for Cybersecurity) using a wide range of statistical learning theories, including Transductive Learning, Transfer Learning, Adversarial Learning, and Deep Reinforcement Learning. 
 	My work has appeared at security conferences and workshops such as <b>IEEE ISI</b>, <b>IEEE Security & Privacy Workshops</b>, <b>AAAI RSEML Workshop</b>; in journals including <span style="font-style: italic"><b>MIS Quarterly</b></span>, <span style="font-style: italic"><b>JMIS</b></span>, <span style="font-style: italic"><b>Digital Forensics</b></span>, <span style="font-style: italic"><b>Applied Artificial Intelligence</b></span>; and, as a chapter in the book “Data Mining Trends and Applications in Criminal Science and Investigations.”</p>
 </div>
@@ -413,18 +413,20 @@ layout: default
 <div class="wrapper">
 <h1 id="awardAnch">AWARDS & HONORS</h1>
 <ul class="awards">
-	<li>ACM SIGMIS Doctoral Dissertation Award 2021.</li>
-	<li>Best Reviewer Award, Informs Data Science Workshop 2021.</li>
+	<li>ACM SIGMIS Doctoral Dissertation Award, December 2021.</li>
+	<li>Best Paper Award in IEEE ISI, November 2021 (Paper: Automated PII Extraction from Social Media for Raising Privacy Awareness: A Deep Transfer Learning Approach) </li>
+	<li>Best Reviewer Award, Informs Data Science Workshop, 2021.</li>
 	<li>LaSalle Teaching Excellence Award, 2021.</li>
 	<li>Selected for Doctoral Consortium of International Conference on Information Systems (ICIS), 2020.</li>
 	<li>Paul S. and Shirley Goodman Award, 2020.</li>
 	<li>IEEE S&P Student Travel and Registration Award for Deep Learning and Security Workshop, May 2020.</li>
-	<li>IEEE ISI 2018 Best Paper Award Runner-up, November 9, 2018 (First author of: Detecting Cyber Threats in Non-English Dark Net Markets: A Cross-Lingual Transfer Learning Approach).</li>
+	<li>Best Paper Award Runner-up in IEEE ISI, November 2018 (Paper: Detecting Cyber Threats in Non-English Dark Net Markets: A Cross-Lingual Transfer Learning Approach).</li>
 	<li>Concordia University 25th Anniversary Fellowship – Engineering and Computer Science Department, January 2015 (Awarded based on academic excellence to a few students each year).</li>
 	<li>Power Corporation of Canada Graduate Fellowship, May 2015 (Awarded based on academic excellence to 5 students each year).</li>
 	<li>Graduate Conference and Exposition Award, December 2015.</li>
 	<li>Ranked 1st in RoboCup Iran Open International Competitions 2007-Middle Size Robots.</li>
-	<li>Top (1st) university student in Fall 2007 and Spring 2008 with GPAs of 18.43/20.00 and 19.50/20.00, respectively.</li>
+	<li>Ranked 1st university student in Fall 2007 and Spring 2008 with GPAs of 18.43/20.00 and 19.50/20.00, respectively.</li>
+
 </ul>
 </div>
 <a style="color:#ff4d4d;font-weight:bold;text-decoration:underline;text-align:right;display:block" href='#'>Back to Top</a>
