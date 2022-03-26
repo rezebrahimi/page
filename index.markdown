@@ -123,6 +123,8 @@ layout: default
 			doi = {10.1080/07421222.2020.1790186},URL = { https://doi.org/10.1080/07421222.2020.1790186},eprint = { https://doi.org/10.1080/07421222.2020.1790186}}
 			</td>
 		</tr>
+		
+		
 		<!-- <tr>
 			<td>
 				<p class="title">Involuntary Embarrassing Exposures in Online Social Networks: A Replication Study
@@ -143,13 +145,15 @@ layout: default
 				number={1}, pages={7}, year={2019}}
 			</td>
 		</tr>-->
+		
+		
 		<tr>
 			<td>
 				<p class="title">Detecting Predatory Conversations in Social Media by Deep Convolutional Neural Networks
 				<br><span class="author">M. Ebrahimi, C. Y. Suen, O. Ormandjieva</span>
 				<br><span class="paper"><i>Digital Investigation, Elsevier</i>, 2016</span></p>
-				<a class="button" href="#" onClick="return toggle('table1',7)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1',8)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1',9)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1',10)">BibTeX</a>
 				<a class="button3" href="publications/DetectingPredatoryConversationsinSocialMediabyDeepConvolutionalNeuralNetworks_Ebrahimi.pdf" target="_blank">PDF</a>
 				<a class="button4" href="https://www.sciencedirect.com/science/article/pii/S1742287616300731" target="_blank">DI</a>
 			</td>
@@ -163,13 +167,15 @@ layout: default
 				pages={33--49}, year={2016}, publisher={Elsevier}}
 			</td>
 		</tr>
+		
+		
 		<tr>
 			<td>
 				<p class="title">Automated Identification of Child Abuse in Chat Rooms by Using Data Mining
 				<br><span class="author">M. Keyvanpour, M. Ebrahimi, N. G. Nayebi, O. Ormandjieva, C. Y. Suen</span>
 				<br><span class="paper">Data Mining Trends and Applications in Criminal Science and Investigations, 2016.</span></p>
-				<a class="button" href="#" onClick="return toggle('table1',9)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1',10)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1',11)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1',12)">BibTeX</a>
 				<a class="button3" href="publications/AutomatedIdentificationofChildAbuseinChatRoomsbyUsingDataMining_Ebrahimi.pdf" target="_blank">PDF</a>
 				<a class="button4" href="https://www.igi-global.com/chapter/automated-identification-of-child-abuse-in-chat-rooms-by-using-data-mining/157462" target="_blank">DI</a>				
 			</td>
@@ -184,13 +190,15 @@ layout: default
 				publisher={IGI Global}}
 			</td>
 		</tr>
+		
+		
 		<tr>
 			<td>
 				<p class="title">Designing Efficient ANN Classifiers for Matching Burglaries from Dwelling Houses
 				<br><span class="author">M. Keyvanpour, M. Ebrahimi, M. Javideh</span>
 				<br><span class="paper"><i>Applied Artificial Intelligence, Taylor and Francis</i>, 2012</span></p>
-				<a class="button" href="#" onClick="return toggle('table1',11)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1',12)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1',13)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1',14)">BibTeX</a>
 				<a class="button3" href="publications/DesigningEfficientANNClassifiersforMatchingBurglariesfromDwellingHouses_Ebrahimi.pdf" target="_blank">PDF</a>
 				<a class="button4" href="https://www.tandfonline.com/doi/full/10.1080/08839514.2012.718227" target="_blank">AAI</a>
 			</td>
@@ -204,13 +212,15 @@ layout: default
 				volume={26}, number={8}, pages={787--807}, year={2012}, publisher={Taylor \& Francis}}
 			</td>
 		</tr>
+		
+		
 		<tr>
 			<td>
 				<p class="title">A Hybrid Geospatial Data Clustering Method for Hotspot Analysis
 				<br><span class="author">M. Keyvanpour, M. Javideh, M. Ebrahimi</span>
 				<br><span class="paper"><i>Journal of Computer and Robotics</i>, 2010</span></p>
-				<a class="button" href="#" onClick="return toggle('table1',13)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1',14)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1',15)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1',16)">BibTeX</a>
 				<a class="button3" href="publications/AHybridGeospatialDataClusteringMethodforHotspotAnalysis_Ebrahimi.pdf" target="_blank">PDF</a>
 				<a class="button4" href="http://www.qjcr.ir/article_616.html" target="_blank">JCR</a>
 			</td>
