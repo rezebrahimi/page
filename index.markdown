@@ -21,7 +21,7 @@ layout: default
 		<li>Our paper, "Heterogeneous Domain Adaptation with Deep Adversarial Representation Learning: Experiments on E-Commerce and Cybersecurity" was accepted to <b>IEEE TPAMI</b> 2022.</li>
 		<li>Our paper, "Counteracting Dark Web Text-Based CAPTCHA with Generative Adversarial Learning for Proactive Cyber Threat Intelligence" was accepted to <b>ACM TMIS</b> 2022.</li>
 		<li>My Ph.D. dissertation won the <b>ACM SIGMIS Doctoral Dissertation Award</b> 2021. </li>
-		<li>I received the Best Reviewer Award at Informs Data Science Workshop 2021.</li>
+		<li>I received the <i>Best Reviewer Award</i> at Informs Data Science Workshop 2021.</li>
 		<li>Our paper, "Single-Shot Black-Box Adversarial Attacks Against Malware Detectors: A Causal Language Model Approach" was accepted to <b>IEEE ISI</b> 2021.</li>
 		<li>Our paper on <a style="color:black;text-decoration-line: underline;" href="https://arxiv.org/abs/2111.09415"> deep learning-based privacy awareness </a> received the <b> best paper award</b> in <b>IEEE ISI</b> 2021.</li>
 		<li>I serve as <b>Program Committee (PC) Member</b> in the Infroms Data Science Workshop 2021.</li>
