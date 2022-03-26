@@ -72,8 +72,6 @@ layout: default
 		<tr style="display: none">
 			<td>This is an abstract.</td>
 		</tr>
-	</tbody>
-	<tbody>
 		<tr>
 			<td>
 				<p class="title">Cross-Lingual Security Analytics: Cyber Threat Detection in the International Dark Web with Adversarial Deep Representation Learning
