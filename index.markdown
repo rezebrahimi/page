@@ -30,7 +30,7 @@ layout: default
 		<li>I received the 2021 <b>LaSalle Teaching Excellence Award</b> at University of Arizona.</li>
 		<li>Our paper, "A Generative Adversarial Learning Framework for Breaking Text-Based CAPTCHA in the Dark Web" was accepted to IEEE ISI 2020.</li>
 		<li>I was selected to represent the University of Arizona in the ICIS 2020 doctoral consortium.</li>
-		<li>I received the 2020 Paul S. and Shirley Goodman Award.</li>
+		<li>I received the 2020 Paul S. and Shirley Goodman Award at the University of Arizona.</li>
 	</ul>
 </div>
 
