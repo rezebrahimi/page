@@ -18,7 +18,6 @@ layout: default
 <p style="margin-top: -10px"><i>RECENT NEWS:</i></p>
 <div class="wrapper" style="border-bottom: 1px solid $black <!--$grey-color-->; border:4px; height:380px; overflow:auto;">
 	<ul class="awards" style="margin-bottom: -5px">
-		<li>Our paper, "Heterogeneous Domain Adaptation with Deep Adversarial Representation Learning: Experiments on E-Commerce and Cybersecurity" was accepted to <b>IEEE TPAMI</b>.
 		<li>My Ph.D. dissertation won the <b>ACM SIGMIS Doctoral Dissertation Award</b> 2021. </li>
 		<li>I received the Best Reviewer Award at Informs Data Science Workshop 2021.</li>
 		<li>Our paper, "Single-Shot Black-Box Adversarial Attacks Against Malware Detectors: A Causal Language Model Approach" was accepted to <b>IEEE ISI</b> 2021.</li>
