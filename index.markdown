@@ -107,8 +107,8 @@ layout: default
 				<p class="title">Semi-Supervised Cyber Threat Identification in Dark Net Markets: A Transductive and Deep Learning Approach
 				<br><span class="author">M. Ebrahimi, J. F. Nunamaker Jr., H. Chen</span>
 				<br><span class="paper"><i>JMIS, Taylor and Francis, 2020</i></span></p>
-				<a class="button" href="#" onClick="return toggle('table1',6)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1',7)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1',7)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1',8)">BibTeX</a>
 				<a class="button3" href="publications/SemiSupervisedCyberThreatIdentificationInDarkNetMarketsATransductiveAndDeepLearningApproach.pdf" target="_blank">PDF</a>
 				<a class="button4" href="https://www.tandfonline.com/doi/full/10.1080/07421222.2020.1790186" target="_blank">JMIS</a>
 			</td>
