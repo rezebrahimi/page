@@ -192,7 +192,7 @@ layout: default
 	</tbody>
 </table>
 
-[//]: # ###################### JOURNAL PUBLICATIONS UNDER REVIEW ####################################
+<!--[//]: # ###################### JOURNAL PUBLICATIONS UNDER REVIEW ####################################
 
 <i>JOURNAL PUBLICATIONS UNDER REVIEW</i>
 <table class="table" id="table2">
@@ -208,7 +208,7 @@ layout: default
 			<td>This is an abstract.</td>
 		</tr>
 	</tbody>
-</table>
+</table>-->
 
 [//]: # ###################### REFEREED CONFERENCE PUBLICATIONS ####################################
 
