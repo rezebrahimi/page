@@ -66,14 +66,14 @@ layout: default
 			<td>
 				<p class="title">Heterogeneous Domain Adaptation with Deep Adversarial Representation Learning: Experiments on E-Commerce and Cybersecurity
 				<br><span class="author">M. Ebrahimi, Y. Chai, H. Zhang, H. Chen</span>
-				<br><span class="paper"><i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i>.</span></p>
+				<br><span class="paper"><i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i>, 2022.</span></p>
 			</td>
 		</tr>
 		<tr>
 			<td>
 				<p class="title">Counteracting Dark Web Text-Based CAPTCHA with Generative Adversarial Learning for Proactive Cyber Threat Intelligence
 				<br><span class="author">N. Zhang, M. Ebrahimi, W. Li, H. Chen</span>
-				<br><span class="paper"><i>ACM TMIS</i>.</span></p>
+				<br><span class="paper"><i>ACM TMIS</i> 2022</span></p>
 				<a class="button" href="#" onClick="return toggle('table1',2)">Abstract</a>
 				<a class="button2" href="#" onClick="return toggle('table1',3)">BibTeX</a>
 				<a class="button3" href="publications/captcha.pdf" target="_blank">PDF</a>
@@ -93,14 +93,14 @@ layout: default
 			<td>
 				<p class="title">Cross-Lingual Security Analytics: Cyber Threat Detection in the International Dark Web with Adversarial Deep Representation Learning
 				<br><span class="author">M. Ebrahimi, Y. Chai, S. Samtani, H. Chen</span>
-				<br><span class="paper">Forthcoming in <i> MIS Quarterly (MISQ)</i>.</span></p>
+				<br><span class="paper">Forthcoming in <i> MIS Quarterly (MISQ)</i> 2022 </span></p>
 			</td>
 		</tr>
 		<tr>
 			<td>
 				<p class="title">Semi-Supervised Cyber Threat Identification in Dark Net Markets: A Transductive and Deep Learning Approach
 				<br><span class="author">M. Ebrahimi, J. F. Nunamaker Jr., H. Chen</span>
-				<br><span class="paper"><i>JMIS, Taylor and Francis</i></span></p>
+				<br><span class="paper"><i>JMIS, Taylor and Francis, 2020</i></span></p>
 				<a class="button" href="#" onClick="return toggle('table1',5)">Abstract</a>
 				<a class="button2" href="#" onClick="return toggle('table1',6)">BibTeX</a>
 				<a class="button3" href="publications/SemiSupervisedCyberThreatIdentificationInDarkNetMarketsATransductiveAndDeepLearningApproach.pdf" target="_blank">PDF</a>
@@ -141,7 +141,7 @@ layout: default
 			<td>
 				<p class="title">Detecting Predatory Conversations in Social Media by Deep Convolutional Neural Networks
 				<br><span class="author">M. Ebrahimi, C. Y. Suen, O. Ormandjieva</span>
-				<br><span class="paper"><i>Digital Investigation, Elsevier</i>, Volume 18, pp. 33-49, 2016.</span></p>
+				<br><span class="paper"><i>Digital Investigation, Elsevier</i>, 2016</span></p>
 				<a class="button" href="#" onClick="return toggle('table1',7)">Abstract</a>
 				<a class="button2" href="#" onClick="return toggle('table1',8)">BibTeX</a>
 				<a class="button3" href="publications/DetectingPredatoryConversationsinSocialMediabyDeepConvolutionalNeuralNetworks_Ebrahimi.pdf" target="_blank">PDF</a>
@@ -182,7 +182,7 @@ layout: default
 			<td>
 				<p class="title">Designing Efficient ANN Classifiers for Matching Burglaries from Dwelling Houses
 				<br><span class="author">M. Keyvanpour, M. Ebrahimi, M. Javideh</span>
-				<br><span class="paper"><i>Applied Artificial Intelligence, Taylor and Francis</i>, 2012.</span></p>
+				<br><span class="paper"><i>Applied Artificial Intelligence, Taylor and Francis</i>, 2012</span></p>
 				<a class="button" href="#" onClick="return toggle('table1',11)">Abstract</a>
 				<a class="button2" href="#" onClick="return toggle('table1',12)">BibTeX</a>
 				<a class="button3" href="publications/DesigningEfficientANNClassifiersforMatchingBurglariesfromDwellingHouses_Ebrahimi.pdf" target="_blank">PDF</a>
@@ -202,7 +202,7 @@ layout: default
 			<td>
 				<p class="title">A Hybrid Geospatial Data Clustering Method for Hotspot Analysis
 				<br><span class="author">M. Keyvanpour, M. Javideh, M. Ebrahimi</span>
-				<br><span class="paper"><i>Journal of Computer and Robotics</i>, 2010.</span></p>
+				<br><span class="paper"><i>Journal of Computer and Robotics</i>, 2010</span></p>
 				<a class="button" href="#" onClick="return toggle('table1',13)">Abstract</a>
 				<a class="button2" href="#" onClick="return toggle('table1',14)">BibTeX</a>
 				<a class="button3" href="publications/AHybridGeospatialDataClusteringMethodforHotspotAnalysis_Ebrahimi.pdf" target="_blank">PDF</a>
