@@ -69,13 +69,15 @@ layout: default
 				<br><span class="paper"><i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i>, 2022.</span></p>
 			</td>
 		</tr>
+		
+		
 		<tr>
 			<td>
 				<p class="title">Counteracting Dark Web Text-Based CAPTCHA with Generative Adversarial Learning for Proactive Cyber Threat Intelligence
 				<br><span class="author">N. Zhang, M. Ebrahimi, W. Li, H. Chen</span>
 				<br><span class="paper"><i>ACM TMIS</i> 2022</span></p>
-				<a class="button" href="#" onClick="return toggle('table1',2)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1',3)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1',3)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1',4)">BibTeX</a>
 				<a class="button3" href="publications/captcha.pdf" target="_blank">PDF</a>
 				<a class="button4" href="https://dl.acm.org/doi/abs/10.1145/3505226" target="_blank">ACM TMIS</a>
 			</td>
@@ -89,6 +91,8 @@ layout: default
 				doi = {10.1145/3505226}, journal = {ACM Trans. Manage. Inf. Syst.}, month = {mar}, articleno = {21}, numpages = {21}, keywords = {generative adversarial networks, dark web, Automated CAPTCHA breaking}}
 			</td>
 		</tr>
+		
+		
 		<tr>
 			<td>
 				<p class="title">Cross-Lingual Security Analytics: Cyber Threat Detection in the International Dark Web with Adversarial Deep Representation Learning
@@ -96,13 +100,15 @@ layout: default
 				<br><span class="paper">Forthcoming in <i> MIS Quarterly (MISQ)</i> 2022 </span></p>
 			</td>
 		</tr>
+		
+		
 		<tr>
 			<td>
 				<p class="title">Semi-Supervised Cyber Threat Identification in Dark Net Markets: A Transductive and Deep Learning Approach
 				<br><span class="author">M. Ebrahimi, J. F. Nunamaker Jr., H. Chen</span>
 				<br><span class="paper"><i>JMIS, Taylor and Francis, 2020</i></span></p>
-				<a class="button" href="#" onClick="return toggle('table1',5)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1',6)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1',6)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1',7)">BibTeX</a>
 				<a class="button3" href="publications/SemiSupervisedCyberThreatIdentificationInDarkNetMarketsATransductiveAndDeepLearningApproach.pdf" target="_blank">PDF</a>
 				<a class="button4" href="https://www.tandfonline.com/doi/full/10.1080/07421222.2020.1790186" target="_blank">JMIS</a>
 			</td>
