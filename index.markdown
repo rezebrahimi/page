@@ -19,7 +19,6 @@ layout: default
 <div class="wrapper" style="border-bottom: 1px solid $black <!--$grey-color-->; border:4px; height:380px; overflow:auto;">
 	<ul class="awards" style="margin-bottom: -5px">
 		<li>Our paper, "Heterogeneous Domain Adaptation with Deep Adversarial Representation Learning: Experiments on E-Commerce and Cybersecurity" was accepted in <b>IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI)</b>.
-		<li>Our paper, "Counteracting Dark Web Text-Based CAPTCHA with Generative Adversarial Learning for Proactive Cyber Threat Intelligence" was published in ACM Transactions on Manage
 		<li>My Ph.D. dissertation won the <b>ACM SIGMIS Doctoral Dissertation Award</b> 2021. </li>
 		<li>I received the Best Reviewer Award at Informs Data Science Workshop 2021.</li>
 		<li>Our paper, "Single-Shot Black-Box Adversarial Attacks Against Malware Detectors: A Causal Language Model Approach" was accepted to <b>IEEE ISI</b> 2021.</li>
@@ -64,16 +63,6 @@ layout: default
 	<tbody>
 		<tr>
 			<td>
-				<p class="title">Heterogeneous Domain Adaptation with Deep Adversarial Representation Learning: Experiments on E-Commerce and Cybersecurity
-				<br><span class="author">M. Ebrahimi, Y. Chai, H. Zhang, H. Chen</span>
-				<br><span class="paper"><i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i>.</span></p>
-			</td>
-		</tr>
-		<tr style="display: none">
-			<td>This is an abstract.</td>
-		</tr>
-		<tr>
-			<td>
 				<p class="title">Cross-Lingual Security Analytics: Cyber Threat Detection in the International Dark Web with Adversarial Deep Representation Learning
 				<br><span class="author">M. Ebrahimi, Y. Chai, S. Samtani, H. Chen</span>
 				<br><span class="paper">Forthcoming in <i> MIS Quarterly (MISQ)</i>.</span></p>
@@ -84,8 +73,8 @@ layout: default
 				<p class="title">Semi-Supervised Cyber Threat Identification in Dark Net Markets: A Transductive and Deep Learning Approach
 				<br><span class="author">M. Ebrahimi, J. F. Nunamaker Jr., H. Chen</span>
 				<br><span class="paper"><i>Journal of Management Information Systems (JMIS)</i>, Volume 37(3).</span></p>
-				<a class="button" href="#" onClick="return toggle('table1',3)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1',4)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1',1)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1',2)">BibTeX</a>
 				<a class="button3" href="publications/SemiSupervisedCyberThreatIdentificationInDarkNetMarketsATransductiveAndDeepLearningApproach.pdf" target="_blank">PDF</a>
 				<a class="button4" href="https://www.tandfonline.com/doi/full/10.1080/07421222.2020.1790186" target="_blank">JMIS</a>
 			</td>
@@ -204,7 +193,7 @@ layout: default
 	</tbody>
 </table>
 
-<!--[//]: # ###################### JOURNAL PUBLICATIONS UNDER REVIEW ####################################
+[//]: # ###################### JOURNAL PUBLICATIONS UNDER REVIEW ####################################
 
 <i>JOURNAL PUBLICATIONS UNDER REVIEW</i>
 <table class="table" id="table2">
@@ -220,7 +209,7 @@ layout: default
 			<td>This is an abstract.</td>
 		</tr>
 	</tbody>
-</table>-->
+</table>
 
 [//]: # ###################### REFEREED CONFERENCE PUBLICATIONS ####################################
 
