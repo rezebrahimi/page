@@ -74,8 +74,8 @@ layout: default
 				<p class="title">Semi-Supervised Cyber Threat Identification in Dark Net Markets: A Transductive and Deep Learning Approach
 				<br><span class="author">M. Ebrahimi, J. F. Nunamaker Jr., H. Chen</span>
 				<br><span class="paper"><i>Journal of Management Information Systems (JMIS)</i>, Volume 37(3).</span></p>
-				<a class="button" href="#" onClick="return toggle('table1',1)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1',2)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1',2)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1',3)">BibTeX</a>
 				<a class="button3" href="publications/SemiSupervisedCyberThreatIdentificationInDarkNetMarketsATransductiveAndDeepLearningApproach.pdf" target="_blank">PDF</a>
 				<a class="button4" href="https://www.tandfonline.com/doi/full/10.1080/07421222.2020.1790186" target="_blank">JMIS</a>
 			</td>
@@ -115,8 +115,8 @@ layout: default
 				<p class="title">Detecting Predatory Conversations in Social Media by Deep Convolutional Neural Networks
 				<br><span class="author">M. Ebrahimi, C. Y. Suen, O. Ormandjieva</span>
 				<br><span class="paper"><i>Digital Investigation, Elsevier</i>, Volume 18, pp. 33-49, 2016.</span></p>
-				<a class="button" href="#" onClick="return toggle('table1',7)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1',8)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1',4)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1',5)">BibTeX</a>
 				<a class="button3" href="publications/DetectingPredatoryConversationsinSocialMediabyDeepConvolutionalNeuralNetworks_Ebrahimi.pdf" target="_blank">PDF</a>
 				<a class="button4" href="https://www.sciencedirect.com/science/article/pii/S1742287616300731" target="_blank">DI</a>
 			</td>
@@ -135,8 +135,8 @@ layout: default
 				<p class="title">Automated Identification of Child Abuse in Chat Rooms by Using Data Mining
 				<br><span class="author">M. Keyvanpour, M. Ebrahimi, N. G. Nayebi, O. Ormandjieva, C. Y. Suen</span>
 				<br><span class="paper">Data Mining Trends and Applications in Criminal Science and Investigations, IGI-Global Publications, pp. 245-274, 2016.</span></p>
-				<a class="button" href="#" onClick="return toggle('table1',10)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1',11)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1',6)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1',7)">BibTeX</a>
 				<a class="button3" href="publications/AutomatedIdentificationofChildAbuseinChatRoomsbyUsingDataMining_Ebrahimi.pdf" target="_blank">PDF</a>
 				<a class="button4" href="https://www.igi-global.com/chapter/automated-identification-of-child-abuse-in-chat-rooms-by-using-data-mining/157462" target="_blank">DI</a>				
 			</td>
@@ -156,8 +156,8 @@ layout: default
 				<p class="title">Designing Efficient ANN Classifiers for Matching Burglaries from Dwelling Houses
 				<br><span class="author">M. Keyvanpour, M. Ebrahimi, M. Javideh</span>
 				<br><span class="paper">Applied Artificial Intelligence, Taylor and Francis, Volume 26(8), pp. 787-807, 2012.</span></p>
-				<a class="button" href="#" onClick="return toggle('table1',13)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1',14)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1',8)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1',9)">BibTeX</a>
 				<a class="button3" href="publications/DesigningEfficientANNClassifiersforMatchingBurglariesfromDwellingHouses_Ebrahimi.pdf" target="_blank">PDF</a>
 				<a class="button4" href="https://www.tandfonline.com/doi/full/10.1080/08839514.2012.718227" target="_blank">AAI</a>
 			</td>
@@ -176,8 +176,8 @@ layout: default
 				<p class="title">A Hybrid Geospatial Data Clustering Method for Hotspot Analysis
 				<br><span class="author">M. Keyvanpour, M. Javideh, M. Ebrahimi</span>
 				<br><span class="paper">Journal of Computer and Robotics, Qazvin Azad University, Volume 2(1), pp. 53-67, 2010.</span></p>
-				<a class="button" href="#" onClick="return toggle('table1',16)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1',17)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1',10)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1',11)">BibTeX</a>
 				<a class="button3" href="publications/AHybridGeospatialDataClusteringMethodforHotspotAnalysis_Ebrahimi.pdf" target="_blank">PDF</a>
 				<a class="button4" href="http://www.qjcr.ir/article_616.html" target="_blank">JCR</a>
 			</td>
