@@ -64,6 +64,33 @@ layout: default
 	<tbody>
 		<tr>
 			<td>
+				<p class="title">Heterogeneous Domain Adaptation with Deep Adversarial Representation Learning: Experiments on E-Commerce and Cybersecurity
+				<br><span class="author">M. Ebrahimi, Y. Chai, H. Zhang, H. Chen</span>
+				<br><span class="paper"><i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i>.</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p class="title">Counteracting Dark Web Text-Based CAPTCHA with Generative Adversarial Learning for Proactive Cyber Threat Intelligence
+				<br><span class="author">N. Zhang, M. Ebrahimi, W. Li, H. Chen</span>
+				<br><span class="paper"><i>ACM TMIS</i>.</span></p>
+				<a class="button" href="#" onClick="return toggle('table1',2)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1',3)">BibTeX</a>
+				<a class="button3" href="publications/captcha.pdf" target="_blank">PDF</a>
+				<a class="button4" href="https://dl.acm.org/doi/abs/10.1145/3505226" target="_blank">ACM TMIS</a>
+			</td>
+		</tr>
+		<tr style="display: none">
+			<td>Automated monitoring of dark web (DW) platforms on a large scale is the first step toward developing proactive Cyber Threat Intelligence (CTI). While there are efficient methods for collecting data from the surface web, large-scale dark web data collection is often hindered by anti-crawling measures. In particular, text-based CAPTCHA serves as the most prevalent and prohibiting type of these measures in the dark web. Text-based CAPTCHA identifies and blocks automated crawlers by forcing the user to enter a combination of hard-to-recognize alphanumeric characters. In the dark web, CAPTCHA images are meticulously designed with additional background noise and variable character length to prevent automated CAPTCHA breaking. Existing automated CAPTCHA breaking methods have difficulties in overcoming these dark web challenges. As such, solving dark web text-based CAPTCHA has been relying heavily on human involvement, which is labor-intensive and time-consuming. In this study, we propose a novel framework for automated breaking of dark web CAPTCHA to facilitate dark web data collection. This framework encompasses a novel generative method to recognize dark web text-based CAPTCHA with noisy background and variable character length. To eliminate the need for human involvement, the proposed framework utilizes Generative Adversarial Network (GAN) to counteract dark web background noise and leverages an enhanced character segmentation algorithm to handle CAPTCHA images with variable character length. Our proposed framework, DW-GAN, was systematically evaluated on multiple dark web CAPTCHA testbeds. DW-GAN significantly outperformed the state-of-the-art benchmark methods on all datasets, achieving over 94.4% success rate on a carefully collected real-world dark web dataset. We further conducted a case study on an emergent Dark Net Marketplace (DNM) to demonstrate that DW-GAN eliminated human involvement by automatically solving CAPTCHA challenges with no more than three attempts. Our research enables the CTI community to develop advanced, large-scale dark web monitoring. We make DW-GAN code available to the community as an open-source tool in GitHub.</td>
+		</tr>
+		<tr style="display: none">
+			<td>@article{10.1145/3505226, author = {Zhang, Ning and Ebrahimi, Mohammadreza and Li, Weifeng and Chen, Hsinchun}, title = {Counteracting Dark Web Text-Based CAPTCHA with Generative Adversarial Learning for Proactive Cyber Threat Intelligence},
+				year = {2022}, issue_date = {June 2022}, publisher = {Association for Computing Machinery}, address = {New York, NY, USA}, volume = {13}, number = {2}, issn = {2158-656X}, url = {https://doi.org/10.1145/3505226},
+				doi = {10.1145/3505226}, journal = {ACM Trans. Manage. Inf. Syst.}, month = {mar}, articleno = {21}, numpages = {21}, keywords = {generative adversarial networks, dark web, Automated CAPTCHA breaking}}
+			</td>
+		</tr>
+		<tr>
+			<td>
 				<p class="title">Cross-Lingual Security Analytics: Cyber Threat Detection in the International Dark Web with Adversarial Deep Representation Learning
 				<br><span class="author">M. Ebrahimi, Y. Chai, S. Samtani, H. Chen</span>
 				<br><span class="paper">Forthcoming in <i> MIS Quarterly (MISQ)</i>.</span></p>
