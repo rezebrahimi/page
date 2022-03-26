@@ -76,8 +76,8 @@ layout: default
 				<p class="title">Counteracting Dark Web Text-Based CAPTCHA with Generative Adversarial Learning for Proactive Cyber Threat Intelligence
 				<br><span class="author">N. Zhang, M. Ebrahimi, W. Li, H. Chen</span>
 				<br><span class="paper"><i>ACM TMIS</i> 2022</span></p>
-				<a class="button" href="#" onClick="return toggle('table1',3)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1',4)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1',2)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1',3)">BibTeX</a>
 				<a class="button3" href="publications/captcha.pdf" target="_blank">PDF</a>
 				<a class="button4" href="https://dl.acm.org/doi/abs/10.1145/3505226" target="_blank">ACM TMIS</a>
 			</td>
