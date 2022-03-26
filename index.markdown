@@ -62,6 +62,7 @@ layout: default
 
 <table class="table" id="table1">
 	<tbody>
+		<!-- This is row 0, each <tr> increments-->
 		<tr>
 			<td>
 				<p class="title">Heterogeneous Domain Adaptation with Deep Adversarial Representation Learning: Experiments on E-Commerce and Cybersecurity
@@ -174,8 +175,8 @@ layout: default
 				<p class="title">Automated Identification of Child Abuse in Chat Rooms by Using Data Mining
 				<br><span class="author">M. Keyvanpour, M. Ebrahimi, N. G. Nayebi, O. Ormandjieva, C. Y. Suen</span>
 				<br><span class="paper"><i>Data Mining Trends and Applications in Criminal Science and Investigations, 2016</i></span></p>
-				<a class="button" href="#" onClick="return toggle('table1',9)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1',10)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1',12)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1',13)">BibTeX</a>
 				<a class="button3" href="publications/AutomatedIdentificationofChildAbuseinChatRoomsbyUsingDataMining_Ebrahimi.pdf" target="_blank">PDF</a>
 				<a class="button4" href="https://www.igi-global.com/chapter/automated-identification-of-child-abuse-in-chat-rooms-by-using-data-mining/157462" target="_blank">DI</a>				
 			</td>
@@ -197,8 +198,8 @@ layout: default
 				<p class="title">Designing Efficient ANN Classifiers for Matching Burglaries from Dwelling Houses
 				<br><span class="author">M. Keyvanpour, M. Ebrahimi, M. Javideh</span>
 				<br><span class="paper"><i>Applied Artificial Intelligence, Taylor and Francis, 2012</i></span></p>
-				<a class="button" href="#" onClick="return toggle('table1',11)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1',12)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1',15)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1',16)">BibTeX</a>
 				<a class="button3" href="publications/DesigningEfficientANNClassifiersforMatchingBurglariesfromDwellingHouses_Ebrahimi.pdf" target="_blank">PDF</a>
 				<a class="button4" href="https://www.tandfonline.com/doi/full/10.1080/08839514.2012.718227" target="_blank">AAI</a>
 			</td>
@@ -219,8 +220,8 @@ layout: default
 				<p class="title">A Hybrid Geospatial Data Clustering Method for Hotspot Analysis
 				<br><span class="author">M. Keyvanpour, M. Javideh, M. Ebrahimi</span>
 				<br><span class="paper"><i>Journal of Computer and Robotics, 2010</i></span></p>
-				<a class="button" href="#" onClick="return toggle('table1',13)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1',14)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1',18)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1',19)">BibTeX</a>
 				<a class="button3" href="publications/AHybridGeospatialDataClusteringMethodforHotspotAnalysis_Ebrahimi.pdf" target="_blank">PDF</a>
 				<a class="button4" href="http://www.qjcr.ir/article_616.html" target="_blank">JCR</a>
 			</td>
