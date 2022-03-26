@@ -66,7 +66,7 @@ layout: default
 			<td>
 				<p class="title">Heterogeneous Domain Adaptation with Deep Adversarial Representation Learning: Experiments on E-Commerce and Cybersecurity
 				<br><span class="author">M. Ebrahimi, Y. Chai, H. Zhang, H. Chen</span>
-				<br><span class="paper"><i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i>, 2022.</span></p>
+				<br><span class="paper"><i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022</i></span></p>
 			</td>
 		</tr>
 		
@@ -75,7 +75,7 @@ layout: default
 			<td>
 				<p class="title">Counteracting Dark Web Text-Based CAPTCHA with Generative Adversarial Learning for Proactive Cyber Threat Intelligence
 				<br><span class="author">N. Zhang, M. Ebrahimi, W. Li, H. Chen</span>
-				<br><span class="paper"><i>ACM TMIS</i> 2022</span></p>
+				<br><span class="paper"><i>ACM TMIS, 2022</i> </span></p>
 				<a class="button" href="#" onClick="return toggle('table1',2)">Abstract</a>
 				<a class="button2" href="#" onClick="return toggle('table1',3)">BibTeX</a>
 				<a class="button3" href="publications/captcha.pdf" target="_blank">PDF</a>
@@ -97,7 +97,7 @@ layout: default
 			<td>
 				<p class="title">Cross-Lingual Security Analytics: Cyber Threat Detection in the International Dark Web with Adversarial Deep Representation Learning
 				<br><span class="author">M. Ebrahimi, Y. Chai, S. Samtani, H. Chen</span>
-				<br><span class="paper">Forthcoming in <i> MIS Quarterly (MISQ)</i> 2022 </span></p>
+				<br><span class="paper">Forthcoming in <i> MIS Quarterly (MISQ), 2022</i> </span></p>
 			</td>
 		</tr>
 		
@@ -173,7 +173,7 @@ layout: default
 			<td>
 				<p class="title">Automated Identification of Child Abuse in Chat Rooms by Using Data Mining
 				<br><span class="author">M. Keyvanpour, M. Ebrahimi, N. G. Nayebi, O. Ormandjieva, C. Y. Suen</span>
-				<br><span class="paper">Data Mining Trends and Applications in Criminal Science and Investigations, 2016.</span></p>
+				<br><span class="paper"><i>Data Mining Trends and Applications in Criminal Science and Investigations, 2016</i></span></p>
 				<a class="button" href="#" onClick="return toggle('table1',9)">Abstract</a>
 				<a class="button2" href="#" onClick="return toggle('table1',10)">BibTeX</a>
 				<a class="button3" href="publications/AutomatedIdentificationofChildAbuseinChatRoomsbyUsingDataMining_Ebrahimi.pdf" target="_blank">PDF</a>
@@ -196,7 +196,7 @@ layout: default
 			<td>
 				<p class="title">Designing Efficient ANN Classifiers for Matching Burglaries from Dwelling Houses
 				<br><span class="author">M. Keyvanpour, M. Ebrahimi, M. Javideh</span>
-				<br><span class="paper"><i>Applied Artificial Intelligence, Taylor and Francis</i>, 2012</span></p>
+				<br><span class="paper"><i>Applied Artificial Intelligence, Taylor and Francis, 2012</i></span></p>
 				<a class="button" href="#" onClick="return toggle('table1',11)">Abstract</a>
 				<a class="button2" href="#" onClick="return toggle('table1',12)">BibTeX</a>
 				<a class="button3" href="publications/DesigningEfficientANNClassifiersforMatchingBurglariesfromDwellingHouses_Ebrahimi.pdf" target="_blank">PDF</a>
@@ -218,7 +218,7 @@ layout: default
 			<td>
 				<p class="title">A Hybrid Geospatial Data Clustering Method for Hotspot Analysis
 				<br><span class="author">M. Keyvanpour, M. Javideh, M. Ebrahimi</span>
-				<br><span class="paper"><i>Journal of Computer and Robotics</i>, 2010</span></p>
+				<br><span class="paper"><i>Journal of Computer and Robotics, 2010</i></span></p>
 				<a class="button" href="#" onClick="return toggle('table1',13)">Abstract</a>
 				<a class="button2" href="#" onClick="return toggle('table1',14)">BibTeX</a>
 				<a class="button3" href="publications/AHybridGeospatialDataClusteringMethodforHotspotAnalysis_Ebrahimi.pdf" target="_blank">PDF</a>
