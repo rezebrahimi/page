@@ -68,17 +68,27 @@ layout: default
 				<p class="title">Heterogeneous Domain Adaptation with Deep Adversarial Representation Learning: Experiments on E-Commerce and Cybersecurity
 				<br><span class="author">M. Ebrahimi, Y. Chai, H. Zhang, H. Chen</span>
 				<br><span class="paper"><i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022</i></span></p>
+				<a class="button" href="#" onClick="return toggle('table1',2)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1',3)">BibTeX</a>
+				<a class="button3" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9744510">PDF</a>
+				<a class="button4" href="https://ieeexplore.ieee.org/abstract/document/9744510" target="_blank">ACM TMIS</a>
 			</td>
 		</tr>
-		
+		<tr style="display: none">
+			<td>Learning predictive models in new domains with scarce training data is a growing challenge in modern supervised learning scenarios. This incentivizes developing domain adaptation methods that leverage the knowledge in known domains (source) and adapt to new domains (target) with a different probability distribution. This becomes more challenging when the source and target domains are in heterogeneous feature spaces, known as heterogeneous domain adaptation (HDA). While most HDA methods utilize mathematical optimization to map source and target data to a common space, they suffer from low transferability. Neural representations have proven to be more transferable; however, they are mainly designed for homogeneous environments. Drawing on the theory of domain adaptation, we propose a novel framework, Heterogeneous Adversarial Neural Domain Adaptation (HANDA), to effectively maximize the transferability in heterogeneous environments. HANDA conducts feature and distribution alignment in a unified neural network architecture and achieves domain invariance through adversarial kernel learning. Three experiments were conducted to evaluate the performance against the state-of-the-art HDA methods on major image and text e-commerce benchmarks. HANDA shows statistically significant improvement in predictive performance. The practical utility of HANDA was shown in real-world dark web online markets. HANDA is an important step towards successful domain adaptation in e-commerce applications.</td>
+		</tr>
+		<tr style="display: none">
+			<td>@ARTICLE{9744510,  author={Ebrahimi, Mohammadreza and Chai, Yidong and Zhang, Hao Helen and Chen, Hsinchun},  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},   title={Heterogeneous Domain Adaptation with Adversarial Neural Representation Learning: Experiments on E-Commerce and Cybersecurity},   year={2022},  volume={},  number={},  pages={1-1},  doi={10.1109/TPAMI.2022.3163338}}
+			</td>
+		</tr>
 		
 		<tr>
 			<td>
 				<p class="title">Counteracting Dark Web Text-Based CAPTCHA with Generative Adversarial Learning for Proactive Cyber Threat Intelligence
 				<br><span class="author">N. Zhang, M. Ebrahimi, W. Li, H. Chen</span>
 				<br><span class="paper"><i>ACM TMIS, 2022</i> </span></p>
-				<a class="button" href="#" onClick="return toggle('table1',2)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1',3)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1',4)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1',5)">BibTeX</a>
 				<a class="button3" href="publications/captcha.pdf" target="_blank">PDF</a>
 				<a class="button4" href="https://dl.acm.org/doi/abs/10.1145/3505226" target="_blank">ACM TMIS</a>
 			</td>
@@ -108,8 +118,8 @@ layout: default
 				<p class="title">Semi-Supervised Cyber Threat Identification in Dark Net Markets: A Transductive and Deep Learning Approach
 				<br><span class="author">M. Ebrahimi, J. F. Nunamaker Jr., H. Chen</span>
 				<br><span class="paper"><i>JMIS, Taylor and Francis, 2020</i></span></p>
-				<a class="button" href="#" onClick="return toggle('table1',6)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1',7)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1',8)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1',9)">BibTeX</a>
 				<a class="button3" href="publications/SemiSupervisedCyberThreatIdentificationInDarkNetMarketsATransductiveAndDeepLearningApproach.pdf" target="_blank">PDF</a>
 				<a class="button4" href="https://www.tandfonline.com/doi/full/10.1080/07421222.2020.1790186" target="_blank">JMIS</a>
 			</td>
@@ -153,8 +163,8 @@ layout: default
 				<p class="title">Detecting Predatory Conversations in Social Media by Deep Convolutional Neural Networks
 				<br><span class="author">M. Ebrahimi, C. Y. Suen, O. Ormandjieva</span>
 				<br><span class="paper"><i>Digital Investigation, Elsevier</i>, 2016</span></p>
-				<a class="button" href="#" onClick="return toggle('table1',9)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1',10)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1',11)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1',12)">BibTeX</a>
 				<a class="button3" href="publications/DetectingPredatoryConversationsinSocialMediabyDeepConvolutionalNeuralNetworks_Ebrahimi.pdf" target="_blank">PDF</a>
 				<a class="button4" href="https://www.sciencedirect.com/science/article/pii/S1742287616300731" target="_blank">DI</a>
 			</td>
@@ -175,8 +185,8 @@ layout: default
 				<p class="title">Automated Identification of Child Abuse in Chat Rooms by Using Data Mining
 				<br><span class="author">M. Keyvanpour, M. Ebrahimi, N. G. Nayebi, O. Ormandjieva, C. Y. Suen</span>
 				<br><span class="paper"><i>Data Mining Trends and Applications in Criminal Science and Investigations, 2016</i></span></p>
-				<a class="button" href="#" onClick="return toggle('table1',12)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1',13)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1',14)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1',16)">BibTeX</a>
 				<a class="button3" href="publications/AutomatedIdentificationofChildAbuseinChatRoomsbyUsingDataMining_Ebrahimi.pdf" target="_blank">PDF</a>
 				<a class="button4" href="https://www.igi-global.com/chapter/automated-identification-of-child-abuse-in-chat-rooms-by-using-data-mining/157462" target="_blank">DI</a>				
 			</td>
@@ -198,8 +208,8 @@ layout: default
 				<p class="title">Designing Efficient ANN Classifiers for Matching Burglaries from Dwelling Houses
 				<br><span class="author">M. Keyvanpour, M. Ebrahimi, M. Javideh</span>
 				<br><span class="paper"><i>Applied Artificial Intelligence, Taylor and Francis, 2012</i></span></p>
-				<a class="button" href="#" onClick="return toggle('table1',15)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1',16)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1',17)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1',18)">BibTeX</a>
 				<a class="button3" href="publications/DesigningEfficientANNClassifiersforMatchingBurglariesfromDwellingHouses_Ebrahimi.pdf" target="_blank">PDF</a>
 				<a class="button4" href="https://www.tandfonline.com/doi/full/10.1080/08839514.2012.718227" target="_blank">AAI</a>
 			</td>
@@ -220,8 +230,8 @@ layout: default
 				<p class="title">A Hybrid Geospatial Data Clustering Method for Hotspot Analysis
 				<br><span class="author">M. Keyvanpour, M. Javideh, M. Ebrahimi</span>
 				<br><span class="paper"><i>Journal of Computer and Robotics, 2010</i></span></p>
-				<a class="button" href="#" onClick="return toggle('table1',18)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1',19)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1',20)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1',21)">BibTeX</a>
 				<a class="button3" href="publications/AHybridGeospatialDataClusteringMethodforHotspotAnalysis_Ebrahimi.pdf" target="_blank">PDF</a>
 				<a class="button4" href="http://www.qjcr.ir/article_616.html" target="_blank">JCR</a>
 			</td>
