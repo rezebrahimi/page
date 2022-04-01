@@ -23,7 +23,7 @@ layout: default
 		<li>My Ph.D. dissertation won the <b>ACM SIGMIS Doctoral Dissertation Award</b> 2021. </li>
 		<li>I received the <i>Best Reviewer Award</i> at Informs Data Science Workshop 2021.</li>
 		<li>Our paper, "Single-Shot Black-Box Adversarial Attacks Against Malware Detectors: A Causal Language Model Approach" was accepted to <b>IEEE ISI</b> 2021.</li>
-		<li>Our paper on <a style="color:blue;text-decoration-line: underline;" href="https://arxiv.org/abs/2111.09415"> "Deep Learning-based Privacy Awareness" </a> received the <b> best paper award</b> in <b>IEEE ISI</b> 2021.</li>
+		<li>Our paper on <a style="color:blue;text-decoration-line: underline;" href="https://arxiv.org/abs/2111.09415"> "Deep Learning-based Privacy Awareness" </a> received the <i> best paper award</i> in <b>IEEE ISI</b> 2021.</li>
 		<li>I serve as <b>Program Committee (PC) Member</b> in the Infroms Data Science Workshop 2021.</li>
 		<li>Our paper, on <a style="color:blue;text-decoration-line: underline;" href="https://ieeexplore.ieee.org/document/9474314"> "Binary Black-Box Attacks Against Static Malware Detectors with Reinforcement Learning in Discrete Action Spaces"</a> was accepted at <b>IEEE S&P</b> Workshop on Deep Learning and Security (DLS) 2021.</li>
 		<li>Our paper, <a style="color:blue;text-decoration-line: underline;" href="https://arxiv.org/abs/2012.07994"> "Binary Black-box Evasion Attacks Against Deep Learning-based Static Malware Detectors with Adversarial Byte-Level Language Model"</a> was accepted to the <b>AAAI</b> Conference on Artificial Intelligence, Workshop on Robust, Secure, and Efficient Machine Learning (RSEML), 2021.</li>
