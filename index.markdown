@@ -18,14 +18,14 @@ layout: default
 <p style="margin-top: -10px"><i>RECENT NEWS:</i></p>
 <div class="wrapper" style="border-bottom: 1px solid $black <!--$grey-color-->; border:4px; height:380px; overflow:auto;">
 	<ul class="awards" style="margin-bottom: -5px">
-		<li>Our paper, "Heterogeneous Domain Adaptation with Deep Adversarial Representation Learning: Experiments on E-Commerce and Cybersecurity" was accepted to <b>IEEE TPAMI</b> 2022.</li>
+		<li>Our paper, <a style="color:blue;text-decoration-line: underline;" href="publications/Heterogeneous_Domain_Adaptation_with_Adversarial_Neural_Representation_Learning_Experiments_on_E-Commerce_and_Cybersecurity.pdf"> "Heterogeneous Domain Adaptation with Deep Adversarial Representation Learning: Experiments on E-Commerce and Cybersecurity"</a> was accepted to <b>IEEE TPAMI</b> 2022.</li>
 		<li>Our paper, "Counteracting Dark Web Text-Based CAPTCHA with Generative Adversarial Learning for Proactive Cyber Threat Intelligence" was accepted to <b>ACM TMIS</b> 2022.</li>
 		<li>My Ph.D. dissertation won the <b>ACM SIGMIS Doctoral Dissertation Award</b> 2021. </li>
 		<li>I received the <i>Best Reviewer Award</i> at Informs Data Science Workshop 2021.</li>
 		<li>Our paper, "Single-Shot Black-Box Adversarial Attacks Against Malware Detectors: A Causal Language Model Approach" was accepted to <b>IEEE ISI</b> 2021.</li>
-		<li>Our paper on <a style="color:black;text-decoration-line: underline;" href="https://arxiv.org/abs/2111.09415"> deep learning-based privacy awareness </a> received the <b> best paper award</b> in <b>IEEE ISI</b> 2021.</li>
+		<li>Our paper on <a style="color:blue;text-decoration-line: underline;" href="https://arxiv.org/abs/2111.09415"> deep learning-based privacy awareness </a> received the <b> best paper award</b> in <b>IEEE ISI</b> 2021.</li>
 		<li>I serve as <b>Program Committee (PC) Member</b> in the Infroms Data Science Workshop 2021.</li>
-		<li>Our paper, on <a style="color:black;text-decoration-line: underline;" href="https://ieeexplore.ieee.org/document/9474314"> Binary Black-box Malware Attacks</a> was accepted at <b>IEEE S&P</b> Workshop on Deep Learning and Security (DLS) 2021.</li>
+		<li>Our paper, on <a style="color:blue;text-decoration-line: underline;" href="https://ieeexplore.ieee.org/document/9474314"> Binary Black-box Malware Attacks</a> was accepted at <b>IEEE S&P</b> Workshop on Deep Learning and Security (DLS) 2021.</li>
 		<li>Our paper, "Binary Black-box Evasion Attacks Against Deep Learning-based Static Malware Detectors with Adversarial Byte-Level Language Model" was accepted to the <b>AAAI</b> Conference on Artificial Intelligence, Workshop on Robust, Secure, and Efficient Machine Learning (RSEML), 2021.</li>
 		<li>Our Paper on Multilingual Security Analytics was accepted for publication in <span style="font-style: italic"> <b>MIS Quarterly</b>.</span> </li>
 		<li>Our Paper on Adversarial Cross-Lingual Knowledge Transfer in Hacker Forums was accepted at <b>IEEE S&P</b> Workshop on Deep Learning and Security (DLS).</li>
