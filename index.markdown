@@ -109,6 +109,19 @@ layout: default
 				<p class="title">Cross-Lingual Security Analytics: Cyber Threat Detection in the International Dark Web with Adversarial Deep Representation Learning
 				<br><span class="author">M. Ebrahimi, Y. Chai, S. Samtani, H. Chen</span>
 				<br><span class="paper">Forthcoming in <i> MIS Quarterly (MISQ), 2022</i> </span></p>
+				<a class="button" href="#" onClick="return toggle('table1',7)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1',8)">BibTeX</a>
+				<a class="button3" href="publications/captcha.pdf" target="_blank">PDF</a>
+				<a class="button4" href="https://dl.acm.org/doi/abs/10.1145/3505226" target="_blank">ACM TMIS</a>
+			</td>
+		</tr>
+		<tr style="display: none">
+			<td>Automated monitoring of dark web (DW) platforms on a large scale is the first step toward developing proactive Cyber Threat Intelligence (CTI). While there are efficient methods for collecting data from the surface web, large-scale dark web data collection is often hindered by anti-crawling measures. In particular, text-based CAPTCHA serves as the most prevalent and prohibiting type of these measures in the dark web. Text-based CAPTCHA identifies and blocks automated crawlers by forcing the user to enter a combination of hard-to-recognize alphanumeric characters. In the dark web, CAPTCHA images are meticulously designed with additional background noise and variable character length to prevent automated CAPTCHA breaking. Existing automated CAPTCHA breaking methods have difficulties in overcoming these dark web challenges. As such, solving dark web text-based CAPTCHA has been relying heavily on human involvement, which is labor-intensive and time-consuming. In this study, we propose a novel framework for automated breaking of dark web CAPTCHA to facilitate dark web data collection. This framework encompasses a novel generative method to recognize dark web text-based CAPTCHA with noisy background and variable character length. To eliminate the need for human involvement, the proposed framework utilizes Generative Adversarial Network (GAN) to counteract dark web background noise and leverages an enhanced character segmentation algorithm to handle CAPTCHA images with variable character length. Our proposed framework, DW-GAN, was systematically evaluated on multiple dark web CAPTCHA testbeds. DW-GAN significantly outperformed the state-of-the-art benchmark methods on all datasets, achieving over 94.4% success rate on a carefully collected real-world dark web dataset. We further conducted a case study on an emergent Dark Net Marketplace (DNM) to demonstrate that DW-GAN eliminated human involvement by automatically solving CAPTCHA challenges with no more than three attempts. Our research enables the CTI community to develop advanced, large-scale dark web monitoring. We make DW-GAN code available to the community as an open-source tool in GitHub.</td>
+		</tr>
+		<tr style="display: none">
+			<td>@article{10.1145/3505226, author = {Zhang, Ning and Ebrahimi, Mohammadreza and Li, Weifeng and Chen, Hsinchun}, title = {Counteracting Dark Web Text-Based CAPTCHA with Generative Adversarial Learning for Proactive Cyber Threat Intelligence},
+				year = {2022}, issue_date = {June 2022}, publisher = {Association for Computing Machinery}, address = {New York, NY, USA}, volume = {13}, number = {2}, issn = {2158-656X}, url = {https://doi.org/10.1145/3505226},
+				doi = {10.1145/3505226}, journal = {ACM Trans. Manage. Inf. Syst.}, month = {mar}, articleno = {21}, numpages = {21}, keywords = {generative adversarial networks, dark web, Automated CAPTCHA breaking}}
 			</td>
 		</tr>
 		
@@ -118,8 +131,8 @@ layout: default
 				<p class="title">Semi-Supervised Cyber Threat Identification in Dark Net Markets: A Transductive and Deep Learning Approach
 				<br><span class="author">M. Ebrahimi, J. F. Nunamaker Jr., H. Chen</span>
 				<br><span class="paper"><i>JMIS, Taylor and Francis, 2020</i></span></p>
-				<a class="button" href="#" onClick="return toggle('table1',8)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1',9)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1',10)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1',11)">BibTeX</a>
 				<a class="button3" href="publications/SemiSupervisedCyberThreatIdentificationInDarkNetMarketsATransductiveAndDeepLearningApproach.pdf" target="_blank">PDF</a>
 				<a class="button4" href="https://www.tandfonline.com/doi/full/10.1080/07421222.2020.1790186" target="_blank">JMIS</a>
 			</td>
@@ -163,8 +176,8 @@ layout: default
 				<p class="title">Detecting Predatory Conversations in Social Media by Deep Convolutional Neural Networks
 				<br><span class="author">M. Ebrahimi, C. Y. Suen, O. Ormandjieva</span>
 				<br><span class="paper"><i>Digital Investigation, Elsevier</i>, 2016</span></p>
-				<a class="button" href="#" onClick="return toggle('table1',11)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1',12)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1',13)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1',14)">BibTeX</a>
 				<a class="button3" href="publications/DetectingPredatoryConversationsinSocialMediabyDeepConvolutionalNeuralNetworks_Ebrahimi.pdf" target="_blank">PDF</a>
 				<a class="button4" href="https://www.sciencedirect.com/science/article/pii/S1742287616300731" target="_blank">DI</a>
 			</td>
@@ -185,8 +198,8 @@ layout: default
 				<p class="title">Automated Identification of Child Abuse in Chat Rooms by Using Data Mining
 				<br><span class="author">M. Keyvanpour, M. Ebrahimi, N. G. Nayebi, O. Ormandjieva, C. Y. Suen</span>
 				<br><span class="paper"><i>Data Mining Trends and Applications in Criminal Science and Investigations, 2016</i></span></p>
-				<a class="button" href="#" onClick="return toggle('table1',14)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1',16)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1',16)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1',17)">BibTeX</a>
 				<a class="button3" href="publications/AutomatedIdentificationofChildAbuseinChatRoomsbyUsingDataMining_Ebrahimi.pdf" target="_blank">PDF</a>
 				<a class="button4" href="https://www.igi-global.com/chapter/automated-identification-of-child-abuse-in-chat-rooms-by-using-data-mining/157462" target="_blank">DI</a>				
 			</td>
@@ -208,8 +221,8 @@ layout: default
 				<p class="title">Designing Efficient ANN Classifiers for Matching Burglaries from Dwelling Houses
 				<br><span class="author">M. Keyvanpour, M. Ebrahimi, M. Javideh</span>
 				<br><span class="paper"><i>Applied Artificial Intelligence, Taylor and Francis, 2012</i></span></p>
-				<a class="button" href="#" onClick="return toggle('table1',17)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1',18)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1',19)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1',20)">BibTeX</a>
 				<a class="button3" href="publications/DesigningEfficientANNClassifiersforMatchingBurglariesfromDwellingHouses_Ebrahimi.pdf" target="_blank">PDF</a>
 				<a class="button4" href="https://www.tandfonline.com/doi/full/10.1080/08839514.2012.718227" target="_blank">AAI</a>
 			</td>
@@ -230,8 +243,8 @@ layout: default
 				<p class="title">A Hybrid Geospatial Data Clustering Method for Hotspot Analysis
 				<br><span class="author">M. Keyvanpour, M. Javideh, M. Ebrahimi</span>
 				<br><span class="paper"><i>Journal of Computer and Robotics, 2010</i></span></p>
-				<a class="button" href="#" onClick="return toggle('table1',20)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1',21)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1',22)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1',23)">BibTeX</a>
 				<a class="button3" href="publications/AHybridGeospatialDataClusteringMethodforHotspotAnalysis_Ebrahimi.pdf" target="_blank">PDF</a>
 				<a class="button4" href="http://www.qjcr.ir/article_616.html" target="_blank">JCR</a>
 			</td>
