@@ -22,9 +22,9 @@ layout: default
 		<li>Our paper, <a style="color:blue;text-decoration-line: underline;" href="publications/Heterogeneous_Domain_Adaptation_with_Adversarial_Neural_Representation_Learning_Experiments_on_E-Commerce_and_Cybersecurity.pdf"> "Heterogeneous Domain Adaptation with Deep Adversarial Representation Learning: Experiments on E-Commerce and Cybersecurity"</a> was accepted to <b>IEEE TPAMI</b> 2022.</li>
 		<li>Our paper, <a style="color:blue;text-decoration-line: underline;" href="https://dl.acm.org/doi/full/10.1145/3505226"> "Counteracting Dark Web Text-Based CAPTCHA with Generative Adversarial Learning for Proactive Cyber Threat Intelligence"</a> was accepted to <b>ACM TMIS</b> 2022.</li>
 		<li>My Ph.D. dissertation won the <b>ACM SIGMIS Doctoral Dissertation Award</b> 2021. </li>
-		<li>I received the <i>Best Reviewer Award</i> at Informs Data Science Workshop 2021.</li>
+		<li>I received the <b>Best Reviewer Award</b> at Informs Data Science Workshop 2021.</li>
 		<li>Our paper, "Single-Shot Black-Box Adversarial Attacks Against Malware Detectors: A Causal Language Model Approach" was accepted to <b>IEEE ISI</b> 2021.</li>
-		<li>Our paper on <a style="color:blue;text-decoration-line: underline;" href="https://arxiv.org/abs/2111.09415"> "Deep Learning-based Privacy Awareness" </a> received the <i> Best Paper Award</i> in <b>IEEE ISI</b> 2021.</li>
+		<li>Our paper on <a style="color:blue;text-decoration-line: underline;" href="https://arxiv.org/abs/2111.09415"> "Deep Learning-based Privacy Awareness" </a> received the <b> Best Paper Award</b> in <b>IEEE ISI</b> 2021.</li>
 		<li>I serve as <b>Program Committee (PC) Member</b> in IEEE S&P Workshop on Deep Learning and Security (DLS) 2022.</li>
 		<li>I serve as <b>Program Committee (PC) Member</b> in the Infroms Data Science Workshop 2021.</li>
 		<li>Our paper, on <a style="color:blue;text-decoration-line: underline;" href="https://ieeexplore.ieee.org/document/9474314"> "Binary Black-Box Attacks Against Static Malware Detectors with Reinforcement Learning in Discrete Action Spaces"</a> was accepted at <b>IEEE S&P</b> Workshop on Deep Learning and Security (DLS) 2021.</li>
