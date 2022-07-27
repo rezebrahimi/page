@@ -7,7 +7,7 @@ layout: default
 ---
 [//]: ## Biography
 <div class="wrapper" style="border-bottom: 1px solid $grey-color-light">
-	<p style="margin-top: -25px"><span style="font-weight: bold"><i>About me:</i> </span>I am an assistant professor at School of Information Systems and Management (SISM) at the University of South Florida. I received my PhD in Information Systems from the University of Arizona, where I was a research assistant at the Artifiical Intelligence (AI) Lab conducted by Regents’ Professor Hsinchun Chen. In 2016, I received my Master's in Computer Science from Concordia University in Montreal, Canada. My Ph.D. Thesis targets two interconnected research areas: Security of AI and AI for Security. My Master's thesis leveraged crime data mining to enhance juveniles' safety in cyberspace.</p>
+	<p style="margin-top: -25px"><span style="font-weight: bold"><i>About me:</i> </span>I am an assistant professor and the director of <a style="color:blue;text-decoration-line: underline;" href="https://star-ailab.github.io/"> Star-AI Lab</a> at School of Information Systems and Management (SISM) at the University of South Florida. I received my PhD in Information Systems from the University of Arizona, where I was a research assistant at the Artifiical Intelligence (AI) Lab conducted by Regents’ Professor Hsinchun Chen. In 2016, I received my Master's in Computer Science from Concordia University in Montreal, Canada. My Ph.D. Thesis targets two interconnected research areas: Security of AI and AI for Security. My Master's thesis leveraged crime data mining to enhance juveniles' safety in cyberspace.</p>
 	<p style="margin-bottom: 10px"><span style="font-weight: bold"><i>Research:</i> </span>My <!--current--> research interest is mainly focused on ML-enabled data analytics to make the online space safer<!--AI-enabled Cybersecurity (Security of AI and AI for Cybersecurity)--> using a wide range of statistical learning theories, including Transductive Learning, Transfer Learning, Adversarial Learning, and Deep Reinforcement Learning. 
 	My work has appeared at security conferences and workshops such as <b>IEEE ISI</b>, <b>IEEE Security & Privacy Workshops</b>, <b>AAAI RSEML Workshop</b>; in journals including <span style="font-style: italic"><b>IEEE TPAMI</b></span>, <span style="font-style: italic"><b>ACM TMIS</b></span>, <span style="font-style: italic"><b>Digital Forensics</b></span>, <span style="font-style: italic"><b>Applied Artificial Intelligence</b></span>, <span style="font-style: italic"><b>MIS Quarterly</b></span>, <span style="font-style: italic"><b>JMIS</b></span>; and, as a chapter in the book “Data Mining Trends and Applications in Criminal Science and Investigations.”</p>
 </div>
@@ -18,7 +18,7 @@ layout: default
 <p style="margin-top: -10px"><i>RECENT NEWS:</i></p>
 <div class="wrapper" style="border-bottom: 1px solid $black <!--$grey-color-->; border:4px; height:380px; overflow:auto;">
 	<ul class="awards" style="margin-bottom: -5px">
-		<li>I am a <b>Workshop Chair</b> in <a href="https://ml4cyber.github.io/22"> IEEE ICDM Workshop on Machine Learning for Cybersecurity (MLC)</a>, 2022</li>
+		<li>I am a <b>Workshop Chair</b> in <b>IEEE ICDM Workshop</b> on <a style="color:blue;text-decoration-line: underline;" href="https://ml4cyber.github.io/22/"> Machine Learning for Cybersecurity</a> (MLC), 2022. </li>
 		<li>Our paper, <a style="color:blue;text-decoration-line: underline;" href="publications/Heterogeneous_Domain_Adaptation_with_Adversarial_Neural_Representation_Learning_Experiments_on_E-Commerce_and_Cybersecurity.pdf"> "Heterogeneous Domain Adaptation with Deep Adversarial Representation Learning: Experiments on E-Commerce and Cybersecurity"</a> was accepted to <b>IEEE TPAMI</b> 2022.</li>
 		<li>Our paper, <a style="color:blue;text-decoration-line: underline;" href="https://dl.acm.org/doi/full/10.1145/3505226"> "Counteracting Dark Web Text-Based CAPTCHA with Generative Adversarial Learning for Proactive Cyber Threat Intelligence"</a> was accepted to <b>ACM TMIS</b> 2022.</li>
 		<li>My Ph.D. dissertation won the <b>ACM SIGMIS Doctoral Dissertation Award</b> 2021. </li>
@@ -289,13 +289,31 @@ layout: default
 	<tbody>
 			<tr>
 				<td>
+					<p class="title">Binary Black-Box Attacks Against Static Malware Detectors with Reinforcement Learning in Discrete Action Spaces
+					<br><span class="author">M. Ebrahimi, J. Pacheco, W. Li, J. Hu,H. Chen</span>
+					<br><span class="paper">IEEE S\&P Workshop on Deep Learning and Security (DLS), pp. 85-91, 2021</span></p>
+					<a class="button" href="#" onClick="return toggle('table3', 1)">Abstract</a>
+					<a class="button2" href="#" onClick="return toggle('table3', 2)">BibTeX</a>
+					<a class="button3" href="publications/Binary_Black-Box_Attacks_Against_Static_Malware_Detectors_with_Reinforcement_Learning_in_Discrete_Action_Spaces.pdf" target="_blank">PDF</a>
+					<a class="button4" href="https://ieeexplore.ieee.org/abstract/document/9474314" target="_blank">IEEE S\&PW'21</a>
+				</td>
+			</tr>
+			<tr style="display: none">
+				<td>Recent machine learning- and deep learning-based static malware detectors have shown breakthrough performance in identifying unseen malware variants. As a result, they are increasingly being adopted to lower the cost of dynamic malware analysis and manual signature identification. Despite their success, studies have shown that they can be vulnerable to adversarial malware attacks, in which an adversary modifies a known malware executable subtly to fool the malware detector into recognizing it as a benign file. Recent studies have shown that automatically crafting these adversarial malware variants at scale is beneficial to improve the robustness of malware detectors. For conciseness, we refer to this process as Adversarial Malware example Generation (AMG). Most AMG methods rely on prior knowledge about the architecture or parameters of the detector, which is not often available in practice. Moreover, the majority of these methods are restricted to additive modifications that append contents to the malware executable without modifying its original content. In this study, we offer a novel Reinforcement Learning (RL) method, AMG-VAC, which extends Variational Actor-Critic (VAC) to non-continuous action spaces where modifications are inherently discrete. We evaluate the evasion performance of the proposed AMG-VAC on two reputable machine learning-based malware detectors. While the proposed method outperforms extant non-RL and RL-based AMG methods by statistically significant margins, we show that the obtained evasive action sequences are useful in shedding light on malware detectors’ vulnerabilities.</td>
+			</tr>
+			<tr style="display: none">
+				<td>@INPROCEEDINGS{9474314,  author={Ebrahimi, Mohammadreza and Pacheco, Jason and Li, Weifeng and Hu, James Lee and Chen, Hsinchun},  booktitle={2021 IEEE Security and Privacy Workshops (SPW)},   title={Binary Black-Box Attacks Against Static Malware Detectors with Reinforcement Learning in Discrete Action Spaces},   year={2021},  volume={},  number={},  pages={85-91},  doi={10.1109/SPW53761.2021.00021}}
+				</td>
+			</tr>
+			<tr>
+				<td>
 					<p class="title">Binary Black-box Evasion Attacks Against Deep Learning-based Static Malware Detectors with Adversarial Byte-Level Language Model
 					<br><span class="author">M. Ebrahimi, N. Zhang, J. Hu, M. T. Raza,H. Chen</span>
 					<br><span class="paper">AAAI Conference on Artificial Intelligence, Workshop on Robust, Secure, and Efficient Machine Learning (RSEML), February 8-9, 2021</span></p>
-					<a class="button" href="#" onClick="return toggle('table3', 1)">Abstract</a>
-					<a class="button2" href="#" onClick="return toggle('table3', 2)">BibTeX</a>
+					<a class="button" href="#" onClick="return toggle('table3', 4)">Abstract</a>
+					<a class="button2" href="#" onClick="return toggle('table3', 5)">BibTeX</a>
 					<a class="button3" href="publications/Ebrahimi_MalRNN.pdf" target="_blank">PDF</a>
-					<a class="button4" href="https://arxiv.org/abs/2012.07994" target="_blank">AAAI RSEML'21 (DLS)</a>
+					<a class="button4" href="https://arxiv.org/abs/2012.07994" target="_blank">AAAI RSEML'21 </a>
 				</td>
 			</tr>
 			<tr style="display: none">
@@ -312,7 +330,7 @@ layout: default
 					<p class="title">Detecting Cyber Threats in Non-English Hacker Forums: An Adversarial Cross-Lingual Knowledge Transfer Approach
 					<br><span class="author">M. Ebrahimi, S. Samtani, Y. Chai, H. Chen</span>
 					<br><span class="paper">IEEE Symposium on Security and Privacy (IEEE S&P), Deep Learning and Security Workshop, San Francisco, May 2020.</span></p>
-					<a class="button" href="#" onClick="return toggle('table3', 4)">Abstract</a>
+					<a class="button" href="#" onClick="return toggle('table3', 7)">Abstract</a>
 					<a class="button3" href="publications/DetectingCyberThreatsinNonEnglishHackerForums_AnAdversarialCrossLingualKnowledgeTransferApproach_Ebrahimi.pdf" target="_blank">PDF</a>
 					<a class="button4" href="https://www.ieee-security.org/TC/SPW2020/DLS/" target="_blank">IEEE S&P'20 (DLS)</a>
 				</td>
@@ -325,8 +343,8 @@ layout: default
 					<p class="title">Detecting Cyber Threats in Non-English Dark Net Markets: A Cross-Lingual Transfer Learning Approach
 					<br><span class="author">M. Ebrahimi, Y. Chai, H. Zhang, H. Chen</span>
 					<br><span class="paper">IEEE International Conference on Intelligence and Security Informatics (ISI), pp. 85-90, Florida, US, IEEE, Nov. 8-10, 2018, (<span class="redText">Best Paper Award Runner-Up</span>).</span></p>
-					<a class="button" href="#" onClick="return toggle('table3', 6)">Abstract</a>
-					<a class="button2" href="#" onClick="return toggle('table3', 7)">BibTeX</a>
+					<a class="button" href="#" onClick="return toggle('table3', 9)">Abstract</a>
+					<a class="button2" href="#" onClick="return toggle('table3', 10)">BibTeX</a>
 					<a class="button3" href="publications/DetectingCyberThreatsinNonEnglishDarkNetMarkets_ACrossLingualTransferLearningApproach_Ebrahimi.pdf" target="_blank">PDF</a>
 					<a class="button4" href="https://ieeexplore.ieee.org/document/8587404" target="_blank">IEEE ISI'18</a>
 				</td>
@@ -346,8 +364,8 @@ layout: default
 					<p class="title">Recognizing Predatory Chat Documents using Semi-supervised Anomaly Detection
 					<br><span class="author">M. Ebrahimi, C. Y. Suen, O. Ormandjieva, A. Krzyzak</span>
 					<br><span class="paper">23rd Document Recognition Retrieval Conference (DRR 2016), pp. 1-9(9), San Francisco, CA, February 14-18, 2016.</span></p>
-					<a class="button" href="#" onClick="return toggle('table3', 9)">Abstract</a>
-					<a class="button2" href="#" onClick="return toggle('table3', 10)">BibTeX</a>
+					<a class="button" href="#" onClick="return toggle('table3', 12)">Abstract</a>
+					<a class="button2" href="#" onClick="return toggle('table3', 13)">BibTeX</a>
 					<a class="button3" href="publications/RecognizingPredatoryChatDocumentsusingSemisupervisedAnomalyDetection_Ebrahimi.pdf" target="_blank">PDF</a>
 					<a class="button4" href="https://www.ingentaconnect.com/content/ist/ei/2016/00002016/00000017/art00012;jsessionid=1qmzcvjihppcn.x-ic-live-03" target="_blank">DRR'16</a>
 				</td>
@@ -366,8 +384,8 @@ layout: default
 					<p class="title">Identifying High-Impact Opioid Products and Key Sellers in Dark Net Marketplaces: An Interpretable Text Analytics Approach
 					<br><span class="author">P. Du, M. Ebrahimi, N. Zhang, H. Chen, R. A. Brown and S. Samtani</span>
 					<br><span class="paper">IEEE International Conference on Intelligence and Security Informatics (ISI), pp. 110-115, Shenzhen, China, Jul. 1-3, 2019.</span></p>
-					<a class="button" href="#" onClick="return toggle('table3', 12)">Abstract</a>
-					<a class="button2" href="#" onClick="return toggle('table3', 13)">BibTeX</a>
+					<a class="button" href="#" onClick="return toggle('table3', 15)">Abstract</a>
+					<a class="button2" href="#" onClick="return toggle('table3', 16)">BibTeX</a>
 					<a class="button3" href="publications/IdentifyingHighImpactOpioidProducts&KeySellersinDarkNetMarketplaces_AnInterpretableTextAnalyticsApproach_Ebrahimi.pdf" target="_blank">PDF</a>
 					<a class="button4" href="https://ieeexplore.ieee.org/document/8823196" target="_blank">IEEE ISI'19</a>
 				</td>
@@ -387,8 +405,8 @@ layout: default
 					<p class="title">Dark-Net Ecosystem Cyber-Threat Intelligence (CTI) Tool
 					<br><span class="author">N. Arnold, M. Ebrahimi, N. Zhang, B. Lazarine, M. Patton, H. Chen, S. Samtani</span>
 					<br><span class="paper">IEEE International Conference on Intelligence and Security Informatics (ISI), pp. 92-97. Shenzhen, China, IEEE, Jul. 1-2, 2019.</span></p>
-					<a class="button" href="#" onClick="return toggle('table3', 14)">Abstract</a>
-					<a class="button2" href="#" onClick="return toggle('table3', 15)">BibTeX</a>
+					<a class="button" href="#" onClick="return toggle('table3', 17)">Abstract</a>
+					<a class="button2" href="#" onClick="return toggle('table3', 18)">BibTeX</a>
 					<a class="button3" href="publications/DarkNetEcosystemCyberThreatIntelligence(CTI)Tool_Ebrahimi.pdf" target="_blank">PDF</a>
 					<a class="button4" href="https://ieeexplore.ieee.org/abstract/document/8823501" target="_blank">IEEE ISI'19</a>
 				</td>
@@ -408,8 +426,8 @@ layout: default
 					<p class="title">Identifying, Collecting, and Presenting Hacker Community Data: Forums, IRC, Carding Shops, and DNMs
 					<br><span class="author">P. Du, N. Zhang, M. Ebrahimi et al.</span>
 					<br><span class="paper">IEEE International Conference on Intelligence and Security Informatics (ISI), pp. 70-75, Miami, FL, Nov. 8-10, 2018.</span></p>
-					<a class="button" href="#" onClick="return toggle('table3', 17)">Abstract</a>
-					<a class="button2" href="#" onClick="return toggle('table3', 18)">BibTeX</a>
+					<a class="button" href="#" onClick="return toggle('table3', 20)">Abstract</a>
+					<a class="button2" href="#" onClick="return toggle('table3', 21)">BibTeX</a>
 					<a class="button3" href="publications/Identifying,Collecting,andPresentingHackerCommunityData_Forums,IRC,CardingShops,andDNMs_Ebrahimi.pdf" target="_blank">PDF</a>
 					<a class="button4" href="http://isi18.azurewebsites.net/" target="_blank">IEEE ISI'18</a>
 				</td>
@@ -430,8 +448,8 @@ layout: default
 					<p class="title">Detecting and Investigating Crime by Means of Data Mining: A General Crime Matching Framework
 					<br><span class="author">M. Keyvanpour, M. Javideh, M. Ebrahimi</span>
 					<br><span class="paper">World Conference on Information Technology 2010, Procedia Computer Science, Volume 3, pp. 872-880, Edited by AdemKarahoca, Sezer, 2011.</span></p>
-					<a class="button" href="#" onClick="return toggle('table3', 20)">Abstract</a>
-					<a class="button2" href="#" onClick="return toggle('table3', 21)">BibTeX</a>
+					<a class="button" href="#" onClick="return toggle('table3', 23)">Abstract</a>
+					<a class="button2" href="#" onClick="return toggle('table3', 24)">BibTeX</a>
 					<a class="button3" href="publications/DetectingandInvestigatingCrimebyMeansofDataMining_AGeneralCrimeMatchingFramework_Ebrahimi.pdf" target="_blank">PDF</a>
 					<a class="button4" href="https://www.sciencedirect.com/science/article/pii/S1877050910005181" target="_blank">WorldCIST</a>
 				</td>
