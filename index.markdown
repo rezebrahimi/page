@@ -69,7 +69,7 @@ layout: default
 			<td>
 				<p class="title">Heterogeneous Domain Adaptation with Deep Adversarial Representation Learning: Experiments on E-Commerce and Cybersecurity
 				<br><span class="author">M. Ebrahimi, Y. Chai, H. Zhang, H. Chen</span>
-				<br><span class="paper"><i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022</i></span></p>
+				<br><span class="paper"><i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022 (forthcoming)</i></span></p>
 				<a class="button" href="#" onClick="return toggle('table1',1)">Abstract</a>
 				<a class="button2" href="#" onClick="return toggle('table1',2)">BibTeX</a>
 				<a class="button3" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9744510">PDF</a>
