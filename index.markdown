@@ -12,8 +12,8 @@ layout: default
 	My work has appeared at both cybersecurity and ML venues including 
 	<span style="font-style: italic"><b>IEEE TPAMI</b></span>,
 	<b>IEEE S&PW</b>,
-	<b>IEEE ISI</b>
-	<b>AAAI RSEML Workshop</b>		
+	<b>IEEE ISI</b>,
+	<b>AAAI RSEML</b>,	
 	<span style="font-style: italic"><b>Digital Forensics</b></span>,
 	<span style="font-style: italic"><b>Applied Artificial Intelligence</b></span>, as well as information systems journals such as
 	<span style="font-style: italic"><b>ACM TMIS</b></span>,
