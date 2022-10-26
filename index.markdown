@@ -9,7 +9,16 @@ layout: default
 <div class="wrapper" style="border-bottom: 1px solid $grey-color-light">
 	<p style="margin-top: -25px"><span style="font-weight: bold"><i>About me:</i> </span>I am an assistant professor and the director of <a style="color:blue;text-decoration-line: underline;" href="https://star-ailab.github.io/"> Star-AI Lab</a> at School of Information Systems and Management (SISM) at the University of South Florida. I received my PhD in Information Systems from the University of Arizona, where I was a research assistant at the Artifiical Intelligence (AI) Lab conducted by Regents’ Professor Hsinchun Chen. In 2016, I received my Master's in Computer Science from Concordia University in Montreal, Canada. My Ph.D. Thesis targets two interconnected research areas: Security of AI and AI for Security. My Master's thesis leveraged crime data mining to enhance juveniles' safety in cyberspace.</p>
 	<p style="margin-bottom: 10px"><span style="font-weight: bold"><i>Research:</i> </span>My <!--current--> research interest is focused on secure and trustworthy AI to make the online space safer<!--AI-enabled Cybersecurity (Security of AI and AI for Cybersecurity)--> using a wide range of statistical learning theories, including Transductive Learning, Transfer Learning, Adversarial Learning, and Deep Reinforcement Learning. 
-	My work has appeared at both cybersecurity and ML venues including **IEEE ISI**, <b>IEEE Security & Privacy Workshops</b>, <b>AAAI RSEML Workshop</b>; in journals including <span style="font-style: italic"><b>IEEE TPAMI</b></span>, <span style="font-style: italic"><b>ACM TMIS</b></span>, <span style="font-style: italic"><b>Digital Forensics</b></span>, <span style="font-style: italic"><b>Applied Artificial Intelligence</b></span>, <span style="font-style: italic"><b>MIS Quarterly</b></span>, <span style="font-style: italic"><b>JMIS</b></span>.</p>
+	My work has appeared at both cybersecurity and ML venues including 
+	<span style="font-style: italic"><b>IEEE TPAMI</b></span>,
+	<b>IEEE S&PW</b>,
+	<b>IEEE ISI</b>
+	<b>AAAI RSEML Workshop</b>		
+	<span style="font-style: italic"><b>Digital Forensics</b></span>,
+	<span style="font-style: italic"><b>Applied Artificial Intelligence</b></span>, as well as information systems journals such as
+	<span style="font-style: italic"><b>ACM TMIS</b></span>,
+	<span style="font-style: italic"> <b>MIS Quarterly</b></span>, and
+	<span style="font-style: italic"><b>JMIS</b></span>.</p>
 </div>
 
 <hr>
