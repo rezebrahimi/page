@@ -305,7 +305,7 @@ layout: default
 					<a class="button" href="#" onClick="return toggle('table3', 1)">Abstract</a>
 					<a class="button2" href="#" onClick="return toggle('table3', 2)">BibTeX</a>
 					<a class="button3" href="publications/Multiview_Defense.pdf" target="_blank">PDF</a>
-					<a class="button4" href="publications/Multiview_Defense.pdf" target" target="_blank">IEEE ICDM</a>
+					<a class="button4" href="publications/Multiview_Defense.pdf" target="_blank">IEEE ICDM</a>
 				</td>
 			</tr>
 			<tr style="display: none">
