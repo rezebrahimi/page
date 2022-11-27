@@ -68,7 +68,7 @@ layout: default
 </script> -->
 
 
-<h1 id="pubAnch">JOURNAL PUBLICATIONS & BOOK CHAPTERS</h1>
+[//]: # ###################### Publications ####################################
 <!--<i>SELECTED JOURNAL PUBLICATIONS & BOOK CHAPTERS</i>-->
 
 <table class="table" id="table1">
@@ -290,7 +290,7 @@ layout: default
 	</tbody>
 </table>-->
 
-[//]: # ###################### REFEREED CONFERENCE / Workshop PUBLICATIONS ####################################
+
 
 <h1 id="pubAnch">REFEREED CONFERENCE PUBLICATIONS</h1>
 <!--<i>REFEREED CONFERENCE PUBLICATIONS</i>-->
