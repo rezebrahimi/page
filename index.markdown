@@ -68,7 +68,7 @@ layout: default
 </script> -->
 
 
-[//]: # ###################### Publications ###################################
+<h1 id="pubAnch">PUBLICATIONS</h1>
 <!--<i>SELECTED JOURNAL PUBLICATIONS & BOOK CHAPTERS</i>-->
 
 <table class="table" id="table1">
