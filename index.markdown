@@ -303,7 +303,7 @@ layout: default
 			<td>
 				<p class="title">Automated PII Extraction from Social Media for Raising Privacy Awareness: A Deep Transfer Learning Approach
 				<br><span class="author">Y. Liu, FY. Lin, M. Ebrahimi, W. Li, H. Chen</span>
-				<br><span class="paper">IEEE International Conference on Intelligence and Security Informatics (ISI), pp. 1-6, 2021 (<span class="redText">Best Paper Award Runner-Up</span>).</span></p>
+				<br><span class="paper">IEEE International Conference on Intelligence and Security Informatics (ISI), pp. 1-6, 2021 (<span class="redText">Best Paper Award</span>).</span></p>
 				<a class="button" href="#" onClick="return toggle('table1', 31)">Abstract</a>
 				<a class="button2" href="#" onClick="return toggle('table1', 32)">BibTeX</a>
 				<a class="button3" href="https://arxiv.org/ftp/arxiv/papers/2111/2111.09415.pdf" target="_blank">PDF</a>
