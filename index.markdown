@@ -68,7 +68,7 @@ layout: default
 </script> -->
 
 
-[//]: # ###################### Publications ####################################
+[//]: # ###################### Publications ###################################
 <!--<i>SELECTED JOURNAL PUBLICATIONS & BOOK CHAPTERS</i>-->
 
 <table class="table" id="table1">
