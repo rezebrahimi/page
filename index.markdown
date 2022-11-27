@@ -203,6 +203,7 @@ layout: default
 		
 		
 		
+		
 		<tr>
 			<td>
 				<p class="title">Detecting Cyber Threats in Non-English Dark Net Markets: A Cross-Lingual Transfer Learning Approach
@@ -218,9 +219,10 @@ layout: default
 			<td>Recent advances in proactive cyber threat intelligence rely on early detection of cyber threats in hacker communities. Dark Net Markets (DNMs) are growing platforms in hacker community that provide hackers with highly-specialized tools and products which may not be found in other platforms. While text classification techniques have been used for cyber threat detection in English DNMs, the task is hindered in non-English platforms due to the language barrier and lack of ground-truth data. Current approaches use monolingual models on machine translated data to overcome these challenges. However, the translation errors can deteriorate the classification results. The abundance of data in English DNMs can be leveraged in learning non-English threats without using machine translation. In this study, we show that a deep cross-lingual model that can jointly learn the common language representation from two languages, significantly outperforms a monolingual model learned on machine translated data for identifying cyber threats in non-English DNMs. Unlike most studies, our approach does not require any external data source such as bilingual word embeddings or bilingual lexicons. Our experiments on Russian DNMs show that this approach can achieve better performance than state-of-the-art methods for non-English cyber threat detection in malicious hacker community.</td>
 		</tr>
 		<tr style="display: none">
-			<td>@INPROCEEDINGS{8587404,  author={Ebrahimi, Mohammadreza and Surdeanu, Mihai and Samtani, Sagar and Chen, Hsinchun},  booktitle={2018 IEEE International Conference on Intelligence and Security Informatics (ISI)},   title={Detecting Cyber Threats in Non-English Dark Net Markets: A Cross-Lingual Transfer Learning Approach},   year={2018},  volume={},  number={},  pages={85-90},  doi={10.1109/ISI.2018.8587404}}
+			<td>@INPROCEEDINGS{8587404, author={Ebrahimi, Mohammadreza and Surdeanu, Mihai and Samtani, Sagar and Chen, Hsinchun},  booktitle={2018 IEEE International Conference on Intelligence and Security Informatics (ISI)},   title={Detecting Cyber Threats in Non-English Dark Net Markets: A Cross-Lingual Transfer Learning Approach},   year={2018},  volume={},  number={},  pages={85-90},  doi={10.1109/ISI.2018.8587404}}
 			</td>
 		</tr>
+		
 		
 		
 		
@@ -247,11 +249,12 @@ layout: default
 		
 		
 		
+		
 		<tr>
 			<td>
 				<p class="title">Cross-Lingual Security Analytics: Cyber Threat Detection in the International Dark Web with Adversarial Deep Representation Learning
 				<br><span class="author">M. Ebrahimi, Y. Chai, S. Samtani, H. Chen</span>
-				<br><span class="paper">Forthcoming in <i> MIS Quarterly (MISQ), 2022</i> </span></p>
+				<br><span class="paper"><i> MIS Quarterly (MISQ), 2022</i> </span></p>
 				<a class="button" href="#" onClick="return toggle('table1',25)">Abstract</a>
 				<a class="button2" href="#" onClick="return toggle('table1',26)">BibTeX</a>
 				<a class="button3" href="publications/ADREL_Ebrahimi_et_al.pdf" target="_blank">PDF</a>
@@ -270,11 +273,12 @@ layout: default
 		
 		
 		
+		
 		<tr>
 			<td>
 				<p class="title">Semi-Supervised Cyber Threat Identification in Dark Net Markets: A Transductive and Deep Learning Approach
 				<br><span class="author">M. Ebrahimi, J. F. Nunamaker Jr., H. Chen</span>
-				<br><span class="paper"><i>JMIS, Taylor and Francis, 2020</i></span></p>
+				<br><span class="paper"><i>JMIS, 2020</i></span></p>
 				<a class="button" href="#" onClick="return toggle('table1',28)">Abstract</a>
 				<a class="button2" href="#" onClick="return toggle('table1',29)">BibTeX</a>
 				<a class="button3" href="publications/SemiSupervisedCyberThreatIdentificationInDarkNetMarketsATransductiveAndDeepLearningApproach.pdf" target="_blank">PDF</a>
@@ -293,13 +297,38 @@ layout: default
 		</tr>
 		
 		
+		
+		
+		<tr>
+			<td>
+				<p class="title">Automated PII Extraction from Social Media for Raising Privacy Awareness: A Deep Transfer Learning Approach
+				<br><span class="author">Y. Liu, FY. Lin, M. Ebrahimi, W. Li, H. Chen</span>
+				<br><span class="paper">IEEE International Conference on Intelligence and Security Informatics (ISI), pp. 1-6, 2021 (<span class="redText">Best Paper Award Runner-Up</span>).</span></p>
+				<a class="button" href="#" onClick="return toggle('table1', 31)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1', 32)">BibTeX</a>
+				<a class="button3" href="https://arxiv.org/ftp/arxiv/papers/2111/2111.09415.pdf" target="_blank">PDF</a>
+				<a class="button4" href="https://ieeexplore.ieee.org/abstract/document/9624678" target="_blank">IEEE ISI'21</a>
+			</td>
+			</tr>
+		<tr style="display: none">
+			<td>Internet users have been exposing an increasing amount of Personally Identifiable Information (PII) on social media. Such exposed PII can be exploited by cybercriminals and cause severe losses to the users. Informing users of their PII exposure in social media is crucial to raise their privacy awareness and encourage them to take protective measures. To this end, advanced techniques are needed to extract users’ exposed PII in social media automatically, whereas most existing studies remain manual. While Information Extraction (IE) techniques can be used to extract the PII automatically, Deep Learning (DL)-based IE models alleviate the need for feature engineering and further improve the efficiency. However, DL-based IE models often require large-scale labeled data for training, but PII-labeled social media posts are difficult to obtain due to privacy concerns. Also, these models rely heavily on pre-trained word embeddings, while PII in social media often varies in forms and thus has no fixed representations in pre-trained word embeddings. In this study, we propose the Deep Transfer Learning for PII Extraction (DTL-PIIE) framework to address these two limitations. DTL-PIIE transfers knowledge learned from publicly available PII data to social media in order to address the problem of rare PII-labeled data. Moreover, our framework leverages Graph Convolutional Networks (GCNs) to incorporate syntactic patterns to guide PIIE without relying on pre-trained word embeddings. Evaluation against benchmark IE models indicates that our approach outperforms state-of-the-art DL-based IE models. An ablation analysis further confirms the efficacy of each component in our model. Our proposed framework can facilitate various applications, such as PII misuse prediction and privacy risk assessment, thereby protecting the privacy of internet users.</td>
+		</tr>
+		<tr style="display: none">
+			<td>@INPROCEEDINGS{9624678,  author={Liu, Yizhi and Lin, Fang Yu and Ebrahimi, Mohammadreza and Li, Weifeng and Chen, Hsinchun},  booktitle={2021 IEEE International Conference on Intelligence and Security Informatics (ISI)},   title={Automated PII Extraction from Social Media for Raising Privacy Awareness: A Deep Transfer Learning Approach},   year={2021},  volume={},  number={},  pages={1-6},  doi={10.1109/ISI53945.2021.9624678}}
+			</td>
+		</tr>
+		
+		
+		
+		
+		
 		<tr>
 			<td>
 				<p class="title">Identifying High-Impact Opioid Products and Key Sellers in Dark Net Marketplaces: An Interpretable Text Analytics Approach
 				<br><span class="author">P. Du, M. Ebrahimi, N. Zhang, H. Chen, R. A. Brown and S. Samtani</span>
 				<br><span class="paper">IEEE International Conference on Intelligence and Security Informatics (ISI), pp. 110-115, Shenzhen, China, Jul. 1-3, 2019.</span></p>
-				<a class="button" href="#" onClick="return toggle('table1', 31)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1', 32)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1', 34)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1', 35)">BibTeX</a>
 				<a class="button3" href="publications/IdentifyingHighImpactOpioidProducts&KeySellersinDarkNetMarketplaces_AnInterpretableTextAnalyticsApproach_Ebrahimi.pdf" target="_blank">PDF</a>
 				<a class="button4" href="https://ieeexplore.ieee.org/document/8823196" target="_blank">IEEE ISI'19</a>
 			</td>
@@ -343,8 +372,8 @@ layout: default
 					<p class="title">Dark-Net Ecosystem Cyber-Threat Intelligence (CTI) Tool
 					<br><span class="author">N. Arnold, M. Ebrahimi, N. Zhang, B. Lazarine, M. Patton, H. Chen, S. Samtani</span>
 					<br><span class="paper">IEEE International Conference on Intelligence and Security Informatics (ISI), pp. 92-97. Shenzhen, China, IEEE, Jul. 1-2, 2019.</span></p>
-					<a class="button" href="#" onClick="return toggle('table1', 34)">Abstract</a>
-					<a class="button2" href="#" onClick="return toggle('table1', 35)">BibTeX</a>
+					<a class="button" href="#" onClick="return toggle('table1', 37)">Abstract</a>
+					<a class="button2" href="#" onClick="return toggle('table1', 38)">BibTeX</a>
 					<a class="button3" href="publications/DarkNetEcosystemCyberThreatIntelligence(CTI)Tool_Ebrahimi.pdf" target="_blank">PDF</a>
 					<a class="button4" href="https://ieeexplore.ieee.org/abstract/document/8823501" target="_blank">IEEE ISI'19</a>
 			</td>
@@ -367,8 +396,8 @@ layout: default
 				<p class="title">Identifying, Collecting, and Presenting Hacker Community Data: Forums, IRC, Carding Shops, and DNMs
 				<br><span class="author">P. Du, N. Zhang, M. Ebrahimi et al.</span>
 				<br><span class="paper">IEEE International Conference on Intelligence and Security Informatics (ISI), pp. 70-75, Miami, FL, Nov. 8-10, 2018.</span></p>
-				<a class="button" href="#" onClick="return toggle('table1', 37)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1', 38)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1', 40)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1', 41)">BibTeX</a>
 				<a class="button3" href="publications/Identifying,Collecting,andPresentingHackerCommunityData_Forums,IRC,CardingShops,andDNMs_Ebrahimi.pdf" target="_blank">PDF</a>
 				<a class="button4" href="http://isi18.azurewebsites.net/" target="_blank">IEEE ISI'18</a>
 			</td>
@@ -392,8 +421,8 @@ layout: default
 				<p class="title">Detecting Predatory Conversations in Social Media by Deep Convolutional Neural Networks
 				<br><span class="author">M. Ebrahimi, C. Y. Suen, O. Ormandjieva</span>
 				<br><span class="paper"><i>Digital Investigation, Elsevier</i>, 2016</span></p>
-				<a class="button" href="#" onClick="return toggle('table1',40)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1',41)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1',43)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1',44)">BibTeX</a>
 				<a class="button3" href="publications/DetectingPredatoryConversationsinSocialMediabyDeepConvolutionalNeuralNetworks_Ebrahimi.pdf" target="_blank">PDF</a>
 				<a class="button4" href="https://www.sciencedirect.com/science/article/pii/S1742287616300731" target="_blank">DI</a>
 			</td>
@@ -416,8 +445,8 @@ layout: default
 				<p class="title">Recognizing Predatory Chat Documents using Semi-supervised Anomaly Detection
 				<br><span class="author">M. Ebrahimi, C. Y. Suen, O. Ormandjieva, A. Krzyzak</span>
 				<br><span class="paper">23rd Document Recognition Retrieval Conference (DRR 2016), pp. 1-9(9), San Francisco, CA, February 14-18, 2016.</span></p>
-				<a class="button" href="#" onClick="return toggle('table1', 43)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1', 44)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1', 46)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1', 47)">BibTeX</a>
 				<a class="button3" href="publications/RecognizingPredatoryChatDocumentsusingSemisupervisedAnomalyDetection_Ebrahimi.pdf" target="_blank">PDF</a>
 				<a class="button4" href="https://www.ingentaconnect.com/content/ist/ei/2016/00002016/00000017/art00012;jsessionid=1qmzcvjihppcn.x-ic-live-03" target="_blank">DRR'16</a>
 			</td>
@@ -440,8 +469,8 @@ layout: default
 				<p class="title">Automatic Identification of Online Predators in Chat Logs by Anomaly Detection and Deep Learning
 				<br><span class="author">P. Du, N. Zhang, M. Ebrahimi et al.</span>
 				<br><span class="paper">Master's Thesis, Computer Science Department, Concordia University, Montreal 2016.</span></p>
-				<a class="button" href="#" onClick="return toggle('table1', 46)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1', 47)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1', 49)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1', 50)">BibTeX</a>
 				<a class="button3" href="publications/Ebrahimi_MSc_S2016.pdf" target="_blank">PDF</a>
 				<a class="button4" href="https://spectrum.library.concordia.ca/981404/" target="_blank">Thesis</a>					
 			</td>
@@ -467,8 +496,8 @@ layout: default
 				<p class="title">Automated Identification of Child Abuse in Chat Rooms by Using Data Mining
 				<br><span class="author">M. Keyvanpour, M. Ebrahimi, N. G. Nayebi, O. Ormandjieva, C. Y. Suen</span>
 				<br><span class="paper"><i>Data Mining Trends and Applications in Criminal Science and Investigations, 2016</i></span></p>
-				<a class="button" href="#" onClick="return toggle('table1',49)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1',50)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1',52)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1',53)">BibTeX</a>
 				<a class="button3" href="publications/AutomatedIdentificationofChildAbuseinChatRoomsbyUsingDataMining_Ebrahimi.pdf" target="_blank">PDF</a>
 				<a class="button4" href="https://www.igi-global.com/chapter/automated-identification-of-child-abuse-in-chat-rooms-by-using-data-mining/157462" target="_blank">Book</a>				
 			</td>
@@ -492,8 +521,8 @@ layout: default
 				<p class="title">Designing Efficient ANN Classifiers for Matching Burglaries from Dwelling Houses
 				<br><span class="author">M. Keyvanpour, M. Ebrahimi, M. Javideh</span>
 				<br><span class="paper"><i>Applied Artificial Intelligence, Taylor and Francis, 2012</i></span></p>
-				<a class="button" href="#" onClick="return toggle('table1',52)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1',53)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1',55)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1',56)">BibTeX</a>
 				<a class="button3" href="publications/DesigningEfficientANNClassifiersforMatchingBurglariesfromDwellingHouses_Ebrahimi.pdf" target="_blank">PDF</a>
 				<a class="button4" href="https://www.tandfonline.com/doi/full/10.1080/08839514.2012.718227" target="_blank">AAI</a>
 			</td>
@@ -516,8 +545,8 @@ layout: default
 				<p class="title">Detecting and Investigating Crime by Means of Data Mining: A General Crime Matching Framework
 				<br><span class="author">M. Keyvanpour, M. Javideh, M. Ebrahimi</span>
 				<br><span class="paper">World Conference on Information Technology 2010, Procedia Computer Science, Volume 3, pp. 872-880, Edited by AdemKarahoca, Sezer, 2011.</span></p>
-				<a class="button" href="#" onClick="return toggle('table1', 55)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1', 56)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1', 58)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1', 59)">BibTeX</a>
 				<a class="button3" href="publications/DetectingandInvestigatingCrimebyMeansofDataMining_AGeneralCrimeMatchingFramework_Ebrahimi.pdf" target="_blank">PDF</a>
 				<a class="button4" href="https://www.sciencedirect.com/science/article/pii/S1877050910005181" target="_blank">WorldCIST</a>
 			</td>
@@ -539,8 +568,8 @@ layout: default
 				<p class="title">A Hybrid Geospatial Data Clustering Method for Hotspot Analysis
 				<br><span class="author">M. Keyvanpour, M. Javideh, M. Ebrahimi</span>
 				<br><span class="paper"><i>Journal of Computer and Robotics, 2010</i></span></p>
-				<a class="button" href="#" onClick="return toggle('table1',58)">Abstract</a>
-				<a class="button2" href="#" onClick="return toggle('table1',59)">BibTeX</a>
+				<a class="button" href="#" onClick="return toggle('table1',61)">Abstract</a>
+				<a class="button2" href="#" onClick="return toggle('table1',62)">BibTeX</a>
 				<a class="button3" href="publications/AHybridGeospatialDataClusteringMethodforHotspotAnalysis_Ebrahimi.pdf" target="_blank">PDF</a>
 				<a class="button4" href="http://www.qjcr.ir/article_616.html" target="_blank">JCR</a>
 			</td>
