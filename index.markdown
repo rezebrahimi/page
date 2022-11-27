@@ -516,8 +516,6 @@ layout: default
 </table>
 
 [//]: # ###################### Thesis ####################################
-
-
 <i>MASTER'S THESIS</i>
 <table class="table" id="table4">
 	<tbody>
