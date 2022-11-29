@@ -120,11 +120,11 @@ layout: default
 			<td>
 				<p class="title">Binary Black-Box Attacks Against Static Malware Detectors with Reinforcement Learning in Discrete Action Spaces
 				<br><span class="author">M. Ebrahimi, J. Pacheco, W. Li, J. Hu,H. Chen</span>
-				<br><span class="paper">IEEE S\&P Workshop on Deep Learning and Security (DLS), pp. 85-91, 2021</span></p>
+				<br><span class="paper">IEEE S&P Workshop on Deep Learning and Security (DLS), pp. 85-91, 2021</span></p>
 				<a class="button" href="#" onClick="return toggle('table1', 7)">Abstract</a>
 				<a class="button2" href="#" onClick="return toggle('table1', 8)">BibTeX</a>
 				<a class="button3" href="publications/Binary_Black-Box_Attacks_Against_Static_Malware_Detectors_with_Reinforcement_Learning_in_Discrete_Action_Spaces.pdf" target="_blank">PDF</a>
-				<a class="button4" href="https://ieeexplore.ieee.org/abstract/document/9474314" target="_blank">IEEE S\&PW'21</a>
+				<a class="button4" href="https://ieeexplore.ieee.org/abstract/document/9474314" target="_blank">IEEE S&PW'21</a>
 			</td>
 		</tr>
 		<tr style="display: none">
