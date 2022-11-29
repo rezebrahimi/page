@@ -97,7 +97,7 @@ layout: default
 		
 		<tr>
 			<td>
-				<p class="title">"EW-Tune: A Framework for Privately Fine-Tuning Large Language Models with Differential Privacy
+				<p class="title">EW-Tune: A Framework for Privately Fine-Tuning Large Language Models with Differential Privacy
 				<br><span class="author">R. Behnia*, M. Ebrahimi*, J. Pacheco, B. Padmanabhan (* Equal contribution)</span>
 				<br><span class="paper">IEEE ICDM Workshop on Machine Learning for Cybersecurity, 2022 (Forthcoming)</span></p>
 				<a class="button" href="#" onClick="return toggle('table1', 4)">Abstract</a>
